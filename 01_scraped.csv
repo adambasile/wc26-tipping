@@ -1,0 +1,2598 @@
+name,player_id,stage,home,away,h_score,a_score
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Mexico,South Africa,3,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,South Korea,Czechia,1,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Czechia,South Africa,2,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Mexico,South Korea,1,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Czechia,Mexico,1,2
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,South Africa,South Korea,0,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Canada,Bosnia & Herz.,0,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Qatar,Switzerland,0,2
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Switzerland,Bosnia & Herz.,1,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Canada,Qatar,1,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Switzerland,Canada,1,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Bosnia & Herz.,Qatar,2,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Brazil,Morocco,2,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Haiti,Scotland,0,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Scotland,Morocco,0,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Brazil,Haiti,5,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Scotland,Brazil,0,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Morocco,Haiti,3,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,USA,Paraguay,2,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Australia,Türkiye,0,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,USA,Australia,1,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Türkiye,Paraguay,3,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Türkiye,USA,1,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Paraguay,Australia,1,2
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Germany,Curaçao,3,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Ivory Coast,Ecuador,2,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Germany,Ivory Coast,2,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Ecuador,Curaçao,1,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Curaçao,Ivory Coast,1,2
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Ecuador,Germany,1,3
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Netherlands,Japan,0,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Sweden,Tunisia,2,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Netherlands,Sweden,2,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Tunisia,Japan,1,2
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Japan,Sweden,1,2
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Tunisia,Netherlands,0,2
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Belgium,Egypt,2,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Iran,New Zealand,1,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Belgium,Iran,3,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,New Zealand,Egypt,0,2
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Egypt,Iran,2,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,New Zealand,Belgium,0,4
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Spain,Cape Verde,4,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Saudi Arabia,Uruguay,0,2
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Spain,Saudi Arabia,4,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Uruguay,Cape Verde,2,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Cape Verde,Saudi Arabia,1,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Uruguay,Spain,1,3
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,France,Senegal,3,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Iraq,Norway,0,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,France,Iraq,4,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Norway,Senegal,1,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Norway,France,0,2
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Senegal,Iraq,1,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Argentina,Algeria,2,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Austria,Jordan,1,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Argentina,Austria,2,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Jordan,Algeria,0,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Algeria,Austria,1,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Jordan,Argentina,0,3
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Portugal,DR Congo,2,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Uzbekistan,Colombia,1,2
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Portugal,Uzbekistan,3,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Colombia,DR Congo,2,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Colombia,Portugal,1,2
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,DR Congo,Uzbekistan,1,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,England,Croatia,2,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Ghana,Panama,1,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,England,Ghana,2,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Panama,Croatia,1,2
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Panama,England,1,3
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,group,Croatia,Ghana,2,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r32,South Korea,Bosnia & Herz.,1,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r32,Sweden,Morocco,1,2
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r32,Brazil,Netherlands,2,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r32,Germany,Canada,3,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r32,Ivory Coast,Norway,1,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r32,Mexico,Scotland,2,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r32,England,Senegal,2,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r32,USA,Japan,2,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r32,Belgium,Czechia,2,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r32,Colombia,Croatia,1,2
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r32,Spain,Algeria,3,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r32,Switzerland,Austria,1,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r32,Argentina,Uruguay,2,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r32,Portugal,Ghana,3,0
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r32,Türkiye,Egypt,2,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r32,France,Australia,3,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r16,Germany,France,1,2
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r16,South Korea,Morocco,1,2
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r16,Brazil,Ivory Coast,2,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r16,Mexico,England,1,3
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r16,Croatia,Spain,1,2
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r16,USA,Belgium,2,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r16,Argentina,Türkiye,2,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,r16,Switzerland,Portugal,1,2
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,quarter,France,Morocco,2,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,quarter,Spain,USA,2,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,quarter,Brazil,England,1,2
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,quarter,Argentina,Portugal,1,2
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,semi,France,Spain,2,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,semi,England,Portugal,2,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,final,France,England,0,1
+Kuba,62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,third,Spain,Portugal,2,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Mexico,South Africa,2,0
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,South Korea,Czechia,2,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Czechia,South Africa,1,0
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Mexico,South Korea,3,2
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Czechia,Mexico,1,4
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,South Africa,South Korea,0,3
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Canada,Bosnia & Herz.,2,2
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Qatar,Switzerland,0,4
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Switzerland,Bosnia & Herz.,2,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Canada,Qatar,5,0
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Switzerland,Canada,1,2
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Bosnia & Herz.,Qatar,4,0
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Brazil,Morocco,3,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Haiti,Scotland,1,4
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Scotland,Morocco,1,2
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Brazil,Haiti,7,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Scotland,Brazil,1,3
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Morocco,Haiti,4,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,USA,Paraguay,2,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Australia,Türkiye,2,2
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,USA,Australia,0,0
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Türkiye,Paraguay,2,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Türkiye,USA,1,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Paraguay,Australia,1,2
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Germany,Curaçao,3,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Ivory Coast,Ecuador,2,3
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Germany,Ivory Coast,4,0
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Ecuador,Curaçao,3,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Curaçao,Ivory Coast,3,6
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Ecuador,Germany,0,3
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Netherlands,Japan,2,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Sweden,Tunisia,3,2
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Netherlands,Sweden,3,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Tunisia,Japan,0,2
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Japan,Sweden,2,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Tunisia,Netherlands,0,3
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Belgium,Egypt,3,0
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Iran,New Zealand,1,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Belgium,Iran,3,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,New Zealand,Egypt,0,2
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Egypt,Iran,1,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,New Zealand,Belgium,1,7
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Spain,Cape Verde,4,0
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Saudi Arabia,Uruguay,0,3
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Spain,Saudi Arabia,4,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Uruguay,Cape Verde,3,0
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Cape Verde,Saudi Arabia,1,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Uruguay,Spain,2,4
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,France,Senegal,3,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Iraq,Norway,0,4
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,France,Iraq,3,0
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Norway,Senegal,2,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Norway,France,1,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Senegal,Iraq,4,3
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Argentina,Algeria,3,2
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Austria,Jordan,3,0
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Argentina,Austria,2,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Jordan,Algeria,0,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Algeria,Austria,2,2
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Jordan,Argentina,0,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Portugal,DR Congo,2,0
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Uzbekistan,Colombia,0,3
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Portugal,Uzbekistan,2,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Colombia,DR Congo,3,0
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Colombia,Portugal,0,0
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,DR Congo,Uzbekistan,2,2
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,England,Croatia,2,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Ghana,Panama,2,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,England,Ghana,3,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Panama,Croatia,0,2
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Panama,England,0,3
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,group,Croatia,Ghana,2,0
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r32,South Korea,Switzerland,2,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r32,Netherlands,Morocco,3,0
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r32,Brazil,Japan,2,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r32,Germany,Bosnia & Herz.,3,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r32,Ecuador,Norway,2,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r32,Mexico,Scotland,3,2
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r32,England,Ivory Coast,2,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r32,Türkiye,Sweden,0,2
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r32,Belgium,Czechia,3,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r32,Portugal,Croatia,2,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r32,Spain,Austria,4,2
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r32,Canada,Algeria,1,0
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r32,Argentina,Uruguay,3,2
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r32,Colombia,Senegal,4,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r32,Australia,Egypt,2,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r32,France,USA,4,0
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r16,Germany,France,2,0
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r16,South Korea,Netherlands,1,2
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r16,Brazil,Ecuador,2,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r16,Mexico,England,3,4
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r16,Portugal,Spain,0,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r16,Sweden,Belgium,0,2
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r16,Argentina,Australia,2,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,r16,Canada,Colombia,0,2
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,quarter,Germany,Netherlands,0,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,quarter,Spain,Belgium,1,0
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,quarter,Brazil,England,2,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,quarter,Argentina,Colombia,2,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,semi,Netherlands,Spain,0,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,semi,Brazil,Argentina,0,1
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,final,Spain,Argentina,1,0
+Adam B,dccdfaa8-597a-487a-bef5-f647b229c99e,third,Netherlands,Brazil,1,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Mexico,South Africa,2,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,South Korea,Czechia,2,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Czechia,South Africa,3,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Mexico,South Korea,1,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Czechia,Mexico,1,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,South Africa,South Korea,0,2
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Canada,Bosnia & Herz.,1,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Qatar,Switzerland,0,2
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Switzerland,Bosnia & Herz.,2,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Canada,Qatar,1,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Switzerland,Canada,2,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Bosnia & Herz.,Qatar,1,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Brazil,Morocco,2,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Haiti,Scotland,0,4
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Scotland,Morocco,2,2
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Brazil,Haiti,4,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Scotland,Brazil,1,4
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Morocco,Haiti,3,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,USA,Paraguay,1,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Australia,Türkiye,2,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,USA,Australia,1,2
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Türkiye,Paraguay,3,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Türkiye,USA,1,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Paraguay,Australia,0,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Germany,Curaçao,5,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Ivory Coast,Ecuador,1,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Germany,Ivory Coast,2,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Ecuador,Curaçao,1,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Curaçao,Ivory Coast,0,2
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Ecuador,Germany,1,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Netherlands,Japan,1,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Sweden,Tunisia,1,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Netherlands,Sweden,2,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Tunisia,Japan,0,2
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Japan,Sweden,1,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Tunisia,Netherlands,0,3
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Belgium,Egypt,3,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Iran,New Zealand,2,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Belgium,Iran,2,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,New Zealand,Egypt,0,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Egypt,Iran,0,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,New Zealand,Belgium,0,3
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Spain,Cape Verde,5,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Saudi Arabia,Uruguay,2,2
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Spain,Saudi Arabia,1,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Uruguay,Cape Verde,4,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Cape Verde,Saudi Arabia,0,2
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Uruguay,Spain,0,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,France,Senegal,1,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Iraq,Norway,0,2
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,France,Iraq,3,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Norway,Senegal,1,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Norway,France,0,2
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Senegal,Iraq,1,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Argentina,Algeria,2,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Austria,Jordan,1,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Argentina,Austria,3,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Jordan,Algeria,1,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Algeria,Austria,1,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Jordan,Argentina,0,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Portugal,DR Congo,4,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Uzbekistan,Colombia,0,2
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Portugal,Uzbekistan,2,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Colombia,DR Congo,3,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Colombia,Portugal,1,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,DR Congo,Uzbekistan,0,2
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,England,Croatia,1,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Ghana,Panama,3,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,England,Ghana,2,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Panama,Croatia,0,2
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Panama,England,0,4
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,group,Croatia,Ghana,2,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r32,South Korea,Canada,2,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r32,Netherlands,Scotland,4,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r32,Brazil,Japan,1,2
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r32,Germany,Morocco,2,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r32,Ecuador,Norway,0,2
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r32,Mexico,Saudi Arabia,0,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r32,England,Uzbekistan,3,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r32,Australia,Sweden,1,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r32,Belgium,Czechia,2,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r32,Colombia,Croatia,0,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r32,Spain,Austria,2,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r32,Switzerland,Ivory Coast,2,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r32,Argentina,Uruguay,2,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r32,Portugal,Ghana,2,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r32,Türkiye,Iran,1,2
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r32,France,USA,4,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r16,Germany,France,1,2
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r16,South Korea,Netherlands,0,2
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r16,Japan,Norway,2,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r16,Saudi Arabia,England,0,3
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r16,Croatia,Spain,1,2
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r16,Australia,Belgium,0,2
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r16,Argentina,Iran,4,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,r16,Switzerland,Portugal,2,3
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,quarter,France,Netherlands,1,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,quarter,Spain,Belgium,1,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,quarter,Japan,England,0,1
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,quarter,Argentina,Portugal,1,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,semi,France,Spain,1,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,semi,England,Argentina,1,0
+Dan,0715a45d-7714-4c5d-8ff7-6876d798ad2e,final,France,England,1,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Mexico,South Africa,2,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,South Korea,Czechia,1,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Czechia,South Africa,1,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Mexico,South Korea,3,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Czechia,Mexico,2,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,South Africa,South Korea,0,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Canada,Bosnia & Herz.,0,3
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Qatar,Switzerland,2,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Switzerland,Bosnia & Herz.,1,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Canada,Qatar,2,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Switzerland,Canada,3,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Bosnia & Herz.,Qatar,2,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Brazil,Morocco,2,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Haiti,Scotland,0,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Scotland,Morocco,0,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Brazil,Haiti,4,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Scotland,Brazil,0,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Morocco,Haiti,3,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,USA,Paraguay,2,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Australia,Türkiye,0,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,USA,Australia,1,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Türkiye,Paraguay,1,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Türkiye,USA,2,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Paraguay,Australia,1,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Germany,Curaçao,4,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Ivory Coast,Ecuador,2,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Germany,Ivory Coast,2,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Ecuador,Curaçao,1,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Curaçao,Ivory Coast,0,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Ecuador,Germany,0,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Netherlands,Japan,1,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Sweden,Tunisia,1,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Netherlands,Sweden,1,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Tunisia,Japan,0,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Japan,Sweden,1,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Tunisia,Netherlands,0,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Belgium,Egypt,3,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Iran,New Zealand,1,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Belgium,Iran,3,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,New Zealand,Egypt,0,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Egypt,Iran,1,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,New Zealand,Belgium,0,4
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Spain,Cape Verde,3,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Saudi Arabia,Uruguay,0,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Spain,Saudi Arabia,3,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Uruguay,Cape Verde,2,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Cape Verde,Saudi Arabia,0,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Uruguay,Spain,1,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,France,Senegal,2,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Iraq,Norway,0,3
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,France,Iraq,3,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Norway,Senegal,2,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Norway,France,1,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Senegal,Iraq,3,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Argentina,Algeria,2,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Austria,Jordan,1,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Argentina,Austria,3,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Jordan,Algeria,1,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Algeria,Austria,1,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Jordan,Argentina,0,4
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Portugal,DR Congo,3,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Uzbekistan,Colombia,0,5
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Portugal,Uzbekistan,6,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Colombia,DR Congo,3,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Colombia,Portugal,2,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,DR Congo,Uzbekistan,1,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,England,Croatia,2,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Ghana,Panama,1,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,England,Ghana,3,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Panama,Croatia,1,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Panama,England,0,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,group,Croatia,Ghana,3,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r32,Czechia,Switzerland,1,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r32,Japan,Morocco,3,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r32,Brazil,Netherlands,2,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r32,Germany,Canada,3,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r32,Ivory Coast,Norway,0,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r32,Mexico,Scotland,2,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r32,England,DR Congo,3,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r32,Türkiye,Senegal,3,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r32,Belgium,South Korea,2,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r32,Colombia,Croatia,1,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r32,Spain,Algeria,4,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r32,Bosnia & Herz.,Austria,0,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r32,Argentina,Uruguay,3,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r32,Portugal,Ecuador,2,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r32,USA,Egypt,2,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r32,France,Saudi Arabia,4,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r16,Germany,France,0,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r16,Switzerland,Japan,1,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r16,Brazil,Norway,3,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r16,Mexico,England,0,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r16,Colombia,Spain,1,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r16,Türkiye,Belgium,1,3
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r16,Argentina,USA,1,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,r16,Austria,Portugal,0,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,quarter,France,Japan,3,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,quarter,Spain,Belgium,2,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,quarter,Brazil,England,3,4
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,quarter,Argentina,Portugal,2,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,semi,France,Spain,3,2
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,semi,England,Argentina,2,1
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,final,France,England,1,0
+Jon,234def4c-c0b8-4b02-add2-b6978dbafd07,third,Spain,Argentina,2,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Mexico,South Africa,1,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,South Korea,Czechia,1,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Czechia,South Africa,2,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Mexico,South Korea,1,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Czechia,Mexico,1,2
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,South Africa,South Korea,1,2
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Canada,Bosnia & Herz.,1,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Qatar,Switzerland,0,2
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Switzerland,Bosnia & Herz.,2,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Canada,Qatar,1,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Switzerland,Canada,2,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Bosnia & Herz.,Qatar,1,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Brazil,Morocco,2,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Haiti,Scotland,0,3
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Scotland,Morocco,1,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Brazil,Haiti,5,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Scotland,Brazil,0,2
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Morocco,Haiti,3,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,USA,Paraguay,0,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Australia,Türkiye,1,3
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,USA,Australia,1,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Türkiye,Paraguay,2,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Türkiye,USA,1,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Paraguay,Australia,1,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Germany,Curaçao,5,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Ivory Coast,Ecuador,2,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Germany,Ivory Coast,1,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Ecuador,Curaçao,4,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Curaçao,Ivory Coast,0,4
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Ecuador,Germany,0,2
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Netherlands,Japan,1,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Sweden,Tunisia,2,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Netherlands,Sweden,1,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Tunisia,Japan,0,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Japan,Sweden,0,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Tunisia,Netherlands,0,2
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Belgium,Egypt,1,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Iran,New Zealand,0,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Belgium,Iran,5,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,New Zealand,Egypt,0,2
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Egypt,Iran,2,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,New Zealand,Belgium,0,3
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Spain,Cape Verde,8,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Saudi Arabia,Uruguay,1,2
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Spain,Saudi Arabia,4,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Uruguay,Cape Verde,5,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Cape Verde,Saudi Arabia,1,2
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Uruguay,Spain,1,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,France,Senegal,2,2
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Iraq,Norway,0,5
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,France,Iraq,4,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Norway,Senegal,2,2
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Norway,France,1,3
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Senegal,Iraq,4,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Argentina,Algeria,2,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Austria,Jordan,2,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Argentina,Austria,2,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Jordan,Algeria,0,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Algeria,Austria,0,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Jordan,Argentina,0,4
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Portugal,DR Congo,4,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Uzbekistan,Colombia,0,2
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Portugal,Uzbekistan,3,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Colombia,DR Congo,2,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Colombia,Portugal,1,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,DR Congo,Uzbekistan,0,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,England,Croatia,1,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Ghana,Panama,2,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,England,Ghana,1,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Panama,Croatia,0,2
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Panama,England,0,2
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,group,Croatia,Ghana,0,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r32,South Korea,Canada,1,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r32,Netherlands,Morocco,2,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r32,Brazil,Japan,0,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r32,Germany,Bosnia & Herz.,2,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r32,Ivory Coast,Senegal,0,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r32,Mexico,Scotland,1,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r32,Ghana,Ecuador,2,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r32,Türkiye,Algeria,2,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r32,Belgium,Czechia,1,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r32,Colombia,England,1,2
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r32,Spain,Austria,3,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r32,Switzerland,Norway,0,2
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r32,Argentina,Uruguay,2,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r32,Portugal,Croatia,2,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r32,USA,Egypt,0,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r32,France,Sweden,3,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r16,Germany,France,1,2
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r16,South Korea,Netherlands,0,2
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r16,Japan,Senegal,0,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r16,Mexico,Ghana,0,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r16,England,Spain,0,3
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r16,Türkiye,Belgium,1,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r16,Argentina,Egypt,2,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,r16,Norway,Portugal,1,2
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,quarter,France,Netherlands,2,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,quarter,Spain,Türkiye,3,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,quarter,Senegal,Ghana,2,0
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,quarter,Argentina,Portugal,2,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,semi,France,Spain,3,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,semi,Senegal,Argentina,0,2
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,final,France,Argentina,2,1
+Smith,d82eb5e8-aef3-45a8-8304-f011c09d58e8,third,Spain,Senegal,2,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Mexico,South Africa,2,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,South Korea,Czechia,1,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Czechia,South Africa,2,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Mexico,South Korea,2,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Czechia,Mexico,1,2
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,South Africa,South Korea,1,2
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Canada,Bosnia & Herz.,2,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Qatar,Switzerland,0,2
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Switzerland,Bosnia & Herz.,2,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Canada,Qatar,1,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Switzerland,Canada,1,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Bosnia & Herz.,Qatar,0,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Brazil,Morocco,0,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Haiti,Scotland,1,2
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Scotland,Morocco,0,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Brazil,Haiti,3,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Scotland,Brazil,0,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Morocco,Haiti,2,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,USA,Paraguay,2,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Australia,Türkiye,1,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,USA,Australia,1,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Türkiye,Paraguay,1,2
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Türkiye,USA,2,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Paraguay,Australia,1,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Germany,Curaçao,5,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Ivory Coast,Ecuador,0,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Germany,Ivory Coast,3,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Ecuador,Curaçao,2,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Curaçao,Ivory Coast,1,3
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Ecuador,Germany,1,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Netherlands,Japan,1,2
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Sweden,Tunisia,2,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Netherlands,Sweden,2,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Tunisia,Japan,0,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Japan,Sweden,1,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Tunisia,Netherlands,0,3
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Belgium,Egypt,2,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Iran,New Zealand,1,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Belgium,Iran,1,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,New Zealand,Egypt,2,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Egypt,Iran,0,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,New Zealand,Belgium,1,2
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Spain,Cape Verde,5,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Saudi Arabia,Uruguay,0,2
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Spain,Saudi Arabia,3,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Uruguay,Cape Verde,3,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Cape Verde,Saudi Arabia,2,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Uruguay,Spain,1,2
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,France,Senegal,2,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Iraq,Norway,0,2
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,France,Iraq,3,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Norway,Senegal,1,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Norway,France,1,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Senegal,Iraq,3,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Argentina,Algeria,1,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Austria,Jordan,3,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Argentina,Austria,2,2
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Jordan,Algeria,1,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Algeria,Austria,1,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Jordan,Argentina,0,3
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Portugal,DR Congo,3,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Uzbekistan,Colombia,0,2
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Portugal,Uzbekistan,3,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Colombia,DR Congo,2,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Colombia,Portugal,1,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,DR Congo,Uzbekistan,2,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,England,Croatia,3,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Ghana,Panama,1,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,England,Ghana,2,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Panama,Croatia,0,2
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Panama,England,0,3
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,group,Croatia,Ghana,2,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r32,Czechia,Canada,1,2
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r32,Japan,Brazil,2,3
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r32,Morocco,Netherlands,1,2
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r32,Germany,Paraguay,2,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r32,Ecuador,Norway,1,2
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r32,Mexico,Scotland,1,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r32,England,Senegal,2,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r32,USA,Ivory Coast,2,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r32,Belgium,South Korea,2,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r32,Colombia,Croatia,0,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r32,Spain,Austria,3,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r32,Switzerland,Iran,2,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r32,Argentina,Uruguay,1,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r32,Portugal,Ghana,1,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r32,Türkiye,New Zealand,2,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r32,France,Sweden,3,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r16,Germany,France,1,2
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r16,Canada,Brazil,1,2
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r16,Netherlands,Norway,2,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r16,Mexico,England,1,2
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r16,Croatia,Spain,1,3
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r16,USA,Belgium,1,2
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r16,Argentina,Türkiye,2,0
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,r16,Switzerland,Portugal,1,2
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,quarter,France,Brazil,2,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,quarter,Spain,Belgium,2,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,quarter,Netherlands,England,2,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,quarter,Argentina,Portugal,2,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,semi,France,Spain,2,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,semi,Netherlands,Argentina,1,2
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,final,France,Argentina,2,1
+Claude (AI),bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,third,Spain,Netherlands,2,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Mexico,South Africa,3,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,South Korea,Czechia,1,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Czechia,South Africa,1,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Mexico,South Korea,2,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Czechia,Mexico,2,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,South Africa,South Korea,1,3
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Canada,Bosnia & Herz.,2,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Qatar,Switzerland,0,2
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Switzerland,Bosnia & Herz.,1,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Canada,Qatar,1,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Switzerland,Canada,1,2
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Bosnia & Herz.,Qatar,2,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Brazil,Morocco,2,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Haiti,Scotland,0,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Scotland,Morocco,0,2
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Brazil,Haiti,3,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Scotland,Brazil,0,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Morocco,Haiti,2,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,USA,Paraguay,2,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Australia,Türkiye,1,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,USA,Australia,1,2
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Türkiye,Paraguay,2,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Türkiye,USA,1,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Paraguay,Australia,1,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Germany,Curaçao,3,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Ivory Coast,Ecuador,2,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Germany,Ivory Coast,2,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Ecuador,Curaçao,1,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Curaçao,Ivory Coast,0,3
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Ecuador,Germany,1,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Netherlands,Japan,2,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Sweden,Tunisia,1,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Netherlands,Sweden,2,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Tunisia,Japan,1,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Japan,Sweden,2,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Tunisia,Netherlands,0,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Belgium,Egypt,1,2
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Iran,New Zealand,1,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Belgium,Iran,2,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,New Zealand,Egypt,0,2
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Egypt,Iran,1,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,New Zealand,Belgium,0,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Spain,Cape Verde,3,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Saudi Arabia,Uruguay,0,2
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Spain,Saudi Arabia,2,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Uruguay,Cape Verde,1,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Cape Verde,Saudi Arabia,1,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Uruguay,Spain,2,2
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,France,Senegal,2,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Iraq,Norway,0,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,France,Iraq,2,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Norway,Senegal,1,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Norway,France,2,2
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Senegal,Iraq,1,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Argentina,Algeria,3,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Austria,Jordan,2,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Argentina,Austria,1,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Jordan,Algeria,1,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Algeria,Austria,1,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Jordan,Argentina,0,3
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Portugal,DR Congo,3,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Uzbekistan,Colombia,1,2
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Portugal,Uzbekistan,2,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Colombia,DR Congo,1,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Colombia,Portugal,1,3
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,DR Congo,Uzbekistan,1,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,England,Croatia,1,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Ghana,Panama,2,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,England,Ghana,3,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Panama,Croatia,0,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Panama,England,0,3
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,group,Croatia,Ghana,1,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r32,Mexico,Switzerland,2,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r32,Netherlands,Morocco,1,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r32,Brazil,Japan,2,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r32,Germany,South Korea,2,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r32,Ivory Coast,Norway,1,2
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r32,Czechia,Scotland,1,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r32,England,Ecuador,2,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r32,Türkiye,Bosnia & Herz.,1,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r32,Egypt,Senegal,1,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r32,Colombia,Croatia,2,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r32,Spain,Austria,2,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r32,Canada,Sweden,0,2
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r32,Argentina,Uruguay,2,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r32,Portugal,Ghana,2,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r32,Australia,Belgium,0,2
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r32,France,USA,3,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r16,Germany,France,0,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r16,Mexico,Netherlands,1,2
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r16,Brazil,Norway,1,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r16,Czechia,England,1,3
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r16,Colombia,Spain,0,2
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r16,Türkiye,Egypt,1,2
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r16,Argentina,Belgium,2,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,r16,Sweden,Portugal,1,3
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,quarter,France,Netherlands,2,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,quarter,Spain,Egypt,3,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,quarter,Brazil,England,1,2
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,quarter,Argentina,Portugal,2,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,semi,France,Spain,1,2
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,semi,England,Argentina,1,0
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,final,Spain,England,0,1
+Doug,f39f9959-db27-4eef-a7ae-134ef81039e7,third,France,Argentina,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Mexico,South Africa,2,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,South Korea,Czechia,1,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Czechia,South Africa,2,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Mexico,South Korea,1,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Czechia,Mexico,1,2
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,South Africa,South Korea,0,4
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Canada,Bosnia & Herz.,0,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Qatar,Switzerland,1,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Switzerland,Bosnia & Herz.,2,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Canada,Qatar,0,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Switzerland,Canada,2,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Bosnia & Herz.,Qatar,1,2
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Brazil,Morocco,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Haiti,Scotland,0,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Scotland,Morocco,0,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Brazil,Haiti,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Scotland,Brazil,0,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Morocco,Haiti,2,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,USA,Paraguay,2,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Australia,Türkiye,1,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,USA,Australia,2,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Türkiye,Paraguay,2,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Türkiye,USA,0,2
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Paraguay,Australia,1,2
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Germany,Curaçao,2,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Ivory Coast,Ecuador,0,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Germany,Ivory Coast,2,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Ecuador,Curaçao,2,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Curaçao,Ivory Coast,0,2
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Ecuador,Germany,0,2
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Netherlands,Japan,2,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Sweden,Tunisia,1,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Netherlands,Sweden,2,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Tunisia,Japan,1,2
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Japan,Sweden,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Tunisia,Netherlands,0,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Belgium,Egypt,2,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Iran,New Zealand,1,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Belgium,Iran,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,New Zealand,Egypt,0,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Egypt,Iran,1,2
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,New Zealand,Belgium,0,2
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Spain,Cape Verde,2,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Saudi Arabia,Uruguay,1,2
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Spain,Saudi Arabia,2,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Uruguay,Cape Verde,2,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Cape Verde,Saudi Arabia,0,2
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Uruguay,Spain,1,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,France,Senegal,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Iraq,Norway,1,2
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,France,Iraq,2,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Norway,Senegal,1,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Norway,France,1,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Senegal,Iraq,1,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Argentina,Algeria,2,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Austria,Jordan,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Argentina,Austria,1,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Jordan,Algeria,1,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Algeria,Austria,1,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Jordan,Argentina,0,2
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Portugal,DR Congo,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Uzbekistan,Colombia,0,2
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Portugal,Uzbekistan,1,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Colombia,DR Congo,2,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Colombia,Portugal,2,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,DR Congo,Uzbekistan,1,2
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,England,Croatia,1,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Ghana,Panama,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,England,Ghana,2,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Panama,Croatia,0,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Panama,England,0,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,group,Croatia,Ghana,1,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r32,South Korea,Qatar,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r32,Netherlands,Morocco,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r32,Brazil,Japan,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r32,Germany,Scotland,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r32,Ecuador,Norway,0,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r32,Mexico,Saudi Arabia,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r32,England,Uzbekistan,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r32,USA,Ivory Coast,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r32,Belgium,Czechia,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r32,Portugal,Croatia,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r32,Spain,Austria,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r32,Switzerland,Algeria,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r32,Argentina,Uruguay,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r32,Colombia,Ghana,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r32,Australia,Iran,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r32,France,Türkiye,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r16,Germany,France,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r16,South Korea,Netherlands,10,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r16,Brazil,Norway,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r16,Mexico,England,0,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r16,Portugal,Spain,0,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r16,USA,Belgium,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r16,Argentina,Australia,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,r16,Switzerland,Colombia,0,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,quarter,Germany,South Korea,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,quarter,Spain,USA,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,quarter,Brazil,England,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,quarter,Argentina,Colombia,0,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,semi,Germany,Spain,1,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,semi,Brazil,Colombia,4,0
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,final,Germany,Brazil,0,1
+Downsy,2baf50ef-338b-4548-afde-dec1eb5f0c42,third,Spain,Colombia,1,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Mexico,South Africa,3,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,South Korea,Czechia,1,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Czechia,South Africa,1,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Mexico,South Korea,2,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Czechia,Mexico,1,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,South Africa,South Korea,1,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Canada,Bosnia & Herz.,1,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Qatar,Switzerland,0,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Switzerland,Bosnia & Herz.,1,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Canada,Qatar,2,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Switzerland,Canada,1,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Bosnia & Herz.,Qatar,2,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Brazil,Morocco,2,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Haiti,Scotland,0,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Scotland,Morocco,1,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Brazil,Haiti,4,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Scotland,Brazil,1,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Morocco,Haiti,3,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,USA,Paraguay,1,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Australia,Türkiye,1,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,USA,Australia,2,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Türkiye,Paraguay,2,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Türkiye,USA,1,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Paraguay,Australia,1,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Germany,Curaçao,4,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Ivory Coast,Ecuador,1,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Germany,Ivory Coast,2,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Ecuador,Curaçao,3,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Curaçao,Ivory Coast,1,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Ecuador,Germany,1,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Netherlands,Japan,1,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Sweden,Tunisia,2,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Netherlands,Sweden,1,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Tunisia,Japan,1,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Japan,Sweden,1,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Tunisia,Netherlands,0,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Belgium,Egypt,3,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Iran,New Zealand,2,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Belgium,Iran,2,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,New Zealand,Egypt,0,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Egypt,Iran,2,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,New Zealand,Belgium,0,3
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Spain,Cape Verde,4,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Saudi Arabia,Uruguay,1,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Spain,Saudi Arabia,3,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Uruguay,Cape Verde,2,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Cape Verde,Saudi Arabia,1,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Uruguay,Spain,1,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,France,Senegal,3,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Iraq,Norway,1,3
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,France,Iraq,4,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Norway,Senegal,1,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Norway,France,1,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Senegal,Iraq,2,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Argentina,Algeria,2,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Austria,Jordan,1,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Argentina,Austria,2,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Jordan,Algeria,1,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Algeria,Austria,2,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Jordan,Argentina,0,3
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Portugal,DR Congo,4,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Uzbekistan,Colombia,0,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Portugal,Uzbekistan,2,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Colombia,DR Congo,3,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Colombia,Portugal,1,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,DR Congo,Uzbekistan,2,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,England,Croatia,2,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Ghana,Panama,2,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,England,Ghana,2,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Panama,Croatia,0,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Panama,England,0,4
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,group,Croatia,Ghana,1,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r32,South Korea,Switzerland,1,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r32,Japan,Morocco,1,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r32,Brazil,Sweden,3,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r32,Germany,Scotland,3,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r32,Ecuador,Norway,2,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r32,Mexico,Ivory Coast,2,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r32,England,Senegal,2,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r32,Türkiye,Canada,1,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r32,Belgium,Austria,2,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r32,Colombia,Ghana,3,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r32,Spain,Algeria,3,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r32,Bosnia & Herz.,Egypt,1,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r32,Argentina,Uruguay,2,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r32,Portugal,Croatia,2,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r32,USA,Iran,1,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r32,France,Netherlands,3,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r16,Germany,France,1,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r16,South Korea,Morocco,0,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r16,Brazil,Ecuador,2,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r16,Mexico,England,0,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r16,Colombia,Spain,0,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r16,Türkiye,Belgium,2,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r16,Argentina,USA,3,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,r16,Bosnia & Herz.,Portugal,1,3
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,quarter,France,Morocco,2,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,quarter,Spain,Türkiye,2,0
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,quarter,Brazil,England,1,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,quarter,Argentina,Portugal,0,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,semi,France,Spain,3,2
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,semi,England,Portugal,2,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,final,France,England,2,1
+Giuseppe,0a4bd451-a9d4-4a43-99d6-df889972467d,third,Spain,Portugal,3,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Mexico,South Africa,2,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,South Korea,Czechia,0,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Czechia,South Africa,2,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Mexico,South Korea,1,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Czechia,Mexico,1,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,South Africa,South Korea,1,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Canada,Bosnia & Herz.,1,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Qatar,Switzerland,0,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Switzerland,Bosnia & Herz.,1,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Canada,Qatar,3,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Switzerland,Canada,1,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Bosnia & Herz.,Qatar,2,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Brazil,Morocco,3,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Haiti,Scotland,0,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Scotland,Morocco,1,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Brazil,Haiti,4,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Scotland,Brazil,0,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Morocco,Haiti,3,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,USA,Paraguay,2,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Australia,Türkiye,1,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,USA,Australia,1,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Türkiye,Paraguay,1,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Türkiye,USA,0,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Paraguay,Australia,3,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Germany,Curaçao,4,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Ivory Coast,Ecuador,1,3
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Germany,Ivory Coast,3,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Ecuador,Curaçao,3,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Curaçao,Ivory Coast,1,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Ecuador,Germany,1,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Netherlands,Japan,2,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Sweden,Tunisia,1,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Netherlands,Sweden,2,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Tunisia,Japan,1,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Japan,Sweden,2,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Tunisia,Netherlands,0,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Belgium,Egypt,2,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Iran,New Zealand,1,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Belgium,Iran,2,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,New Zealand,Egypt,1,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Egypt,Iran,2,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,New Zealand,Belgium,1,3
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Spain,Cape Verde,4,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Saudi Arabia,Uruguay,0,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Spain,Saudi Arabia,2,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Uruguay,Cape Verde,3,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Cape Verde,Saudi Arabia,1,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Uruguay,Spain,1,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,France,Senegal,3,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Iraq,Norway,0,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,France,Iraq,3,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Norway,Senegal,3,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Norway,France,1,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Senegal,Iraq,2,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Argentina,Algeria,3,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Austria,Jordan,2,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Argentina,Austria,2,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Jordan,Algeria,0,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Algeria,Austria,2,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Jordan,Argentina,0,3
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Portugal,DR Congo,3,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Uzbekistan,Colombia,0,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Portugal,Uzbekistan,2,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Colombia,DR Congo,2,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Colombia,Portugal,2,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,DR Congo,Uzbekistan,1,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,England,Croatia,3,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Ghana,Panama,1,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,England,Ghana,3,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Panama,Croatia,0,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Panama,England,1,5
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,group,Croatia,Ghana,1,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r32,Czechia,Switzerland,2,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r32,Netherlands,Morocco,1,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r32,Brazil,Japan,3,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r32,Germany,South Korea,2,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r32,Ecuador,Norway,1,3
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r32,Mexico,Scotland,2,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r32,England,Ivory Coast,3,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r32,USA,Bosnia & Herz.,2,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r32,Belgium,Austria,1,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r32,Colombia,Croatia,3,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r32,Spain,Algeria,2,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r32,Canada,Sweden,1,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r32,Argentina,Uruguay,2,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r32,Portugal,Ghana,2,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r32,Paraguay,Egypt,1,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r32,France,Australia,4,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r16,Germany,France,1,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r16,Czechia,Netherlands,1,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r16,Brazil,Norway,1,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r16,Mexico,England,1,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r16,Colombia,Spain,2,3
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r16,USA,Belgium,1,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r16,Argentina,Egypt,3,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,r16,Sweden,Portugal,0,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,quarter,France,Czechia,2,0
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,quarter,Spain,Belgium,2,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,quarter,Brazil,England,1,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,quarter,Argentina,Portugal,2,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,semi,France,Spain,2,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,semi,England,Argentina,1,2
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,final,France,Argentina,2,1
+Luce,91474634-afa8-4b12-b3c2-6ef8de98cb44,third,Spain,England,3,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Mexico,South Africa,2,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,South Korea,Czechia,2,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Czechia,South Africa,2,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Mexico,South Korea,1,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Czechia,Mexico,1,2
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,South Africa,South Korea,0,2
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Canada,Bosnia & Herz.,1,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Qatar,Switzerland,0,3
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Switzerland,Bosnia & Herz.,2,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Canada,Qatar,2,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Switzerland,Canada,2,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Bosnia & Herz.,Qatar,2,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Brazil,Morocco,3,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Haiti,Scotland,0,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Scotland,Morocco,0,3
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Brazil,Haiti,4,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Scotland,Brazil,1,4
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Morocco,Haiti,2,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,USA,Paraguay,2,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Australia,Türkiye,1,2
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,USA,Australia,1,2
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Türkiye,Paraguay,1,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Türkiye,USA,0,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Paraguay,Australia,0,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Germany,Curaçao,4,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Ivory Coast,Ecuador,0,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Germany,Ivory Coast,2,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Ecuador,Curaçao,1,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Curaçao,Ivory Coast,1,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Ecuador,Germany,0,2
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Netherlands,Japan,1,2
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Sweden,Tunisia,1,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Netherlands,Sweden,1,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Tunisia,Japan,0,4
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Japan,Sweden,3,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Tunisia,Netherlands,1,2
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Belgium,Egypt,3,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Iran,New Zealand,0,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Belgium,Iran,2,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,New Zealand,Egypt,0,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Egypt,Iran,0,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,New Zealand,Belgium,0,2
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Spain,Cape Verde,3,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Saudi Arabia,Uruguay,0,2
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Spain,Saudi Arabia,4,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Uruguay,Cape Verde,2,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Cape Verde,Saudi Arabia,0,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Uruguay,Spain,1,2
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,France,Senegal,4,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Iraq,Norway,0,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,France,Iraq,3,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Norway,Senegal,0,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Norway,France,0,2
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Senegal,Iraq,1,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Argentina,Algeria,3,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Austria,Jordan,4,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Argentina,Austria,4,2
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Jordan,Algeria,1,3
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Algeria,Austria,0,3
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Jordan,Argentina,0,4
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Portugal,DR Congo,3,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Uzbekistan,Colombia,1,2
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Portugal,Uzbekistan,4,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Colombia,DR Congo,3,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Colombia,Portugal,2,3
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,DR Congo,Uzbekistan,1,2
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,England,Croatia,3,2
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Ghana,Panama,1,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,England,Ghana,4,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Panama,Croatia,0,2
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Panama,England,1,3
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,group,Croatia,Ghana,4,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r32,South Korea,Canada,2,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r32,Japan,Morocco,3,2
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r32,Brazil,Netherlands,4,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r32,Germany,Czechia,1,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r32,Ecuador,Norway,1,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r32,Mexico,Sweden,1,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r32,England,Uzbekistan,3,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r32,USA,Bosnia & Herz.,2,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r32,Belgium,Saudi Arabia,1,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r32,Colombia,Croatia,0,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r32,Spain,Austria,4,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r32,Switzerland,Algeria,1,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r32,Argentina,Uruguay,1,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r32,Portugal,Türkiye,2,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r32,Australia,Iran,1,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r32,France,Scotland,5,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r16,Germany,France,1,3
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r16,South Korea,Japan,1,2
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r16,Brazil,Ecuador,4,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r16,Mexico,England,2,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r16,Croatia,Spain,1,3
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r16,USA,Belgium,1,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r16,Argentina,Australia,3,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,r16,Switzerland,Portugal,0,2
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,quarter,France,Japan,3,1
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,quarter,Spain,USA,2,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,quarter,Brazil,Mexico,3,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,quarter,Argentina,Portugal,2,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,semi,France,Spain,1,2
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,semi,Brazil,Argentina,2,3
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,final,Spain,Argentina,1,0
+Tamara,690407df-6ec3-454c-9893-0672f66209f7,third,France,Brazil,3,2
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Mexico,South Africa,1,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,South Korea,Czechia,1,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Czechia,South Africa,0,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Mexico,South Korea,0,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Czechia,Mexico,0,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,South Africa,South Korea,0,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Canada,Bosnia & Herz.,1,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Qatar,Switzerland,0,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Switzerland,Bosnia & Herz.,1,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Canada,Qatar,1,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Switzerland,Canada,1,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Bosnia & Herz.,Qatar,1,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Brazil,Morocco,3,2
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Haiti,Scotland,0,2
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Scotland,Morocco,1,3
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Brazil,Haiti,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Scotland,Brazil,0,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Morocco,Haiti,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,USA,Paraguay,0,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Australia,Türkiye,1,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,USA,Australia,0,2
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Türkiye,Paraguay,0,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Türkiye,USA,1,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Paraguay,Australia,2,2
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Germany,Curaçao,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Ivory Coast,Ecuador,1,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Germany,Ivory Coast,1,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Ecuador,Curaçao,0,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Curaçao,Ivory Coast,0,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Ecuador,Germany,0,2
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Netherlands,Japan,2,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Sweden,Tunisia,1,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Netherlands,Sweden,1,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Tunisia,Japan,0,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Japan,Sweden,1,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Tunisia,Netherlands,0,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Belgium,Egypt,1,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Iran,New Zealand,0,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Belgium,Iran,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,New Zealand,Egypt,1,2
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Egypt,Iran,0,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,New Zealand,Belgium,0,2
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Spain,Cape Verde,3,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Saudi Arabia,Uruguay,1,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Spain,Saudi Arabia,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Uruguay,Cape Verde,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Cape Verde,Saudi Arabia,0,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Uruguay,Spain,1,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,France,Senegal,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Iraq,Norway,2,2
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,France,Iraq,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Norway,Senegal,2,2
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Norway,France,1,3
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Senegal,Iraq,1,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Argentina,Algeria,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Austria,Jordan,1,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Argentina,Austria,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Jordan,Algeria,0,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Algeria,Austria,2,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Jordan,Argentina,0,3
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Portugal,DR Congo,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Uzbekistan,Colombia,0,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Portugal,Uzbekistan,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Colombia,DR Congo,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Colombia,Portugal,2,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,DR Congo,Uzbekistan,1,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,England,Croatia,1,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Ghana,Panama,0,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,England,Ghana,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Panama,Croatia,1,2
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Panama,England,1,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,group,Croatia,Ghana,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r32,Mexico,Switzerland,1,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r32,Netherlands,Morocco,3,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r32,Brazil,Japan,2,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r32,Germany,Scotland,3,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r32,Ivory Coast,Norway,1,2
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r32,South Korea,Saudi Arabia,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r32,England,Curaçao,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r32,Paraguay,Sweden,2,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r32,Belgium,South Africa,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r32,Portugal,Croatia,3,2
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r32,Spain,Algeria,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r32,Canada,New Zealand,1,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r32,Argentina,Uruguay,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r32,Colombia,Panama,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r32,Australia,Egypt,1,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r32,France,Türkiye,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r16,Germany,France,0,2
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r16,Mexico,Netherlands,0,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r16,Brazil,Norway,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r16,South Korea,England,0,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r16,Portugal,Spain,0,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r16,Paraguay,Belgium,0,2
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r16,Argentina,Australia,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,r16,Canada,Colombia,0,2
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,quarter,France,Netherlands,0,2
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,quarter,Spain,Belgium,0,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,quarter,Brazil,England,3,2
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,quarter,Argentina,Colombia,1,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,semi,Netherlands,Belgium,2,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,semi,Brazil,Argentina,0,1
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,final,Netherlands,Argentina,3,0
+Albert,4167d10f-9a15-4611-86de-b6798b39f9b6,third,Belgium,Brazil,0,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Mexico,South Africa,2,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,South Korea,Czechia,1,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Czechia,South Africa,2,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Mexico,South Korea,2,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Czechia,Mexico,1,2
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,South Africa,South Korea,2,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Canada,Bosnia & Herz.,2,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Qatar,Switzerland,0,3
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Switzerland,Bosnia & Herz.,3,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Canada,Qatar,2,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Switzerland,Canada,2,2
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Bosnia & Herz.,Qatar,1,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Brazil,Morocco,2,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Haiti,Scotland,0,2
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Scotland,Morocco,1,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Brazil,Haiti,3,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Scotland,Brazil,1,4
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Morocco,Haiti,4,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,USA,Paraguay,1,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Australia,Türkiye,1,3
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,USA,Australia,1,3
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Türkiye,Paraguay,0,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Türkiye,USA,1,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Paraguay,Australia,2,3
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Germany,Curaçao,5,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Ivory Coast,Ecuador,1,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Germany,Ivory Coast,3,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Ecuador,Curaçao,4,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Curaçao,Ivory Coast,0,3
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Ecuador,Germany,1,4
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Netherlands,Japan,2,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Sweden,Tunisia,3,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Netherlands,Sweden,1,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Tunisia,Japan,1,3
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Japan,Sweden,1,3
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Tunisia,Netherlands,0,2
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Belgium,Egypt,2,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Iran,New Zealand,1,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Belgium,Iran,2,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,New Zealand,Egypt,1,3
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Egypt,Iran,1,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,New Zealand,Belgium,1,3
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Spain,Cape Verde,4,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Saudi Arabia,Uruguay,0,2
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Spain,Saudi Arabia,3,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Uruguay,Cape Verde,1,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Cape Verde,Saudi Arabia,1,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Uruguay,Spain,1,3
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,France,Senegal,3,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Iraq,Norway,0,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,France,Iraq,3,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Norway,Senegal,1,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Norway,France,1,3
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Senegal,Iraq,0,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Argentina,Algeria,2,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Austria,Jordan,2,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Argentina,Austria,2,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Jordan,Algeria,1,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Algeria,Austria,1,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Jordan,Argentina,1,3
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Portugal,DR Congo,2,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Uzbekistan,Colombia,1,3
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Portugal,Uzbekistan,3,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Colombia,DR Congo,1,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Colombia,Portugal,2,2
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,DR Congo,Uzbekistan,1,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,England,Croatia,1,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Ghana,Panama,2,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,England,Ghana,2,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Panama,Croatia,1,2
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Panama,England,1,2
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,group,Croatia,Ghana,2,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r32,Czechia,Canada,1,2
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r32,Sweden,Morocco,1,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r32,Brazil,Netherlands,1,2
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r32,Germany,Bosnia & Herz.,3,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r32,Ecuador,Norway,1,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r32,Mexico,Scotland,2,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r32,England,Ivory Coast,3,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r32,Australia,Japan,3,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r32,Belgium,South Africa,3,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r32,Colombia,Croatia,0,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r32,Spain,Austria,2,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r32,Switzerland,Iran,1,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r32,Argentina,Uruguay,2,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r32,Portugal,Ghana,3,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r32,Türkiye,Egypt,2,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r32,France,Paraguay,3,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r16,Germany,France,0,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r16,Canada,Sweden,1,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r16,Netherlands,Ecuador,0,2
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r16,Mexico,England,0,2
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r16,Croatia,Spain,1,2
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r16,Australia,Belgium,0,2
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r16,Argentina,Türkiye,3,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,r16,Switzerland,Portugal,0,2
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,quarter,France,Canada,1,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,quarter,Spain,Belgium,2,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,quarter,Ecuador,England,0,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,quarter,Argentina,Portugal,0,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,semi,France,Spain,1,0
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,semi,England,Portugal,0,1
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,final,France,Portugal,1,2
+Antoni Brdarovski,3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,third,Spain,England,0,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Mexico,South Africa,3,0
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,South Korea,Czechia,1,0
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Czechia,South Africa,1,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Mexico,South Korea,1,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Czechia,Mexico,1,2
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,South Africa,South Korea,1,2
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Canada,Bosnia & Herz.,1,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Qatar,Switzerland,0,4
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Switzerland,Bosnia & Herz.,2,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Canada,Qatar,2,0
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Switzerland,Canada,2,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Bosnia & Herz.,Qatar,1,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Brazil,Morocco,2,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Haiti,Scotland,2,2
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Scotland,Morocco,1,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Brazil,Haiti,5,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Scotland,Brazil,2,3
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Morocco,Haiti,2,0
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,USA,Paraguay,1,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Australia,Türkiye,2,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,USA,Australia,2,3
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Türkiye,Paraguay,2,2
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Türkiye,USA,3,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Paraguay,Australia,1,0
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Germany,Curaçao,6,0
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Ivory Coast,Ecuador,2,2
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Germany,Ivory Coast,3,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Ecuador,Curaçao,2,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Curaçao,Ivory Coast,0,3
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Ecuador,Germany,1,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Netherlands,Japan,1,2
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Sweden,Tunisia,2,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Netherlands,Sweden,1,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Tunisia,Japan,1,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Japan,Sweden,1,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Tunisia,Netherlands,0,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Belgium,Egypt,2,0
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Iran,New Zealand,2,2
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Belgium,Iran,1,0
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,New Zealand,Egypt,1,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Egypt,Iran,1,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,New Zealand,Belgium,1,3
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Spain,Cape Verde,4,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Saudi Arabia,Uruguay,0,3
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Spain,Saudi Arabia,2,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Uruguay,Cape Verde,2,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Cape Verde,Saudi Arabia,1,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Uruguay,Spain,2,3
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,France,Senegal,3,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Iraq,Norway,1,2
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,France,Iraq,3,0
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Norway,Senegal,1,0
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Norway,France,1,2
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Senegal,Iraq,1,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Argentina,Algeria,3,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Austria,Jordan,1,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Argentina,Austria,2,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Jordan,Algeria,2,2
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Algeria,Austria,0,2
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Jordan,Argentina,0,4
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Portugal,DR Congo,3,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Uzbekistan,Colombia,0,2
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Portugal,Uzbekistan,2,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Colombia,DR Congo,3,2
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Colombia,Portugal,2,3
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,DR Congo,Uzbekistan,1,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,England,Croatia,2,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Ghana,Panama,2,2
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,England,Ghana,3,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Panama,Croatia,1,2
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Panama,England,0,2
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,group,Croatia,Ghana,2,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r32,South Korea,Canada,2,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r32,Japan,Morocco,2,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r32,Brazil,Sweden,3,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r32,Germany,Bosnia & Herz.,3,2
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r32,Ecuador,Norway,0,2
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r32,Mexico,Scotland,3,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r32,England,Ivory Coast,3,0
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r32,Australia,Netherlands,1,2
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r32,Belgium,Czechia,1,0
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r32,Colombia,Croatia,2,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r32,Spain,Austria,2,0
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r32,Switzerland,New Zealand,3,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r32,Argentina,Uruguay,4,2
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r32,Portugal,Jordan,2,0
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r32,Paraguay,Iran,1,0
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r32,France,Türkiye,4,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r16,Germany,France,1,2
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r16,South Korea,Japan,1,2
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r16,Brazil,Norway,2,0
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r16,Mexico,England,0,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r16,Colombia,Spain,1,3
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r16,Netherlands,Belgium,1,0
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r16,Argentina,Paraguay,2,0
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,r16,Switzerland,Portugal,1,2
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,quarter,France,Japan,3,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,quarter,Spain,Netherlands,1,0
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,quarter,Brazil,England,0,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,quarter,Argentina,Portugal,2,1
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,semi,France,Spain,1,0
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,semi,England,Argentina,1,0
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,final,France,England,2,0
+Dave L,fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,third,Spain,Argentina,1,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Mexico,South Africa,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,South Korea,Czechia,1,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Czechia,South Africa,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Mexico,South Korea,1,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Czechia,Mexico,1,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,South Africa,South Korea,0,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Canada,Bosnia & Herz.,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Qatar,Switzerland,0,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Switzerland,Bosnia & Herz.,1,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Canada,Qatar,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Switzerland,Canada,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Bosnia & Herz.,Qatar,2,0
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Brazil,Morocco,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Haiti,Scotland,0,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Scotland,Morocco,1,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Brazil,Haiti,3,0
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Scotland,Brazil,1,3
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Morocco,Haiti,3,0
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,USA,Paraguay,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Australia,Türkiye,1,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,USA,Australia,1,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Türkiye,Paraguay,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Türkiye,USA,2,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Paraguay,Australia,1,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Germany,Curaçao,3,0
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Ivory Coast,Ecuador,1,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Germany,Ivory Coast,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Ecuador,Curaçao,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Curaçao,Ivory Coast,0,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Ecuador,Germany,1,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Netherlands,Japan,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Sweden,Tunisia,1,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Netherlands,Sweden,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Tunisia,Japan,1,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Japan,Sweden,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Tunisia,Netherlands,1,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Belgium,Egypt,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Iran,New Zealand,1,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Belgium,Iran,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,New Zealand,Egypt,0,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Egypt,Iran,1,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,New Zealand,Belgium,0,3
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Spain,Cape Verde,3,0
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Saudi Arabia,Uruguay,1,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Spain,Saudi Arabia,2,0
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Uruguay,Cape Verde,3,0
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Cape Verde,Saudi Arabia,1,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Uruguay,Spain,1,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,France,Senegal,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Iraq,Norway,0,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,France,Iraq,3,0
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Norway,Senegal,1,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Norway,France,1,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Senegal,Iraq,2,0
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Argentina,Algeria,2,0
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Austria,Jordan,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Argentina,Austria,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Jordan,Algeria,1,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Algeria,Austria,1,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Jordan,Argentina,0,3
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Portugal,DR Congo,3,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Uzbekistan,Colombia,0,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Portugal,Uzbekistan,2,0
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Colombia,DR Congo,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Colombia,Portugal,1,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,DR Congo,Uzbekistan,1,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,England,Croatia,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Ghana,Panama,2,0
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,England,Ghana,2,0
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Panama,Croatia,0,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Panama,England,0,3
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,group,Croatia,Ghana,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r32,South Korea,Canada,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r32,Netherlands,Morocco,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r32,Brazil,Japan,3,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r32,Germany,Czechia,3,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r32,Ecuador,Senegal,1,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r32,Mexico,Scotland,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r32,England,Ivory Coast,3,0
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r32,Türkiye,Bosnia & Herz.,2,0
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r32,Belgium,Norway,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r32,Colombia,Croatia,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r32,Spain,Austria,2,0
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r32,Switzerland,Algeria,2,0
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r32,Argentina,Uruguay,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r32,Portugal,Ghana,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r32,Australia,Egypt,0,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r32,France,USA,2,0
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r16,Germany,France,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r16,South Korea,Netherlands,1,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r16,Brazil,Senegal,3,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r16,Mexico,England,1,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r16,Colombia,Spain,1,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r16,Türkiye,Belgium,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r16,Argentina,Egypt,2,0
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,r16,Switzerland,Portugal,1,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,quarter,Germany,Netherlands,2,3
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,quarter,Spain,Türkiye,3,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,quarter,Brazil,England,2,3
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,quarter,Argentina,Portugal,1,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,semi,Netherlands,Spain,1,2
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,semi,England,Portugal,2,1
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,final,Spain,England,2,3
+MarcinC,dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,third,Netherlands,Portugal,2,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Mexico,South Africa,2,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,South Korea,Czechia,3,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Czechia,South Africa,2,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Mexico,South Korea,1,3
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Czechia,Mexico,1,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,South Africa,South Korea,1,2
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Canada,Bosnia & Herz.,2,2
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Qatar,Switzerland,0,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Switzerland,Bosnia & Herz.,2,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Canada,Qatar,3,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Switzerland,Canada,4,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Bosnia & Herz.,Qatar,2,3
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Brazil,Morocco,4,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Haiti,Scotland,1,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Scotland,Morocco,0,3
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Brazil,Haiti,4,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Scotland,Brazil,0,5
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Morocco,Haiti,3,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,USA,Paraguay,2,3
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Australia,Türkiye,2,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,USA,Australia,1,3
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Türkiye,Paraguay,1,4
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Türkiye,USA,2,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Paraguay,Australia,2,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Germany,Curaçao,4,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Ivory Coast,Ecuador,0,3
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Germany,Ivory Coast,3,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Ecuador,Curaçao,2,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Curaçao,Ivory Coast,3,2
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Ecuador,Germany,1,4
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Netherlands,Japan,1,2
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Sweden,Tunisia,1,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Netherlands,Sweden,2,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Tunisia,Japan,0,3
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Japan,Sweden,3,2
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Tunisia,Netherlands,1,4
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Belgium,Egypt,2,3
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Iran,New Zealand,1,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Belgium,Iran,2,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,New Zealand,Egypt,3,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Egypt,Iran,0,2
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,New Zealand,Belgium,1,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Spain,Cape Verde,3,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Saudi Arabia,Uruguay,0,3
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Spain,Saudi Arabia,3,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Uruguay,Cape Verde,3,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Cape Verde,Saudi Arabia,0,2
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Uruguay,Spain,2,4
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,France,Senegal,3,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Iraq,Norway,1,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,France,Iraq,3,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Norway,Senegal,3,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Norway,France,2,2
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Senegal,Iraq,2,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Argentina,Algeria,3,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Austria,Jordan,0,2
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Argentina,Austria,3,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Jordan,Algeria,1,2
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Algeria,Austria,1,3
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Jordan,Argentina,1,4
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Portugal,DR Congo,3,2
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Uzbekistan,Colombia,1,3
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Portugal,Uzbekistan,3,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Colombia,DR Congo,2,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Colombia,Portugal,3,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,DR Congo,Uzbekistan,0,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,England,Croatia,2,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Ghana,Panama,1,2
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,England,Ghana,3,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Panama,Croatia,1,2
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Panama,England,0,3
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,group,Croatia,Ghana,2,3
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r32,Mexico,Canada,2,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r32,Japan,Morocco,4,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r32,Brazil,Netherlands,1,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r32,Germany,Türkiye,3,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r32,Ecuador,Norway,0,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r32,South Korea,Saudi Arabia,0,2
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r32,England,Jordan,2,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r32,Paraguay,Qatar,2,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r32,New Zealand,Czechia,1,2
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r32,Portugal,Croatia,2,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r32,Spain,Austria,4,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r32,Switzerland,Iran,4,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r32,Argentina,Uruguay,3,2
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r32,Colombia,Ghana,2,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r32,Australia,Belgium,1,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r32,France,Sweden,3,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r16,Germany,France,2,4
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r16,Mexico,Japan,1,3
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r16,Brazil,Norway,3,2
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r16,Saudi Arabia,England,1,3
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r16,Portugal,Spain,2,3
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r16,Paraguay,Czechia,3,2
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r16,Argentina,Australia,0,2
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,r16,Switzerland,Colombia,2,3
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,quarter,France,Japan,4,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,quarter,Spain,Paraguay,3,0
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,quarter,Brazil,England,3,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,quarter,Australia,Colombia,2,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,semi,France,Spain,3,2
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,semi,Brazil,Australia,4,1
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,final,France,Brazil,3,2
+Sherram,c09124b5-5911-4f85-82c6-c63f7168e9f0,third,Spain,Australia,3,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Mexico,South Africa,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,South Korea,Czechia,1,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Czechia,South Africa,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Mexico,South Korea,0,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Czechia,Mexico,1,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,South Africa,South Korea,0,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Canada,Bosnia & Herz.,1,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Qatar,Switzerland,0,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Switzerland,Bosnia & Herz.,3,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Canada,Qatar,1,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Switzerland,Canada,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Bosnia & Herz.,Qatar,0,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Brazil,Morocco,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Haiti,Scotland,0,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Scotland,Morocco,0,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Brazil,Haiti,4,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Scotland,Brazil,0,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Morocco,Haiti,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,USA,Paraguay,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Australia,Türkiye,1,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,USA,Australia,0,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Türkiye,Paraguay,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Türkiye,USA,1,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Paraguay,Australia,0,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Germany,Curaçao,4,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Ivory Coast,Ecuador,1,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Germany,Ivory Coast,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Ecuador,Curaçao,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Curaçao,Ivory Coast,0,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Ecuador,Germany,0,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Netherlands,Japan,1,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Sweden,Tunisia,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Netherlands,Sweden,2,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Tunisia,Japan,0,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Japan,Sweden,1,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Tunisia,Netherlands,0,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Belgium,Egypt,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Iran,New Zealand,3,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Belgium,Iran,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,New Zealand,Egypt,0,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Egypt,Iran,1,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,New Zealand,Belgium,0,3
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Spain,Cape Verde,4,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Saudi Arabia,Uruguay,0,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Spain,Saudi Arabia,3,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Uruguay,Cape Verde,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Cape Verde,Saudi Arabia,1,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Uruguay,Spain,0,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,France,Senegal,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Iraq,Norway,0,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,France,Iraq,3,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Norway,Senegal,1,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Norway,France,0,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Senegal,Iraq,3,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Argentina,Algeria,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Austria,Jordan,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Argentina,Austria,1,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Jordan,Algeria,0,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Algeria,Austria,1,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Jordan,Argentina,0,3
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Portugal,DR Congo,3,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Uzbekistan,Colombia,0,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Portugal,Uzbekistan,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Colombia,DR Congo,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Colombia,Portugal,1,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,DR Congo,Uzbekistan,1,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,England,Croatia,2,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Ghana,Panama,0,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,England,Ghana,3,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Panama,Croatia,0,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Panama,England,0,3
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,group,Croatia,Ghana,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r32,Czechia,Canada,1,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r32,Netherlands,Morocco,1,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r32,Brazil,Japan,1,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r32,Germany,USA,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r32,Ivory Coast,Senegal,0,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r32,South Korea,Scotland,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r32,England,Norway,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r32,Australia,Algeria,2,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r32,Belgium,Mexico,2,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r32,Colombia,Croatia,1,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r32,Spain,Austria,3,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r32,Switzerland,Egypt,2,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r32,Argentina,Uruguay,2,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r32,Portugal,Ecuador,2,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r32,Türkiye,Iran,1,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r32,France,Sweden,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r16,Germany,France,0,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r16,Canada,Netherlands,0,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r16,Japan,Senegal,1,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r16,South Korea,England,0,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r16,Croatia,Spain,1,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r16,Australia,Belgium,0,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r16,Argentina,Türkiye,2,1
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,r16,Switzerland,Portugal,0,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,quarter,France,Netherlands,1,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,quarter,Spain,Belgium,2,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,quarter,Japan,England,0,3
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,quarter,Argentina,Portugal,1,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,semi,Netherlands,Spain,1,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,semi,England,Portugal,1,2
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,final,Netherlands,Portugal,1,0
+Tom,9a09e6d3-e646-47a2-86da-3637be85da54,third,Spain,England,2,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Mexico,South Africa,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,South Korea,Czechia,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Czechia,South Africa,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Mexico,South Korea,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Canada,Bosnia & Herz.,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Qatar,Switzerland,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Switzerland,Bosnia & Herz.,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Canada,Qatar,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Switzerland,Canada,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Bosnia & Herz.,Qatar,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Brazil,Morocco,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Haiti,Scotland,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Scotland,Morocco,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Brazil,Haiti,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Scotland,Brazil,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Morocco,Haiti,1,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,USA,Paraguay,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Australia,Türkiye,1,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,USA,Australia,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Türkiye,Paraguay,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Türkiye,USA,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Paraguay,Australia,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Germany,Curaçao,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Ivory Coast,Ecuador,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Germany,Ivory Coast,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Ecuador,Curaçao,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Curaçao,Ivory Coast,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Ecuador,Germany,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Netherlands,Japan,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Sweden,Tunisia,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Netherlands,Sweden,1,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Tunisia,Japan,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Japan,Sweden,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Tunisia,Netherlands,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Belgium,Egypt,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Iran,New Zealand,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Belgium,Iran,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,New Zealand,Egypt,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Egypt,Iran,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,New Zealand,Belgium,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Spain,Cape Verde,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Saudi Arabia,Uruguay,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Spain,Saudi Arabia,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Uruguay,Cape Verde,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Cape Verde,Saudi Arabia,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Uruguay,Spain,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,France,Senegal,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Iraq,Norway,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,France,Iraq,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Norway,Senegal,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Norway,France,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Senegal,Iraq,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Argentina,Algeria,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Austria,Jordan,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Argentina,Austria,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Jordan,Algeria,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Algeria,Austria,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Jordan,Argentina,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Portugal,DR Congo,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Uzbekistan,Colombia,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Portugal,Uzbekistan,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Colombia,DR Congo,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Colombia,Portugal,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,DR Congo,Uzbekistan,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,England,Croatia,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Ghana,Panama,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,England,Ghana,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Panama,Croatia,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Panama,England,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,group,Croatia,Ghana,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r32,South Korea,Qatar,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r32,Netherlands,Morocco,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r32,Brazil,Japan,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r32,Germany,Paraguay,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r32,Ecuador,Senegal,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r32,Mexico,Scotland,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r32,England,Norway,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r32,Australia,Curaçao,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r32,Belgium,Czechia,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r32,Portugal,Croatia,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r32,Spain,Austria,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r32,Switzerland,Iran,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r32,Argentina,Uruguay,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r32,Colombia,Panama,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r32,Türkiye,Egypt,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r32,France,Sweden,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r16,Germany,France,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r16,South Korea,Netherlands,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r16,Brazil,Senegal,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r16,Mexico,England,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r16,Portugal,Spain,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r16,Australia,Czechia,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r16,Argentina,Türkiye,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,r16,Switzerland,Colombia,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,quarter,Germany,South Korea,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,quarter,Spain,Australia,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,quarter,Brazil,England,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,quarter,Argentina,Colombia,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,semi,Germany,Spain,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,semi,Brazil,Argentina,1,0
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,final,Germany,Brazil,0,1
+Damian,8491ba79-0767-4bc3-a448-9b398e225d91,third,Spain,Argentina,1,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Mexico,South Africa,2,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,South Korea,Czechia,1,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Czechia,South Africa,1,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Mexico,South Korea,1,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Czechia,Mexico,1,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,South Africa,South Korea,1,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Canada,Bosnia & Herz.,2,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Qatar,Switzerland,0,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Switzerland,Bosnia & Herz.,2,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Canada,Qatar,1,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Switzerland,Canada,1,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Bosnia & Herz.,Qatar,0,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Brazil,Morocco,0,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Haiti,Scotland,1,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Scotland,Morocco,0,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Brazil,Haiti,3,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Scotland,Brazil,0,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Morocco,Haiti,2,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,USA,Paraguay,2,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Australia,Türkiye,1,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,USA,Australia,1,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Türkiye,Paraguay,1,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Türkiye,USA,2,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Paraguay,Australia,1,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Germany,Curaçao,5,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Ivory Coast,Ecuador,0,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Germany,Ivory Coast,3,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Ecuador,Curaçao,2,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Curaçao,Ivory Coast,1,3
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Ecuador,Germany,1,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Netherlands,Japan,1,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Sweden,Tunisia,2,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Netherlands,Sweden,2,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Tunisia,Japan,0,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Japan,Sweden,1,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Tunisia,Netherlands,0,3
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Belgium,Egypt,2,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Iran,New Zealand,1,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Belgium,Iran,1,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,New Zealand,Egypt,2,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Egypt,Iran,0,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,New Zealand,Belgium,1,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Spain,Cape Verde,5,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Saudi Arabia,Uruguay,0,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Spain,Saudi Arabia,3,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Uruguay,Cape Verde,3,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Cape Verde,Saudi Arabia,2,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Uruguay,Spain,1,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,France,Senegal,2,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Iraq,Norway,0,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,France,Iraq,3,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Norway,Senegal,1,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Norway,France,1,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Senegal,Iraq,3,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Argentina,Algeria,1,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Austria,Jordan,3,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Argentina,Austria,2,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Jordan,Algeria,1,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Algeria,Austria,1,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Jordan,Argentina,0,3
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Portugal,DR Congo,1,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Uzbekistan,Colombia,1,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Portugal,Uzbekistan,2,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Colombia,DR Congo,1,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Colombia,Portugal,2,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,DR Congo,Uzbekistan,1,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,England,Croatia,1,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Ghana,Panama,1,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,England,Ghana,3,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Panama,Croatia,1,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Panama,England,0,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,group,Croatia,Ghana,2,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r32,South Korea,Canada,1,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r32,Japan,Brazil,2,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r32,Morocco,Netherlands,1,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r32,Germany,Paraguay,2,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r32,Ecuador,Norway,1,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r32,Mexico,Scotland,1,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r32,England,DR Congo,2,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r32,USA,Ivory Coast,2,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r32,Belgium,Czechia,2,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r32,Uzbekistan,Croatia,0,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r32,Spain,Austria,3,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r32,Switzerland,Iran,0,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r32,Argentina,Uruguay,1,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r32,Colombia,Senegal,2,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r32,Türkiye,New Zealand,2,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r32,France,Sweden,3,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r16,Germany,France,1,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r16,Canada,Japan,1,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r16,Netherlands,Norway,1,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r16,Mexico,England,0,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r16,Croatia,Spain,1,3
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r16,USA,Belgium,2,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r16,Argentina,Türkiye,1,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,r16,Iran,Colombia,1,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,quarter,France,Canada,2,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,quarter,Spain,USA,2,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,quarter,Norway,England,1,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,quarter,Argentina,Colombia,1,0
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,semi,France,Spain,3,4
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,semi,Norway,Argentina,1,2
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,final,Spain,Argentina,2,1
+ESPN (Ryan O'Hanlon's tips),3886cef4-2051-48e8-a788-74297b9ad782,third,France,Norway,1,2
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Mexico,South Africa,3,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,South Korea,Czechia,2,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Czechia,South Africa,2,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Mexico,South Korea,2,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Czechia,Mexico,1,2
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,South Africa,South Korea,0,2
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Canada,Bosnia & Herz.,0,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Qatar,Switzerland,0,3
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Switzerland,Bosnia & Herz.,2,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Canada,Qatar,0,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Switzerland,Canada,2,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Bosnia & Herz.,Qatar,1,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Brazil,Morocco,3,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Haiti,Scotland,0,2
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Scotland,Morocco,2,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Brazil,Haiti,4,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Scotland,Brazil,1,3
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Morocco,Haiti,2,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,USA,Paraguay,1,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Australia,Türkiye,2,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,USA,Australia,1,2
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Türkiye,Paraguay,0,2
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Türkiye,USA,0,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Paraguay,Australia,2,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Germany,Curaçao,3,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Ivory Coast,Ecuador,0,2
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Germany,Ivory Coast,3,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Ecuador,Curaçao,2,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Curaçao,Ivory Coast,0,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Ecuador,Germany,1,3
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Netherlands,Japan,1,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Sweden,Tunisia,1,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Netherlands,Sweden,2,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Tunisia,Japan,0,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Japan,Sweden,0,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Tunisia,Netherlands,0,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Belgium,Egypt,2,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Iran,New Zealand,0,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Belgium,Iran,2,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,New Zealand,Egypt,1,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Egypt,Iran,1,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,New Zealand,Belgium,0,2
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Spain,Cape Verde,3,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Saudi Arabia,Uruguay,0,2
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Spain,Saudi Arabia,2,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Uruguay,Cape Verde,1,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Cape Verde,Saudi Arabia,0,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Uruguay,Spain,1,2
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,France,Senegal,2,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Iraq,Norway,0,2
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,France,Iraq,2,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Norway,Senegal,1,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Norway,France,1,2
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Senegal,Iraq,1,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Argentina,Algeria,3,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Austria,Jordan,2,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Argentina,Austria,2,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Jordan,Algeria,0,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Algeria,Austria,0,2
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Jordan,Argentina,0,2
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Portugal,DR Congo,2,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Uzbekistan,Colombia,0,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Portugal,Uzbekistan,2,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Colombia,DR Congo,1,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Colombia,Portugal,0,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,DR Congo,Uzbekistan,0,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,England,Croatia,0,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Ghana,Panama,0,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,England,Ghana,1,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Panama,Croatia,1,2
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Panama,England,1,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,group,Croatia,Ghana,1,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r32,South Korea,Bosnia & Herz.,0,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r32,Netherlands,Scotland,2,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r32,Brazil,Sweden,3,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r32,Germany,USA,2,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r32,Ecuador,Norway,1,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r32,Mexico,Morocco,1,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r32,Croatia,Senegal,2,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r32,Paraguay,Ivory Coast,1,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r32,Belgium,Czechia,2,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r32,Colombia,Panama,1,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r32,Spain,Austria,2,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r32,Switzerland,Egypt,2,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r32,Argentina,Uruguay,2,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r32,Portugal,England,2,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r32,Australia,New Zealand,1,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r32,France,Japan,2,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r16,Germany,France,0,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r16,Bosnia & Herz.,Netherlands,0,2
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r16,Brazil,Ecuador,1,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r16,Mexico,Croatia,0,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r16,Colombia,Spain,1,2
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r16,Paraguay,Belgium,2,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r16,Argentina,Australia,3,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,r16,Switzerland,Portugal,1,2
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,quarter,France,Netherlands,2,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,quarter,Spain,Paraguay,2,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,quarter,Brazil,Croatia,2,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,quarter,Argentina,Portugal,2,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,semi,France,Spain,0,1
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,semi,Brazil,Argentina,1,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,final,Spain,Brazil,1,0
+Mikey,d115516e-a0e4-4561-be26-85072eb44172,third,France,Argentina,0,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Mexico,South Africa,2,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,South Korea,Czechia,1,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Czechia,South Africa,1,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Mexico,South Korea,2,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Czechia,Mexico,1,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,South Africa,South Korea,3,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Canada,Bosnia & Herz.,2,0
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Qatar,Switzerland,0,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Switzerland,Bosnia & Herz.,2,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Canada,Qatar,1,3
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Switzerland,Canada,3,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Bosnia & Herz.,Qatar,1,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Brazil,Morocco,3,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Haiti,Scotland,0,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Scotland,Morocco,3,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Brazil,Haiti,4,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Scotland,Brazil,2,3
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Morocco,Haiti,2,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,USA,Paraguay,2,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Australia,Türkiye,2,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,USA,Australia,1,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Türkiye,Paraguay,1,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Türkiye,USA,3,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Paraguay,Australia,1,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Germany,Curaçao,3,0
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Ivory Coast,Ecuador,1,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Germany,Ivory Coast,3,0
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Ecuador,Curaçao,1,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Curaçao,Ivory Coast,2,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Ecuador,Germany,1,3
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Netherlands,Japan,3,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Sweden,Tunisia,2,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Netherlands,Sweden,2,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Tunisia,Japan,1,3
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Japan,Sweden,3,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Tunisia,Netherlands,1,0
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Belgium,Egypt,2,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Iran,New Zealand,3,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Belgium,Iran,2,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,New Zealand,Egypt,0,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Egypt,Iran,1,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,New Zealand,Belgium,1,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Spain,Cape Verde,3,0
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Saudi Arabia,Uruguay,1,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Spain,Saudi Arabia,3,0
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Uruguay,Cape Verde,2,0
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Cape Verde,Saudi Arabia,1,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Uruguay,Spain,1,4
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,France,Senegal,2,0
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Iraq,Norway,1,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,France,Iraq,2,0
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Norway,Senegal,2,0
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Norway,France,1,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Senegal,Iraq,1,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Argentina,Algeria,4,0
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Austria,Jordan,2,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Argentina,Austria,4,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Jordan,Algeria,1,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Algeria,Austria,1,3
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Jordan,Argentina,0,3
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Portugal,DR Congo,4,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Uzbekistan,Colombia,2,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Portugal,Uzbekistan,3,0
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Colombia,DR Congo,3,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Colombia,Portugal,2,4
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,DR Congo,Uzbekistan,1,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,England,Croatia,2,0
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Ghana,Panama,1,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,England,Ghana,3,0
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Panama,Croatia,2,3
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Panama,England,1,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,group,Croatia,Ghana,3,3
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r32,South Africa,Qatar,2,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r32,Japan,Scotland,1,3
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r32,Brazil,Netherlands,3,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r32,Germany,USA,3,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r32,Ecuador,Norway,1,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r32,Mexico,Morocco,3,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r32,England,Uzbekistan,2,0
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r32,Australia,Canada,2,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r32,Belgium,Curaçao,2,0
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r32,Colombia,Croatia,1,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r32,Spain,Austria,3,0
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r32,Switzerland,Egypt,1,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r32,Argentina,Uruguay,4,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r32,Portugal,Panama,3,0
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r32,Türkiye,Iran,1,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r32,France,Sweden,3,0
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r16,Germany,France,1,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r16,South Africa,Scotland,0,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r16,Brazil,Norway,3,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r16,Mexico,England,2,3
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r16,Croatia,Spain,1,3
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r16,Australia,Belgium,0,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r16,Argentina,Iran,3,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,r16,Egypt,Portugal,0,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,quarter,France,Scotland,1,0
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,quarter,Spain,Belgium,3,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,quarter,Brazil,England,2,0
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,quarter,Argentina,Portugal,1,3
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,semi,France,Spain,0,1
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,semi,Brazil,Portugal,1,2
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,final,Spain,Portugal,2,3
+Tom,c667a189-4903-49ab-8fbb-e59985d1bc93,third,France,Brazil,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Mexico,South Africa,3,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,South Korea,Czechia,3,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Czechia,South Africa,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Mexico,South Korea,3,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Czechia,Mexico,1,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,South Africa,South Korea,1,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Canada,Bosnia & Herz.,2,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Qatar,Switzerland,1,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Switzerland,Bosnia & Herz.,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Canada,Qatar,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Switzerland,Canada,2,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Bosnia & Herz.,Qatar,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Brazil,Morocco,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Haiti,Scotland,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Scotland,Morocco,1,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Brazil,Haiti,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Scotland,Brazil,0,3
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Morocco,Haiti,3,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,USA,Paraguay,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Australia,Türkiye,1,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,USA,Australia,2,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Türkiye,Paraguay,1,0
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Türkiye,USA,1,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Paraguay,Australia,1,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Germany,Curaçao,3,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Ivory Coast,Ecuador,2,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Germany,Ivory Coast,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Ecuador,Curaçao,3,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Curaçao,Ivory Coast,2,3
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Ecuador,Germany,1,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Netherlands,Japan,2,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Sweden,Tunisia,1,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Netherlands,Sweden,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Tunisia,Japan,1,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Japan,Sweden,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Tunisia,Netherlands,1,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Belgium,Egypt,2,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Iran,New Zealand,3,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Belgium,Iran,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,New Zealand,Egypt,1,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Egypt,Iran,1,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,New Zealand,Belgium,1,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Spain,Cape Verde,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Saudi Arabia,Uruguay,1,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Spain,Saudi Arabia,3,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Uruguay,Cape Verde,2,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Cape Verde,Saudi Arabia,2,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Uruguay,Spain,1,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,France,Senegal,1,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Iraq,Norway,2,3
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,France,Iraq,1,0
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Norway,Senegal,1,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Norway,France,1,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Senegal,Iraq,1,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Argentina,Algeria,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Austria,Jordan,3,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Argentina,Austria,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Jordan,Algeria,1,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Algeria,Austria,1,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Jordan,Argentina,1,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Portugal,DR Congo,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Uzbekistan,Colombia,2,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Portugal,Uzbekistan,1,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Colombia,DR Congo,1,0
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Colombia,Portugal,1,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,DR Congo,Uzbekistan,1,3
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,England,Croatia,1,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Ghana,Panama,1,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,England,Ghana,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Panama,Croatia,1,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Panama,England,1,3
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,group,Croatia,Ghana,2,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r32,South Korea,Canada,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r32,Netherlands,Morocco,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r32,Brazil,Japan,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r32,Germany,Czechia,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r32,Ecuador,Norway,1,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r32,Mexico,Ivory Coast,1,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r32,England,Colombia,2,0
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r32,USA,Bosnia & Herz.,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r32,Belgium,Senegal,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r32,Uzbekistan,Croatia,2,3
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r32,Spain,Austria,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r32,Switzerland,Egypt,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r32,Argentina,Uruguay,2,0
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r32,Portugal,Türkiye,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r32,Australia,Iran,3,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r32,France,Haiti,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r16,Germany,France,2,3
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r16,South Korea,Netherlands,4,3
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r16,Brazil,Norway,4,3
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r16,Ivory Coast,England,2,3
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r16,Croatia,Spain,2,3
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r16,USA,Belgium,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r16,Argentina,Australia,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,r16,Switzerland,Portugal,1,3
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,quarter,France,South Korea,3,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,quarter,Spain,USA,3,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,quarter,Brazil,England,2,3
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,quarter,Argentina,Portugal,4,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,semi,France,Spain,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,semi,England,Argentina,1,2
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,final,France,Argentina,2,1
+Martin L,b74e42db-4efa-4860-a219-eed77f6b2693,third,Spain,England,1,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Mexico,South Africa,2,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,South Korea,Czechia,1,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Czechia,South Africa,3,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Mexico,South Korea,2,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Czechia,Mexico,0,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,South Africa,South Korea,1,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Canada,Bosnia & Herz.,1,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Qatar,Switzerland,1,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Switzerland,Bosnia & Herz.,2,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Canada,Qatar,1,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Switzerland,Canada,1,3
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Bosnia & Herz.,Qatar,0,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Brazil,Morocco,3,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Haiti,Scotland,0,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Scotland,Morocco,1,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Brazil,Haiti,3,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Scotland,Brazil,0,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Morocco,Haiti,3,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,USA,Paraguay,0,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Australia,Türkiye,1,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,USA,Australia,0,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Türkiye,Paraguay,2,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Türkiye,USA,2,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Paraguay,Australia,0,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Germany,Curaçao,5,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Ivory Coast,Ecuador,2,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Germany,Ivory Coast,1,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Ecuador,Curaçao,3,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Curaçao,Ivory Coast,0,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Ecuador,Germany,1,3
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Netherlands,Japan,3,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Sweden,Tunisia,2,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Netherlands,Sweden,2,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Tunisia,Japan,2,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Japan,Sweden,1,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Tunisia,Netherlands,2,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Belgium,Egypt,1,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Iran,New Zealand,3,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Belgium,Iran,0,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,New Zealand,Egypt,0,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Egypt,Iran,2,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,New Zealand,Belgium,1,5
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Spain,Cape Verde,4,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Saudi Arabia,Uruguay,2,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Spain,Saudi Arabia,3,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Uruguay,Cape Verde,3,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Cape Verde,Saudi Arabia,1,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Uruguay,Spain,1,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,France,Senegal,2,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Iraq,Norway,1,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,France,Iraq,2,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Norway,Senegal,2,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Norway,France,2,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Senegal,Iraq,3,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Argentina,Algeria,0,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Austria,Jordan,1,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Argentina,Austria,1,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Jordan,Algeria,1,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Algeria,Austria,0,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Jordan,Argentina,0,3
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Portugal,DR Congo,3,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Uzbekistan,Colombia,0,3
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Portugal,Uzbekistan,2,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Colombia,DR Congo,3,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Colombia,Portugal,2,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,DR Congo,Uzbekistan,2,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,England,Croatia,1,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Ghana,Panama,3,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,England,Ghana,1,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Panama,Croatia,1,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Panama,England,0,3
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,group,Croatia,Ghana,2,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r32,Czechia,Switzerland,1,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r32,Netherlands,Morocco,1,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r32,Brazil,Tunisia,3,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r32,Ivory Coast,Paraguay,2,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r32,Germany,France,3,4
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r32,Mexico,Ecuador,1,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r32,England,Senegal,3,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r32,Türkiye,Qatar,2,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r32,Iran,Argentina,1,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r32,Portugal,Croatia,0,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r32,Spain,Austria,3,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r32,Canada,Belgium,0,3
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r32,Algeria,Uruguay,2,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r32,Colombia,Ghana,2,3
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r32,Australia,Egypt,1,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r32,Norway,Japan,1,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r16,Ivory Coast,Norway,0,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r16,Switzerland,Morocco,1,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r16,Brazil,France,1,3
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r16,Ecuador,England,1,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r16,Croatia,Spain,1,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r16,Türkiye,Iran,2,1
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r16,Algeria,Egypt,2,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,r16,Belgium,Ghana,2,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,quarter,Norway,Switzerland,1,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,quarter,Spain,Türkiye,1,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,quarter,France,England,0,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,quarter,Algeria,Belgium,1,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,semi,Norway,Spain,0,2
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,semi,England,Belgium,1,0
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,final,Spain,England,2,3
+BlueLaGoons,ce30889f-bfff-4066-898e-162a19336019,third,Norway,Belgium,2,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Mexico,South Africa,2,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,South Korea,Czechia,1,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Czechia,South Africa,1,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Mexico,South Korea,2,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Czechia,Mexico,0,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,South Africa,South Korea,1,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Canada,Bosnia & Herz.,0,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Qatar,Switzerland,0,2
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Switzerland,Bosnia & Herz.,2,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Canada,Qatar,1,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Switzerland,Canada,2,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Bosnia & Herz.,Qatar,1,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Brazil,Morocco,2,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Haiti,Scotland,0,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Scotland,Morocco,1,3
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Brazil,Haiti,4,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Scotland,Brazil,1,3
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Morocco,Haiti,2,2
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,USA,Paraguay,1,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Australia,Türkiye,0,3
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,USA,Australia,2,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Türkiye,Paraguay,1,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Türkiye,USA,3,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Paraguay,Australia,2,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Germany,Curaçao,4,2
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Ivory Coast,Ecuador,3,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Germany,Ivory Coast,4,3
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Ecuador,Curaçao,2,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Curaçao,Ivory Coast,0,3
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Ecuador,Germany,1,3
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Netherlands,Japan,3,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Sweden,Tunisia,2,2
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Netherlands,Sweden,3,2
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Tunisia,Japan,1,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Japan,Sweden,2,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Tunisia,Netherlands,1,3
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Belgium,Egypt,2,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Iran,New Zealand,2,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Belgium,Iran,3,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,New Zealand,Egypt,1,2
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Egypt,Iran,3,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,New Zealand,Belgium,1,4
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Spain,Cape Verde,5,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Saudi Arabia,Uruguay,1,3
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Spain,Saudi Arabia,4,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Uruguay,Cape Verde,3,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Cape Verde,Saudi Arabia,0,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Uruguay,Spain,3,3
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,France,Senegal,3,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Iraq,Norway,0,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,France,Iraq,2,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Norway,Senegal,2,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Norway,France,1,3
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Senegal,Iraq,2,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Argentina,Algeria,3,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Austria,Jordan,2,2
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Argentina,Austria,1,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Jordan,Algeria,0,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Algeria,Austria,1,2
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Jordan,Argentina,0,3
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Portugal,DR Congo,4,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Uzbekistan,Colombia,1,2
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Portugal,Uzbekistan,3,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Colombia,DR Congo,2,2
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Colombia,Portugal,0,2
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,DR Congo,Uzbekistan,3,3
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,England,Croatia,2,2
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Ghana,Panama,2,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,England,Ghana,1,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Panama,Croatia,0,2
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Panama,England,1,3
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,group,Croatia,Ghana,3,3
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r32,South Korea,Bosnia & Herz.,2,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r32,Netherlands,Morocco,3,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r32,Brazil,Japan,5,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r32,Germany,Scotland,2,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r32,Ivory Coast,Norway,2,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r32,Mexico,Ecuador,3,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r32,England,Senegal,4,3
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r32,Türkiye,Canada,3,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r32,Belgium,Saudi Arabia,2,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r32,Colombia,Croatia,1,2
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r32,Spain,Austria,4,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r32,Switzerland,Iran,2,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r32,Argentina,Uruguay,2,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r32,Portugal,Ghana,5,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r32,Paraguay,Egypt,0,2
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r32,France,USA,3,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r16,Germany,France,1,2
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r16,South Korea,Netherlands,1,3
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r16,Brazil,Ivory Coast,3,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r16,Mexico,England,0,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r16,Croatia,Spain,0,4
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r16,Türkiye,Belgium,1,2
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r16,Argentina,Egypt,2,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,r16,Switzerland,Portugal,0,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,quarter,France,Netherlands,3,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,quarter,Spain,Belgium,2,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,quarter,Brazil,England,3,1
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,quarter,Argentina,Portugal,0,2
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,semi,France,Spain,1,2
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,semi,Brazil,Portugal,2,0
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,final,Spain,Brazil,1,3
+Estevao,18a2cc17-db95-4a74-a051-d6a97028e11e,third,France,Portugal,3,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Mexico,South Africa,1,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,South Korea,Czechia,1,2
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Czechia,South Africa,2,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Mexico,South Korea,1,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Czechia,Mexico,2,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,South Africa,South Korea,1,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Canada,Bosnia & Herz.,0,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Qatar,Switzerland,0,2
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Switzerland,Bosnia & Herz.,1,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Canada,Qatar,1,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Switzerland,Canada,1,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Bosnia & Herz.,Qatar,2,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Brazil,Morocco,3,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Haiti,Scotland,0,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Scotland,Morocco,1,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Brazil,Haiti,5,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Scotland,Brazil,0,3
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Morocco,Haiti,1,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,USA,Paraguay,1,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Australia,Türkiye,1,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,USA,Australia,1,2
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Türkiye,Paraguay,1,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Türkiye,USA,1,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Paraguay,Australia,1,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Germany,Curaçao,5,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Ivory Coast,Ecuador,2,2
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Germany,Ivory Coast,2,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Ecuador,Curaçao,1,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Curaçao,Ivory Coast,0,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Ecuador,Germany,1,4
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Netherlands,Japan,3,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Sweden,Tunisia,1,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Netherlands,Sweden,3,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Tunisia,Japan,0,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Japan,Sweden,1,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Tunisia,Netherlands,0,5
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Belgium,Egypt,3,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Iran,New Zealand,1,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Belgium,Iran,2,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,New Zealand,Egypt,0,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Egypt,Iran,1,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,New Zealand,Belgium,1,5
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Spain,Cape Verde,6,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Saudi Arabia,Uruguay,1,2
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Spain,Saudi Arabia,4,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Uruguay,Cape Verde,2,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Cape Verde,Saudi Arabia,1,2
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Uruguay,Spain,1,2
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,France,Senegal,2,2
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Iraq,Norway,0,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,France,Iraq,3,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Norway,Senegal,1,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Norway,France,1,2
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Senegal,Iraq,1,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Argentina,Algeria,7,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Austria,Jordan,1,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Argentina,Austria,4,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Jordan,Algeria,1,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Algeria,Austria,1,2
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Jordan,Argentina,0,9
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Portugal,DR Congo,1,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Uzbekistan,Colombia,0,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Portugal,Uzbekistan,1,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Colombia,DR Congo,1,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Colombia,Portugal,1,2
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,DR Congo,Uzbekistan,0,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,England,Croatia,2,2
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Ghana,Panama,1,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,England,Ghana,2,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Panama,Croatia,1,2
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Panama,England,0,3
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,group,Croatia,Ghana,1,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r32,Mexico,Switzerland,2,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r32,Netherlands,Morocco,4,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r32,Brazil,Sweden,4,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r32,Germany,Scotland,4,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r32,Ivory Coast,Senegal,1,2
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r32,Czechia,Ecuador,2,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r32,England,Norway,2,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r32,Türkiye,Canada,1,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r32,Belgium,Saudi Arabia,3,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r32,Colombia,Croatia,1,2
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r32,Spain,Austria,3,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r32,Bosnia & Herz.,Iran,1,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r32,Argentina,Uruguay,3,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r32,Portugal,Ghana,2,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r32,Australia,Egypt,1,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r32,France,Japan,4,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r16,Germany,France,1,3
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r16,Mexico,Netherlands,0,3
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r16,Brazil,Senegal,4,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r16,Czechia,England,0,2
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r16,Croatia,Spain,1,3
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r16,Türkiye,Belgium,1,3
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r16,Argentina,Australia,2,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,r16,Bosnia & Herz.,Portugal,1,3
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,quarter,France,Netherlands,3,4
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,quarter,Spain,Belgium,1,2
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,quarter,Brazil,England,2,3
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,quarter,Argentina,Portugal,3,2
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,semi,Netherlands,Belgium,3,1
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,semi,England,Argentina,1,0
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,final,Netherlands,England,1,2
+Haydos,89c7ff61-25bd-45c1-89c7-fd42247eecc1,third,Belgium,Argentina,1,2
