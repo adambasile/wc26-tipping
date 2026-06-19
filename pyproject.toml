@@ -5,15 +5,20 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
-    "jupyterlab>=4.5.8",
+    "jupyterlab>=4.6.0",
+    "matplotlib>=3.11.0",
     "pandas>=3.0.3",
+    "scikit-learn>=1.9.0",
     "selenium>=4.45.0",
 ]
-
-[tool.ruff]
-line-length = 120
 
 [dependency-groups]
 dev = [
     "ruff>=0.15.17",
 ]
+
+[tool.ruff]
+line-length = 120
+
+[tool.ruff.lint]
+extend-select = ["I"]

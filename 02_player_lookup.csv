@@ -1,26 +1,26 @@
-player_id,name
-dccdfaa8-597a-487a-bef5-f647b229c99e,Adam B
-4167d10f-9a15-4611-86de-b6798b39f9b6,Albert
-3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,Antoni Brdarovski
-ce30889f-bfff-4066-898e-162a19336019,BlueLaGoons
-bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,Claude (AI)
-8491ba79-0767-4bc3-a448-9b398e225d91,Damian
-0715a45d-7714-4c5d-8ff7-6876d798ad2e,Dan
-fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,Dave L
-f39f9959-db27-4eef-a7ae-134ef81039e7,Doug
-2baf50ef-338b-4548-afde-dec1eb5f0c42,Downsy
-3886cef4-2051-48e8-a788-74297b9ad782,ESPN (Ryan O'Hanlon's tips)
-18a2cc17-db95-4a74-a051-d6a97028e11e,Estevao
-0a4bd451-a9d4-4a43-99d6-df889972467d,Giuseppe
-89c7ff61-25bd-45c1-89c7-fd42247eecc1,Haydos
-234def4c-c0b8-4b02-add2-b6978dbafd07,Jon
-62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,Kuba
-91474634-afa8-4b12-b3c2-6ef8de98cb44,Luce
-dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,MarcinC
-b74e42db-4efa-4860-a219-eed77f6b2693,Martin L
-d115516e-a0e4-4561-be26-85072eb44172,Mikey
-c09124b5-5911-4f85-82c6-c63f7168e9f0,Sherram
-d82eb5e8-aef3-45a8-8304-f011c09d58e8,Smith
-690407df-6ec3-454c-9893-0672f66209f7,Tamara
-9a09e6d3-e646-47a2-86da-3637be85da54,Tom
-c667a189-4903-49ab-8fbb-e59985d1bc93,Tom
+player_id,name,safe_name
+dccdfaa8-597a-487a-bef5-f647b229c99e,Adam B,Adam B
+4167d10f-9a15-4611-86de-b6798b39f9b6,Albert,Albert
+3a6c94b3-7f1b-4715-a4b3-f7e3f8f8f1b1,Antoni Brdarovski,Antoni Brdarovski
+ce30889f-bfff-4066-898e-162a19336019,BlueLaGoons,BlueLaGoons
+bf39bb0f-7ff8-4888-ae5d-52a2cd5264a9,Claude (AI),Claude (AI)
+8491ba79-0767-4bc3-a448-9b398e225d91,Damian,Damian
+0715a45d-7714-4c5d-8ff7-6876d798ad2e,Dan,Dan
+fdb7f4a5-fa40-45ca-bf29-ecf2e867aa1d,Dave L,Dave L
+f39f9959-db27-4eef-a7ae-134ef81039e7,Doug,Doug
+2baf50ef-338b-4548-afde-dec1eb5f0c42,Downsy,Downsy
+3886cef4-2051-48e8-a788-74297b9ad782,ESPN (Ryan O'Hanlon's tips),ESPN (Ryan O'Hanlon's tips)
+18a2cc17-db95-4a74-a051-d6a97028e11e,Estevao,Estevao
+0a4bd451-a9d4-4a43-99d6-df889972467d,Giuseppe,Giuseppe
+89c7ff61-25bd-45c1-89c7-fd42247eecc1,Haydos,Haydos
+234def4c-c0b8-4b02-add2-b6978dbafd07,Jon,Jon
+62ff6fe8-4cc6-4e5e-bc7b-de7c2c7f5397,Kuba,Kuba
+91474634-afa8-4b12-b3c2-6ef8de98cb44,Luce,Luce
+dc7bf1d1-a35f-4d35-a68e-1a3a325c23e0,MarcinC,MarcinC
+b74e42db-4efa-4860-a219-eed77f6b2693,Martin L,Martin L
+d115516e-a0e4-4561-be26-85072eb44172,Mikey,Mikey
+c09124b5-5911-4f85-82c6-c63f7168e9f0,Sherram,Sherram
+d82eb5e8-aef3-45a8-8304-f011c09d58e8,Smith,Smith
+690407df-6ec3-454c-9893-0672f66209f7,Tamara,Tamara
+9a09e6d3-e646-47a2-86da-3637be85da54,Tom,Tom (9a0)
+c667a189-4903-49ab-8fbb-e59985d1bc93,Tom,Tom (c66)
