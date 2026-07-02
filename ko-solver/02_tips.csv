@@ -1,0 +1,1387 @@
+player,team,stage
+Dan,ARG,R32
+Dan,ARG,R16
+Dan,ARG,quarter
+Dan,ARG,semi
+Dan,AUS,R32
+Dan,AUS,R16
+Dan,AUT,R32
+Dan,BEL,R32
+Dan,BEL,R16
+Dan,BEL,quarter
+Dan,BRA,R32
+Dan,CAN,R32
+Dan,COL,R32
+Dan,CRO,R32
+Dan,CRO,R16
+Dan,ECU,R32
+Dan,ENG,R32
+Dan,ENG,R16
+Dan,ENG,quarter
+Dan,ENG,semi
+Dan,ENG,final
+Dan,FRA,R32
+Dan,FRA,R16
+Dan,FRA,quarter
+Dan,FRA,semi
+Dan,FRA,final
+Dan,FRA,winner
+Dan,GER,R32
+Dan,GER,R16
+Dan,GHA,R32
+Dan,CIV,R32
+Dan,JPN,R32
+Dan,JPN,R16
+Dan,JPN,quarter
+Dan,MEX,R32
+Dan,MAR,R32
+Dan,NED,R32
+Dan,NED,R16
+Dan,NED,quarter
+Dan,NOR,R32
+Dan,NOR,R16
+Dan,POR,R32
+Dan,POR,R16
+Dan,POR,quarter
+Dan,ESP,R32
+Dan,ESP,R16
+Dan,ESP,quarter
+Dan,ESP,semi
+Dan,SWE,R32
+Dan,SUI,R32
+Dan,SUI,R16
+Dan,USA,R32
+Giuseppe,ALG,R32
+Giuseppe,ARG,R32
+Giuseppe,ARG,R16
+Giuseppe,ARG,quarter
+Giuseppe,AUT,R32
+Giuseppe,BEL,R32
+Giuseppe,BEL,R16
+Giuseppe,BIH,R32
+Giuseppe,BIH,R16
+Giuseppe,BRA,R32
+Giuseppe,BRA,R16
+Giuseppe,BRA,quarter
+Giuseppe,CAN,R32
+Giuseppe,COL,R32
+Giuseppe,COL,R16
+Giuseppe,CRO,R32
+Giuseppe,ECU,R32
+Giuseppe,ECU,R16
+Giuseppe,EGY,R32
+Giuseppe,ENG,R32
+Giuseppe,ENG,R16
+Giuseppe,ENG,quarter
+Giuseppe,ENG,semi
+Giuseppe,ENG,final
+Giuseppe,FRA,R32
+Giuseppe,FRA,R16
+Giuseppe,FRA,quarter
+Giuseppe,FRA,semi
+Giuseppe,FRA,final
+Giuseppe,FRA,winner
+Giuseppe,GER,R32
+Giuseppe,GER,R16
+Giuseppe,GHA,R32
+Giuseppe,CIV,R32
+Giuseppe,JPN,R32
+Giuseppe,MEX,R32
+Giuseppe,MEX,R16
+Giuseppe,MAR,R32
+Giuseppe,MAR,R16
+Giuseppe,MAR,quarter
+Giuseppe,NED,R32
+Giuseppe,NOR,R32
+Giuseppe,POR,R32
+Giuseppe,POR,R16
+Giuseppe,POR,quarter
+Giuseppe,POR,semi
+Giuseppe,SEN,R32
+Giuseppe,ESP,R32
+Giuseppe,ESP,R16
+Giuseppe,ESP,quarter
+Giuseppe,ESP,semi
+Giuseppe,ESP,third
+Giuseppe,SWE,R32
+Giuseppe,SUI,R32
+Giuseppe,USA,R32
+Giuseppe,USA,R16
+Estevao,ARG,R32
+Estevao,ARG,R16
+Estevao,ARG,quarter
+Estevao,AUT,R32
+Estevao,BEL,R32
+Estevao,BEL,R16
+Estevao,BEL,quarter
+Estevao,BIH,R32
+Estevao,BRA,R32
+Estevao,BRA,R16
+Estevao,BRA,quarter
+Estevao,BRA,semi
+Estevao,BRA,final
+Estevao,BRA,winner
+Estevao,CAN,R32
+Estevao,COL,R32
+Estevao,CRO,R32
+Estevao,CRO,R16
+Estevao,ECU,R32
+Estevao,EGY,R32
+Estevao,EGY,R16
+Estevao,ENG,R32
+Estevao,ENG,R16
+Estevao,ENG,quarter
+Estevao,FRA,R32
+Estevao,FRA,R16
+Estevao,FRA,quarter
+Estevao,FRA,semi
+Estevao,FRA,third
+Estevao,GER,R32
+Estevao,GER,R16
+Estevao,GHA,R32
+Estevao,CIV,R32
+Estevao,CIV,R16
+Estevao,JPN,R32
+Estevao,MEX,R32
+Estevao,MEX,R16
+Estevao,MAR,R32
+Estevao,NED,R32
+Estevao,NED,R16
+Estevao,NED,quarter
+Estevao,NOR,R32
+Estevao,PAR,R32
+Estevao,POR,R32
+Estevao,POR,R16
+Estevao,POR,quarter
+Estevao,POR,semi
+Estevao,SEN,R32
+Estevao,ESP,R32
+Estevao,ESP,R16
+Estevao,ESP,quarter
+Estevao,ESP,semi
+Estevao,ESP,final
+Estevao,SUI,R32
+Estevao,SUI,R16
+Estevao,USA,R32
+Jon,ALG,R32
+Jon,ARG,R32
+Jon,ARG,R16
+Jon,ARG,quarter
+Jon,ARG,semi
+Jon,AUT,R32
+Jon,AUT,R16
+Jon,BEL,R32
+Jon,BEL,R16
+Jon,BEL,quarter
+Jon,BIH,R32
+Jon,BRA,R32
+Jon,BRA,R16
+Jon,BRA,quarter
+Jon,CAN,R32
+Jon,COL,R32
+Jon,COL,R16
+Jon,CRO,R32
+Jon,COD,R32
+Jon,ECU,R32
+Jon,EGY,R32
+Jon,ENG,R32
+Jon,ENG,R16
+Jon,ENG,quarter
+Jon,ENG,semi
+Jon,ENG,final
+Jon,FRA,R32
+Jon,FRA,R16
+Jon,FRA,quarter
+Jon,FRA,semi
+Jon,FRA,final
+Jon,FRA,winner
+Jon,GER,R32
+Jon,GER,R16
+Jon,CIV,R32
+Jon,JPN,R32
+Jon,JPN,R16
+Jon,JPN,quarter
+Jon,MEX,R32
+Jon,MEX,R16
+Jon,MAR,R32
+Jon,NED,R32
+Jon,NOR,R32
+Jon,NOR,R16
+Jon,POR,R32
+Jon,POR,R16
+Jon,POR,quarter
+Jon,SEN,R32
+Jon,ESP,R32
+Jon,ESP,R16
+Jon,ESP,quarter
+Jon,ESP,semi
+Jon,ESP,third
+Jon,SUI,R32
+Jon,SUI,R16
+Jon,USA,R32
+Jon,USA,R16
+Downsy,ALG,R32
+Downsy,ARG,R32
+Downsy,ARG,R16
+Downsy,ARG,quarter
+Downsy,AUS,R32
+Downsy,AUS,R16
+Downsy,AUT,R32
+Downsy,BEL,R32
+Downsy,BEL,R16
+Downsy,BRA,R32
+Downsy,BRA,R16
+Downsy,BRA,quarter
+Downsy,BRA,semi
+Downsy,BRA,final
+Downsy,BRA,winner
+Downsy,COL,R32
+Downsy,COL,R16
+Downsy,COL,quarter
+Downsy,COL,semi
+Downsy,CRO,R32
+Downsy,ECU,R32
+Downsy,ENG,R32
+Downsy,ENG,R16
+Downsy,ENG,quarter
+Downsy,FRA,R32
+Downsy,FRA,R16
+Downsy,GER,R32
+Downsy,GER,R16
+Downsy,GER,quarter
+Downsy,GER,semi
+Downsy,GER,final
+Downsy,GHA,R32
+Downsy,CIV,R32
+Downsy,JPN,R32
+Downsy,MEX,R32
+Downsy,MEX,R16
+Downsy,MAR,R32
+Downsy,NED,R32
+Downsy,NED,R16
+Downsy,NOR,R32
+Downsy,NOR,R16
+Downsy,POR,R32
+Downsy,POR,R16
+Downsy,ESP,R32
+Downsy,ESP,R16
+Downsy,ESP,quarter
+Downsy,ESP,semi
+Downsy,ESP,third
+Downsy,SUI,R32
+Downsy,SUI,R16
+Downsy,USA,R32
+Downsy,USA,R16
+Downsy,USA,quarter
+ESPN (Ryan O'Hanlon's tips),ARG,R32
+ESPN (Ryan O'Hanlon's tips),ARG,R16
+ESPN (Ryan O'Hanlon's tips),ARG,quarter
+ESPN (Ryan O'Hanlon's tips),ARG,semi
+ESPN (Ryan O'Hanlon's tips),ARG,final
+ESPN (Ryan O'Hanlon's tips),AUT,R32
+ESPN (Ryan O'Hanlon's tips),BEL,R32
+ESPN (Ryan O'Hanlon's tips),BEL,R16
+ESPN (Ryan O'Hanlon's tips),BRA,R32
+ESPN (Ryan O'Hanlon's tips),CAN,R32
+ESPN (Ryan O'Hanlon's tips),CAN,R16
+ESPN (Ryan O'Hanlon's tips),CAN,quarter
+ESPN (Ryan O'Hanlon's tips),COL,R32
+ESPN (Ryan O'Hanlon's tips),COL,R16
+ESPN (Ryan O'Hanlon's tips),COL,quarter
+ESPN (Ryan O'Hanlon's tips),CRO,R32
+ESPN (Ryan O'Hanlon's tips),CRO,R16
+ESPN (Ryan O'Hanlon's tips),COD,R32
+ESPN (Ryan O'Hanlon's tips),ECU,R32
+ESPN (Ryan O'Hanlon's tips),ENG,R32
+ESPN (Ryan O'Hanlon's tips),ENG,R16
+ESPN (Ryan O'Hanlon's tips),ENG,quarter
+ESPN (Ryan O'Hanlon's tips),FRA,R32
+ESPN (Ryan O'Hanlon's tips),FRA,R16
+ESPN (Ryan O'Hanlon's tips),FRA,quarter
+ESPN (Ryan O'Hanlon's tips),FRA,semi
+ESPN (Ryan O'Hanlon's tips),GER,R32
+ESPN (Ryan O'Hanlon's tips),GER,R16
+ESPN (Ryan O'Hanlon's tips),CIV,R32
+ESPN (Ryan O'Hanlon's tips),JPN,R32
+ESPN (Ryan O'Hanlon's tips),JPN,R16
+ESPN (Ryan O'Hanlon's tips),MEX,R32
+ESPN (Ryan O'Hanlon's tips),MEX,R16
+ESPN (Ryan O'Hanlon's tips),MAR,R32
+ESPN (Ryan O'Hanlon's tips),NED,R32
+ESPN (Ryan O'Hanlon's tips),NED,R16
+ESPN (Ryan O'Hanlon's tips),NOR,R32
+ESPN (Ryan O'Hanlon's tips),NOR,R16
+ESPN (Ryan O'Hanlon's tips),NOR,quarter
+ESPN (Ryan O'Hanlon's tips),NOR,semi
+ESPN (Ryan O'Hanlon's tips),NOR,third
+ESPN (Ryan O'Hanlon's tips),PAR,R32
+ESPN (Ryan O'Hanlon's tips),SEN,R32
+ESPN (Ryan O'Hanlon's tips),ESP,R32
+ESPN (Ryan O'Hanlon's tips),ESP,R16
+ESPN (Ryan O'Hanlon's tips),ESP,quarter
+ESPN (Ryan O'Hanlon's tips),ESP,semi
+ESPN (Ryan O'Hanlon's tips),ESP,final
+ESPN (Ryan O'Hanlon's tips),ESP,winner
+ESPN (Ryan O'Hanlon's tips),SWE,R32
+ESPN (Ryan O'Hanlon's tips),SUI,R32
+ESPN (Ryan O'Hanlon's tips),USA,R32
+ESPN (Ryan O'Hanlon's tips),USA,R16
+ESPN (Ryan O'Hanlon's tips),USA,quarter
+Antoni Brdarovski,ARG,R32
+Antoni Brdarovski,ARG,R16
+Antoni Brdarovski,ARG,quarter
+Antoni Brdarovski,AUS,R32
+Antoni Brdarovski,AUS,R16
+Antoni Brdarovski,AUT,R32
+Antoni Brdarovski,BEL,R32
+Antoni Brdarovski,BEL,R16
+Antoni Brdarovski,BEL,quarter
+Antoni Brdarovski,BIH,R32
+Antoni Brdarovski,BRA,R32
+Antoni Brdarovski,CAN,R32
+Antoni Brdarovski,CAN,R16
+Antoni Brdarovski,CAN,quarter
+Antoni Brdarovski,COL,R32
+Antoni Brdarovski,CRO,R32
+Antoni Brdarovski,CRO,R16
+Antoni Brdarovski,ECU,R32
+Antoni Brdarovski,ECU,R16
+Antoni Brdarovski,ECU,quarter
+Antoni Brdarovski,EGY,R32
+Antoni Brdarovski,ENG,R32
+Antoni Brdarovski,ENG,R16
+Antoni Brdarovski,ENG,quarter
+Antoni Brdarovski,ENG,semi
+Antoni Brdarovski,ENG,third
+Antoni Brdarovski,FRA,R32
+Antoni Brdarovski,FRA,R16
+Antoni Brdarovski,FRA,quarter
+Antoni Brdarovski,FRA,semi
+Antoni Brdarovski,FRA,final
+Antoni Brdarovski,GER,R32
+Antoni Brdarovski,GER,R16
+Antoni Brdarovski,GHA,R32
+Antoni Brdarovski,CIV,R32
+Antoni Brdarovski,JPN,R32
+Antoni Brdarovski,MEX,R32
+Antoni Brdarovski,MEX,R16
+Antoni Brdarovski,MAR,R32
+Antoni Brdarovski,NED,R32
+Antoni Brdarovski,NED,R16
+Antoni Brdarovski,NOR,R32
+Antoni Brdarovski,PAR,R32
+Antoni Brdarovski,POR,R32
+Antoni Brdarovski,POR,R16
+Antoni Brdarovski,POR,quarter
+Antoni Brdarovski,POR,semi
+Antoni Brdarovski,POR,final
+Antoni Brdarovski,POR,winner
+Antoni Brdarovski,RSA,R32
+Antoni Brdarovski,ESP,R32
+Antoni Brdarovski,ESP,R16
+Antoni Brdarovski,ESP,quarter
+Antoni Brdarovski,ESP,semi
+Antoni Brdarovski,SWE,R32
+Antoni Brdarovski,SWE,R16
+Antoni Brdarovski,SUI,R32
+Antoni Brdarovski,SUI,R16
+Albert,ALG,R32
+Albert,ARG,R32
+Albert,ARG,R16
+Albert,ARG,quarter
+Albert,ARG,semi
+Albert,ARG,final
+Albert,AUS,R32
+Albert,AUS,R16
+Albert,BEL,R32
+Albert,BEL,R16
+Albert,BEL,quarter
+Albert,BEL,semi
+Albert,BRA,R32
+Albert,BRA,R16
+Albert,BRA,quarter
+Albert,BRA,semi
+Albert,BRA,third
+Albert,CAN,R32
+Albert,CAN,R16
+Albert,COL,R32
+Albert,COL,R16
+Albert,COL,quarter
+Albert,CRO,R32
+Albert,EGY,R32
+Albert,ENG,R32
+Albert,ENG,R16
+Albert,ENG,quarter
+Albert,FRA,R32
+Albert,FRA,R16
+Albert,FRA,quarter
+Albert,GER,R32
+Albert,GER,R16
+Albert,CIV,R32
+Albert,JPN,R32
+Albert,MEX,R32
+Albert,MEX,R16
+Albert,MAR,R32
+Albert,NED,R32
+Albert,NED,R16
+Albert,NED,quarter
+Albert,NED,semi
+Albert,NED,final
+Albert,NED,winner
+Albert,NOR,R32
+Albert,NOR,R16
+Albert,PAR,R32
+Albert,PAR,R16
+Albert,POR,R32
+Albert,POR,R16
+Albert,RSA,R32
+Albert,ESP,R32
+Albert,ESP,R16
+Albert,ESP,quarter
+Albert,SWE,R32
+Albert,SUI,R32
+Kuba,ALG,R32
+Kuba,ARG,R32
+Kuba,ARG,R16
+Kuba,ARG,quarter
+Kuba,AUS,R32
+Kuba,AUT,R32
+Kuba,BEL,R32
+Kuba,BEL,R16
+Kuba,BIH,R32
+Kuba,BRA,R32
+Kuba,BRA,R16
+Kuba,BRA,quarter
+Kuba,CAN,R32
+Kuba,COL,R32
+Kuba,CRO,R32
+Kuba,CRO,R16
+Kuba,EGY,R32
+Kuba,ENG,R32
+Kuba,ENG,R16
+Kuba,ENG,quarter
+Kuba,ENG,semi
+Kuba,ENG,final
+Kuba,ENG,winner
+Kuba,FRA,R32
+Kuba,FRA,R16
+Kuba,FRA,quarter
+Kuba,FRA,semi
+Kuba,FRA,final
+Kuba,GER,R32
+Kuba,GER,R16
+Kuba,GHA,R32
+Kuba,CIV,R32
+Kuba,CIV,R16
+Kuba,JPN,R32
+Kuba,MEX,R32
+Kuba,MEX,R16
+Kuba,MAR,R32
+Kuba,MAR,R16
+Kuba,MAR,quarter
+Kuba,NED,R32
+Kuba,NOR,R32
+Kuba,POR,R32
+Kuba,POR,R16
+Kuba,POR,quarter
+Kuba,POR,semi
+Kuba,SEN,R32
+Kuba,ESP,R32
+Kuba,ESP,R16
+Kuba,ESP,quarter
+Kuba,ESP,semi
+Kuba,ESP,third
+Kuba,SWE,R32
+Kuba,SUI,R32
+Kuba,SUI,R16
+Kuba,USA,R32
+Kuba,USA,R16
+Kuba,USA,quarter
+Tamara,ALG,R32
+Tamara,ARG,R32
+Tamara,ARG,R16
+Tamara,ARG,quarter
+Tamara,ARG,semi
+Tamara,ARG,final
+Tamara,AUS,R32
+Tamara,AUS,R16
+Tamara,AUT,R32
+Tamara,BEL,R32
+Tamara,BEL,R16
+Tamara,BIH,R32
+Tamara,BRA,R32
+Tamara,BRA,R16
+Tamara,BRA,quarter
+Tamara,BRA,semi
+Tamara,CAN,R32
+Tamara,COL,R32
+Tamara,CRO,R32
+Tamara,CRO,R16
+Tamara,ECU,R32
+Tamara,ECU,R16
+Tamara,ENG,R32
+Tamara,ENG,R16
+Tamara,FRA,R32
+Tamara,FRA,R16
+Tamara,FRA,quarter
+Tamara,FRA,semi
+Tamara,FRA,third
+Tamara,GER,R32
+Tamara,GER,R16
+Tamara,JPN,R32
+Tamara,JPN,R16
+Tamara,JPN,quarter
+Tamara,MEX,R32
+Tamara,MEX,R16
+Tamara,MEX,quarter
+Tamara,MAR,R32
+Tamara,NED,R32
+Tamara,NOR,R32
+Tamara,POR,R32
+Tamara,POR,R16
+Tamara,POR,quarter
+Tamara,ESP,R32
+Tamara,ESP,R16
+Tamara,ESP,quarter
+Tamara,ESP,semi
+Tamara,ESP,final
+Tamara,ESP,winner
+Tamara,SWE,R32
+Tamara,SUI,R32
+Tamara,SUI,R16
+Tamara,USA,R32
+Tamara,USA,R16
+Tamara,USA,quarter
+Damian,ARG,R32
+Damian,ARG,R16
+Damian,ARG,quarter
+Damian,ARG,semi
+Damian,AUS,R32
+Damian,AUS,R16
+Damian,AUS,quarter
+Damian,AUT,R32
+Damian,BEL,R32
+Damian,BRA,R32
+Damian,BRA,R16
+Damian,BRA,quarter
+Damian,BRA,semi
+Damian,BRA,final
+Damian,BRA,winner
+Damian,COL,R32
+Damian,COL,R16
+Damian,COL,quarter
+Damian,CRO,R32
+Damian,ECU,R32
+Damian,EGY,R32
+Damian,ENG,R32
+Damian,ENG,R16
+Damian,ENG,quarter
+Damian,FRA,R32
+Damian,FRA,R16
+Damian,GER,R32
+Damian,GER,R16
+Damian,GER,quarter
+Damian,GER,semi
+Damian,GER,final
+Damian,JPN,R32
+Damian,MEX,R32
+Damian,MEX,R16
+Damian,MAR,R32
+Damian,NED,R32
+Damian,NED,R16
+Damian,NOR,R32
+Damian,PAR,R32
+Damian,POR,R32
+Damian,POR,R16
+Damian,SEN,R32
+Damian,SEN,R16
+Damian,ESP,R32
+Damian,ESP,R16
+Damian,ESP,quarter
+Damian,ESP,semi
+Damian,ESP,third
+Damian,SWE,R32
+Damian,SUI,R32
+Damian,SUI,R16
+Haydos,ARG,R32
+Haydos,ARG,R16
+Haydos,ARG,quarter
+Haydos,ARG,semi
+Haydos,ARG,third
+Haydos,AUS,R32
+Haydos,AUS,R16
+Haydos,AUT,R32
+Haydos,BEL,R32
+Haydos,BEL,R16
+Haydos,BEL,quarter
+Haydos,BEL,semi
+Haydos,BIH,R32
+Haydos,BIH,R16
+Haydos,BRA,R32
+Haydos,BRA,R16
+Haydos,BRA,quarter
+Haydos,CAN,R32
+Haydos,COL,R32
+Haydos,CRO,R32
+Haydos,CRO,R16
+Haydos,ECU,R32
+Haydos,EGY,R32
+Haydos,ENG,R32
+Haydos,ENG,R16
+Haydos,ENG,quarter
+Haydos,ENG,semi
+Haydos,ENG,final
+Haydos,ENG,winner
+Haydos,FRA,R32
+Haydos,FRA,R16
+Haydos,FRA,quarter
+Haydos,GER,R32
+Haydos,GER,R16
+Haydos,GHA,R32
+Haydos,CIV,R32
+Haydos,JPN,R32
+Haydos,MEX,R32
+Haydos,MEX,R16
+Haydos,MAR,R32
+Haydos,NED,R32
+Haydos,NED,R16
+Haydos,NED,quarter
+Haydos,NED,semi
+Haydos,NED,final
+Haydos,NOR,R32
+Haydos,POR,R32
+Haydos,POR,R16
+Haydos,POR,quarter
+Haydos,SEN,R32
+Haydos,SEN,R16
+Haydos,ESP,R32
+Haydos,ESP,R16
+Haydos,ESP,quarter
+Haydos,SWE,R32
+Haydos,SUI,R32
+Luce,ALG,R32
+Luce,ARG,R32
+Luce,ARG,R16
+Luce,ARG,quarter
+Luce,ARG,semi
+Luce,ARG,final
+Luce,AUS,R32
+Luce,AUT,R32
+Luce,BEL,R32
+Luce,BEL,R16
+Luce,BEL,quarter
+Luce,BIH,R32
+Luce,BRA,R32
+Luce,BRA,R16
+Luce,BRA,quarter
+Luce,CAN,R32
+Luce,COL,R32
+Luce,COL,R16
+Luce,CRO,R32
+Luce,ECU,R32
+Luce,EGY,R32
+Luce,EGY,R16
+Luce,ENG,R32
+Luce,ENG,R16
+Luce,ENG,quarter
+Luce,ENG,semi
+Luce,FRA,R32
+Luce,FRA,R16
+Luce,FRA,quarter
+Luce,FRA,semi
+Luce,FRA,final
+Luce,FRA,winner
+Luce,GER,R32
+Luce,GER,R16
+Luce,GHA,R32
+Luce,CIV,R32
+Luce,JPN,R32
+Luce,MEX,R32
+Luce,MEX,R16
+Luce,MAR,R32
+Luce,NED,R32
+Luce,NED,R16
+Luce,NOR,R32
+Luce,NOR,R16
+Luce,PAR,R32
+Luce,POR,R32
+Luce,POR,R16
+Luce,POR,quarter
+Luce,ESP,R32
+Luce,ESP,R16
+Luce,ESP,quarter
+Luce,ESP,semi
+Luce,ESP,third
+Luce,SWE,R32
+Luce,SWE,R16
+Luce,SUI,R32
+Luce,USA,R32
+Luce,USA,R16
+Tom (9a0),ALG,R32
+Tom (9a0),ARG,R32
+Tom (9a0),ARG,R16
+Tom (9a0),ARG,quarter
+Tom (9a0),AUS,R32
+Tom (9a0),AUS,R16
+Tom (9a0),AUT,R32
+Tom (9a0),BEL,R32
+Tom (9a0),BEL,R16
+Tom (9a0),BEL,quarter
+Tom (9a0),BRA,R32
+Tom (9a0),CAN,R32
+Tom (9a0),CAN,R16
+Tom (9a0),COL,R32
+Tom (9a0),CRO,R32
+Tom (9a0),CRO,R16
+Tom (9a0),ECU,R32
+Tom (9a0),EGY,R32
+Tom (9a0),ENG,R32
+Tom (9a0),ENG,R16
+Tom (9a0),ENG,quarter
+Tom (9a0),ENG,semi
+Tom (9a0),FRA,R32
+Tom (9a0),FRA,R16
+Tom (9a0),FRA,quarter
+Tom (9a0),GER,R32
+Tom (9a0),GER,R16
+Tom (9a0),CIV,R32
+Tom (9a0),JPN,R32
+Tom (9a0),JPN,R16
+Tom (9a0),JPN,quarter
+Tom (9a0),MEX,R32
+Tom (9a0),MAR,R32
+Tom (9a0),NED,R32
+Tom (9a0),NED,R16
+Tom (9a0),NED,quarter
+Tom (9a0),NED,semi
+Tom (9a0),NED,final
+Tom (9a0),NED,winner
+Tom (9a0),NOR,R32
+Tom (9a0),POR,R32
+Tom (9a0),POR,R16
+Tom (9a0),POR,quarter
+Tom (9a0),POR,semi
+Tom (9a0),POR,final
+Tom (9a0),SEN,R32
+Tom (9a0),SEN,R16
+Tom (9a0),ESP,R32
+Tom (9a0),ESP,R16
+Tom (9a0),ESP,quarter
+Tom (9a0),ESP,semi
+Tom (9a0),ESP,third
+Tom (9a0),SWE,R32
+Tom (9a0),SUI,R32
+Tom (9a0),SUI,R16
+Tom (9a0),USA,R32
+Martin L,ARG,R32
+Martin L,ARG,R16
+Martin L,ARG,quarter
+Martin L,ARG,semi
+Martin L,ARG,final
+Martin L,AUS,R32
+Martin L,AUS,R16
+Martin L,AUT,R32
+Martin L,BEL,R32
+Martin L,BEL,R16
+Martin L,BIH,R32
+Martin L,BRA,R32
+Martin L,BRA,R16
+Martin L,BRA,quarter
+Martin L,CAN,R32
+Martin L,COL,R32
+Martin L,CRO,R32
+Martin L,CRO,R16
+Martin L,ECU,R32
+Martin L,EGY,R32
+Martin L,ENG,R32
+Martin L,ENG,R16
+Martin L,ENG,quarter
+Martin L,ENG,semi
+Martin L,ENG,third
+Martin L,FRA,R32
+Martin L,FRA,R16
+Martin L,FRA,quarter
+Martin L,FRA,semi
+Martin L,FRA,final
+Martin L,FRA,winner
+Martin L,GER,R32
+Martin L,GER,R16
+Martin L,CIV,R32
+Martin L,CIV,R16
+Martin L,JPN,R32
+Martin L,MEX,R32
+Martin L,MAR,R32
+Martin L,NED,R32
+Martin L,NED,R16
+Martin L,NOR,R32
+Martin L,NOR,R16
+Martin L,POR,R32
+Martin L,POR,R16
+Martin L,POR,quarter
+Martin L,SEN,R32
+Martin L,ESP,R32
+Martin L,ESP,R16
+Martin L,ESP,quarter
+Martin L,ESP,semi
+Martin L,SUI,R32
+Martin L,SUI,R16
+Martin L,USA,R32
+Martin L,USA,R16
+Martin L,USA,quarter
+Claude (AI),ARG,R32
+Claude (AI),ARG,R16
+Claude (AI),ARG,quarter
+Claude (AI),ARG,semi
+Claude (AI),ARG,final
+Claude (AI),AUT,R32
+Claude (AI),BEL,R32
+Claude (AI),BEL,R16
+Claude (AI),BEL,quarter
+Claude (AI),BRA,R32
+Claude (AI),BRA,R16
+Claude (AI),BRA,quarter
+Claude (AI),CAN,R32
+Claude (AI),CAN,R16
+Claude (AI),COL,R32
+Claude (AI),CRO,R32
+Claude (AI),CRO,R16
+Claude (AI),ECU,R32
+Claude (AI),ENG,R32
+Claude (AI),ENG,R16
+Claude (AI),ENG,quarter
+Claude (AI),FRA,R32
+Claude (AI),FRA,R16
+Claude (AI),FRA,quarter
+Claude (AI),FRA,semi
+Claude (AI),FRA,final
+Claude (AI),FRA,winner
+Claude (AI),GER,R32
+Claude (AI),GER,R16
+Claude (AI),GHA,R32
+Claude (AI),CIV,R32
+Claude (AI),JPN,R32
+Claude (AI),MEX,R32
+Claude (AI),MEX,R16
+Claude (AI),MAR,R32
+Claude (AI),NED,R32
+Claude (AI),NED,R16
+Claude (AI),NED,quarter
+Claude (AI),NED,semi
+Claude (AI),NOR,R32
+Claude (AI),NOR,R16
+Claude (AI),PAR,R32
+Claude (AI),POR,R32
+Claude (AI),POR,R16
+Claude (AI),POR,quarter
+Claude (AI),SEN,R32
+Claude (AI),ESP,R32
+Claude (AI),ESP,R16
+Claude (AI),ESP,quarter
+Claude (AI),ESP,semi
+Claude (AI),ESP,third
+Claude (AI),SWE,R32
+Claude (AI),SUI,R32
+Claude (AI),SUI,R16
+Claude (AI),USA,R32
+Claude (AI),USA,R16
+Sherram,ARG,R32
+Sherram,ARG,R16
+Sherram,AUS,R32
+Sherram,AUS,R16
+Sherram,AUS,quarter
+Sherram,AUS,semi
+Sherram,AUT,R32
+Sherram,BEL,R32
+Sherram,BRA,R32
+Sherram,BRA,R16
+Sherram,BRA,quarter
+Sherram,BRA,semi
+Sherram,BRA,final
+Sherram,CAN,R32
+Sherram,COL,R32
+Sherram,COL,R16
+Sherram,COL,quarter
+Sherram,CRO,R32
+Sherram,ECU,R32
+Sherram,ENG,R32
+Sherram,ENG,R16
+Sherram,ENG,quarter
+Sherram,FRA,R32
+Sherram,FRA,R16
+Sherram,FRA,quarter
+Sherram,FRA,semi
+Sherram,FRA,final
+Sherram,FRA,winner
+Sherram,GER,R32
+Sherram,GER,R16
+Sherram,GHA,R32
+Sherram,JPN,R32
+Sherram,JPN,R16
+Sherram,JPN,quarter
+Sherram,MEX,R32
+Sherram,MEX,R16
+Sherram,MAR,R32
+Sherram,NED,R32
+Sherram,NOR,R32
+Sherram,NOR,R16
+Sherram,PAR,R32
+Sherram,PAR,R16
+Sherram,PAR,quarter
+Sherram,POR,R32
+Sherram,POR,R16
+Sherram,ESP,R32
+Sherram,ESP,R16
+Sherram,ESP,quarter
+Sherram,ESP,semi
+Sherram,ESP,third
+Sherram,SWE,R32
+Sherram,SUI,R32
+Sherram,SUI,R16
+Tom (c66),ARG,R32
+Tom (c66),ARG,R16
+Tom (c66),ARG,quarter
+Tom (c66),AUS,R32
+Tom (c66),AUS,R16
+Tom (c66),AUT,R32
+Tom (c66),BEL,R32
+Tom (c66),BEL,R16
+Tom (c66),BEL,quarter
+Tom (c66),BRA,R32
+Tom (c66),BRA,R16
+Tom (c66),BRA,quarter
+Tom (c66),BRA,semi
+Tom (c66),CAN,R32
+Tom (c66),COL,R32
+Tom (c66),CRO,R32
+Tom (c66),CRO,R16
+Tom (c66),ECU,R32
+Tom (c66),EGY,R32
+Tom (c66),EGY,R16
+Tom (c66),ENG,R32
+Tom (c66),ENG,R16
+Tom (c66),ENG,quarter
+Tom (c66),FRA,R32
+Tom (c66),FRA,R16
+Tom (c66),FRA,quarter
+Tom (c66),FRA,semi
+Tom (c66),FRA,third
+Tom (c66),GER,R32
+Tom (c66),GER,R16
+Tom (c66),JPN,R32
+Tom (c66),MEX,R32
+Tom (c66),MEX,R16
+Tom (c66),MAR,R32
+Tom (c66),NED,R32
+Tom (c66),NOR,R32
+Tom (c66),NOR,R16
+Tom (c66),POR,R32
+Tom (c66),POR,R16
+Tom (c66),POR,quarter
+Tom (c66),POR,semi
+Tom (c66),POR,final
+Tom (c66),POR,winner
+Tom (c66),RSA,R32
+Tom (c66),RSA,R16
+Tom (c66),ESP,R32
+Tom (c66),ESP,R16
+Tom (c66),ESP,quarter
+Tom (c66),ESP,semi
+Tom (c66),ESP,final
+Tom (c66),SWE,R32
+Tom (c66),SUI,R32
+Tom (c66),USA,R32
+BlueLaGoons,ALG,R32
+BlueLaGoons,ALG,R16
+BlueLaGoons,ALG,quarter
+BlueLaGoons,ARG,R32
+BlueLaGoons,AUS,R32
+BlueLaGoons,AUT,R32
+BlueLaGoons,BEL,R32
+BlueLaGoons,BEL,R16
+BlueLaGoons,BEL,quarter
+BlueLaGoons,BEL,semi
+BlueLaGoons,BRA,R32
+BlueLaGoons,BRA,R16
+BlueLaGoons,CAN,R32
+BlueLaGoons,COL,R32
+BlueLaGoons,CRO,R32
+BlueLaGoons,CRO,R16
+BlueLaGoons,ECU,R32
+BlueLaGoons,ECU,R16
+BlueLaGoons,EGY,R32
+BlueLaGoons,EGY,R16
+BlueLaGoons,ENG,R32
+BlueLaGoons,ENG,R16
+BlueLaGoons,ENG,quarter
+BlueLaGoons,ENG,semi
+BlueLaGoons,ENG,final
+BlueLaGoons,ENG,winner
+BlueLaGoons,FRA,R32
+BlueLaGoons,FRA,R16
+BlueLaGoons,FRA,quarter
+BlueLaGoons,GER,R32
+BlueLaGoons,GHA,R32
+BlueLaGoons,GHA,R16
+BlueLaGoons,CIV,R32
+BlueLaGoons,CIV,R16
+BlueLaGoons,JPN,R32
+BlueLaGoons,MEX,R32
+BlueLaGoons,MAR,R32
+BlueLaGoons,MAR,R16
+BlueLaGoons,NED,R32
+BlueLaGoons,NOR,R32
+BlueLaGoons,NOR,R16
+BlueLaGoons,NOR,quarter
+BlueLaGoons,NOR,semi
+BlueLaGoons,NOR,third
+BlueLaGoons,PAR,R32
+BlueLaGoons,POR,R32
+BlueLaGoons,SEN,R32
+BlueLaGoons,ESP,R32
+BlueLaGoons,ESP,R16
+BlueLaGoons,ESP,quarter
+BlueLaGoons,ESP,semi
+BlueLaGoons,ESP,final
+BlueLaGoons,SUI,R32
+BlueLaGoons,SUI,R16
+BlueLaGoons,SUI,quarter
+Mikey,ARG,R32
+Mikey,ARG,R16
+Mikey,ARG,quarter
+Mikey,ARG,semi
+Mikey,ARG,third
+Mikey,AUS,R32
+Mikey,AUS,R16
+Mikey,AUT,R32
+Mikey,BEL,R32
+Mikey,BEL,R16
+Mikey,BIH,R32
+Mikey,BIH,R16
+Mikey,BRA,R32
+Mikey,BRA,R16
+Mikey,BRA,quarter
+Mikey,BRA,semi
+Mikey,BRA,final
+Mikey,COL,R32
+Mikey,COL,R16
+Mikey,CRO,R32
+Mikey,CRO,R16
+Mikey,CRO,quarter
+Mikey,ECU,R32
+Mikey,ECU,R16
+Mikey,EGY,R32
+Mikey,ENG,R32
+Mikey,FRA,R32
+Mikey,FRA,R16
+Mikey,FRA,quarter
+Mikey,FRA,semi
+Mikey,GER,R32
+Mikey,GER,R16
+Mikey,CIV,R32
+Mikey,JPN,R32
+Mikey,MEX,R32
+Mikey,MEX,R16
+Mikey,MAR,R32
+Mikey,NED,R32
+Mikey,NED,R16
+Mikey,NED,quarter
+Mikey,NOR,R32
+Mikey,PAR,R32
+Mikey,PAR,R16
+Mikey,PAR,quarter
+Mikey,POR,R32
+Mikey,POR,R16
+Mikey,POR,quarter
+Mikey,SEN,R32
+Mikey,ESP,R32
+Mikey,ESP,R16
+Mikey,ESP,quarter
+Mikey,ESP,semi
+Mikey,ESP,final
+Mikey,ESP,winner
+Mikey,SWE,R32
+Mikey,SUI,R32
+Mikey,SUI,R16
+Mikey,USA,R32
+Smith,ALG,R32
+Smith,ARG,R32
+Smith,ARG,R16
+Smith,ARG,quarter
+Smith,ARG,semi
+Smith,ARG,final
+Smith,AUT,R32
+Smith,BEL,R32
+Smith,BEL,R16
+Smith,BIH,R32
+Smith,BRA,R32
+Smith,CAN,R32
+Smith,COL,R32
+Smith,CRO,R32
+Smith,ECU,R32
+Smith,EGY,R32
+Smith,EGY,R16
+Smith,ENG,R32
+Smith,ENG,R16
+Smith,FRA,R32
+Smith,FRA,R16
+Smith,FRA,quarter
+Smith,FRA,semi
+Smith,FRA,final
+Smith,FRA,winner
+Smith,GER,R32
+Smith,GER,R16
+Smith,GHA,R32
+Smith,GHA,R16
+Smith,GHA,quarter
+Smith,CIV,R32
+Smith,JPN,R32
+Smith,JPN,R16
+Smith,MEX,R32
+Smith,MEX,R16
+Smith,MAR,R32
+Smith,NED,R32
+Smith,NED,R16
+Smith,NED,quarter
+Smith,NOR,R32
+Smith,NOR,R16
+Smith,POR,R32
+Smith,POR,R16
+Smith,POR,quarter
+Smith,SEN,R32
+Smith,SEN,R16
+Smith,SEN,quarter
+Smith,SEN,semi
+Smith,ESP,R32
+Smith,ESP,R16
+Smith,ESP,quarter
+Smith,ESP,semi
+Smith,ESP,third
+Smith,SWE,R32
+Smith,SUI,R32
+Smith,USA,R32
+MarcinC,ALG,R32
+MarcinC,ARG,R32
+MarcinC,ARG,R16
+MarcinC,ARG,quarter
+MarcinC,AUS,R32
+MarcinC,AUT,R32
+MarcinC,BEL,R32
+MarcinC,BEL,R16
+MarcinC,BIH,R32
+MarcinC,BRA,R32
+MarcinC,BRA,R16
+MarcinC,BRA,quarter
+MarcinC,CAN,R32
+MarcinC,COL,R32
+MarcinC,COL,R16
+MarcinC,CRO,R32
+MarcinC,ECU,R32
+MarcinC,EGY,R32
+MarcinC,EGY,R16
+MarcinC,ENG,R32
+MarcinC,ENG,R16
+MarcinC,ENG,quarter
+MarcinC,ENG,semi
+MarcinC,ENG,final
+MarcinC,ENG,winner
+MarcinC,FRA,R32
+MarcinC,FRA,R16
+MarcinC,GER,R32
+MarcinC,GER,R16
+MarcinC,GER,quarter
+MarcinC,GHA,R32
+MarcinC,CIV,R32
+MarcinC,JPN,R32
+MarcinC,MEX,R32
+MarcinC,MEX,R16
+MarcinC,MAR,R32
+MarcinC,NED,R32
+MarcinC,NED,R16
+MarcinC,NED,quarter
+MarcinC,NED,semi
+MarcinC,NED,third
+MarcinC,NOR,R32
+MarcinC,POR,R32
+MarcinC,POR,R16
+MarcinC,POR,quarter
+MarcinC,POR,semi
+MarcinC,SEN,R32
+MarcinC,SEN,R16
+MarcinC,ESP,R32
+MarcinC,ESP,R16
+MarcinC,ESP,quarter
+MarcinC,ESP,semi
+MarcinC,ESP,final
+MarcinC,SUI,R32
+MarcinC,SUI,R16
+MarcinC,USA,R32
+Adam B,ALG,R32
+Adam B,ARG,R32
+Adam B,ARG,R16
+Adam B,ARG,quarter
+Adam B,ARG,semi
+Adam B,ARG,final
+Adam B,AUS,R32
+Adam B,AUS,R16
+Adam B,AUT,R32
+Adam B,BEL,R32
+Adam B,BEL,R16
+Adam B,BEL,quarter
+Adam B,BIH,R32
+Adam B,BRA,R32
+Adam B,BRA,R16
+Adam B,BRA,quarter
+Adam B,BRA,semi
+Adam B,CAN,R32
+Adam B,CAN,R16
+Adam B,COL,R32
+Adam B,COL,R16
+Adam B,COL,quarter
+Adam B,CRO,R32
+Adam B,ECU,R32
+Adam B,ECU,R16
+Adam B,EGY,R32
+Adam B,ENG,R32
+Adam B,ENG,R16
+Adam B,ENG,quarter
+Adam B,FRA,R32
+Adam B,FRA,R16
+Adam B,GER,R32
+Adam B,GER,R16
+Adam B,GER,quarter
+Adam B,CIV,R32
+Adam B,JPN,R32
+Adam B,MEX,R32
+Adam B,MEX,R16
+Adam B,MAR,R32
+Adam B,NED,R32
+Adam B,NED,R16
+Adam B,NED,quarter
+Adam B,NED,semi
+Adam B,NED,third
+Adam B,NOR,R32
+Adam B,POR,R32
+Adam B,POR,R16
+Adam B,SEN,R32
+Adam B,ESP,R32
+Adam B,ESP,R16
+Adam B,ESP,quarter
+Adam B,ESP,semi
+Adam B,ESP,final
+Adam B,ESP,winner
+Adam B,SWE,R32
+Adam B,SWE,R16
+Adam B,SUI,R32
+Adam B,USA,R32
+Doug,ARG,R32
+Doug,ARG,R16
+Doug,ARG,quarter
+Doug,ARG,semi
+Doug,AUS,R32
+Doug,AUT,R32
+Doug,BEL,R32
+Doug,BEL,R16
+Doug,BIH,R32
+Doug,BRA,R32
+Doug,BRA,R16
+Doug,BRA,quarter
+Doug,CAN,R32
+Doug,COL,R32
+Doug,COL,R16
+Doug,CRO,R32
+Doug,ECU,R32
+Doug,EGY,R32
+Doug,EGY,R16
+Doug,EGY,quarter
+Doug,ENG,R32
+Doug,ENG,R16
+Doug,ENG,quarter
+Doug,ENG,semi
+Doug,ENG,final
+Doug,ENG,winner
+Doug,FRA,R32
+Doug,FRA,R16
+Doug,FRA,quarter
+Doug,FRA,semi
+Doug,FRA,third
+Doug,GER,R32
+Doug,GER,R16
+Doug,GHA,R32
+Doug,CIV,R32
+Doug,JPN,R32
+Doug,MEX,R32
+Doug,MEX,R16
+Doug,MAR,R32
+Doug,NED,R32
+Doug,NED,R16
+Doug,NED,quarter
+Doug,NOR,R32
+Doug,NOR,R16
+Doug,POR,R32
+Doug,POR,R16
+Doug,POR,quarter
+Doug,SEN,R32
+Doug,ESP,R32
+Doug,ESP,R16
+Doug,ESP,quarter
+Doug,ESP,semi
+Doug,ESP,final
+Doug,SWE,R32
+Doug,SWE,R16
+Doug,SUI,R32
+Doug,USA,R32
+Dave L,ARG,R32
+Dave L,ARG,R16
+Dave L,ARG,quarter
+Dave L,ARG,semi
+Dave L,ARG,third
+Dave L,AUS,R32
+Dave L,AUT,R32
+Dave L,BEL,R32
+Dave L,BEL,R16
+Dave L,BIH,R32
+Dave L,BRA,R32
+Dave L,BRA,R16
+Dave L,BRA,quarter
+Dave L,CAN,R32
+Dave L,COL,R32
+Dave L,COL,R16
+Dave L,CRO,R32
+Dave L,ECU,R32
+Dave L,ENG,R32
+Dave L,ENG,R16
+Dave L,ENG,quarter
+Dave L,ENG,semi
+Dave L,ENG,final
+Dave L,FRA,R32
+Dave L,FRA,R16
+Dave L,FRA,quarter
+Dave L,FRA,semi
+Dave L,FRA,final
+Dave L,FRA,winner
+Dave L,GER,R32
+Dave L,GER,R16
+Dave L,CIV,R32
+Dave L,JPN,R32
+Dave L,JPN,R16
+Dave L,JPN,quarter
+Dave L,MEX,R32
+Dave L,MEX,R16
+Dave L,MAR,R32
+Dave L,NED,R32
+Dave L,NED,R16
+Dave L,NED,quarter
+Dave L,NOR,R32
+Dave L,NOR,R16
+Dave L,PAR,R32
+Dave L,PAR,R16
+Dave L,POR,R32
+Dave L,POR,R16
+Dave L,POR,quarter
+Dave L,ESP,R32
+Dave L,ESP,R16
+Dave L,ESP,quarter
+Dave L,ESP,semi
+Dave L,SWE,R32
+Dave L,SUI,R32
+Dave L,SUI,R16
