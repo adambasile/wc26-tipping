@@ -18,7 +18,15 @@ function MatchBox({ match }: { match?: SolvedMatch }) {
   return (
     <Paper
       variant="outlined"
-      sx={{ width: MATCH_WIDTH, px: 0.25, py: 0.25, display: "flex", justifyContent: "center", gap: 0.25 }}
+      sx={{
+        width: MATCH_WIDTH,
+        px: 0.25,
+        py: 0.25,
+        display: "flex",
+        justifyContent: "center",
+        gap: 0.25,
+        borderStyle: match.known_result ? "solid" : "dashed",
+      }}
     >
       <FlagSpan code={match.home} winner={match.home_winner} />
       <FlagSpan code={match.away} winner={!match.home_winner} />
@@ -47,6 +55,7 @@ function RoundColumn({
           display: "flex",
           flexDirection: "column",
           justifyContent: "space-around",
+          gap: "1px",
           height: columnHeight,
         }}
       >
@@ -60,11 +69,12 @@ function RoundColumn({
 
 export default function Bracket({ matches }: { matches: SolvedMatch[] }) {
   const byNumber = new Map(matches.map((match) => [match.match_number, match]));
-  const columnHeight = LEFT_ROUNDS[0].length * MATCH_HEIGHT;
+  const columnHeight = LEFT_ROUNDS[0].length * MATCH_HEIGHT + (LEFT_ROUNDS[0].length - 1) * 1;
 
   return (
-    <Box sx={{ overflowX: "auto" }}>
-      <Box sx={{ display: "flex", gap: 1, width: "fit-content" }}>
+    <Box>
+      <Box sx={{ overflowX: "auto" }}>
+        <Box sx={{ display: "flex", gap: 1, width: "fit-content" }}>
         {LEFT_ROUNDS.map((round, index) => (
           <RoundColumn
             key={ROUND_LABELS[index]}
@@ -99,7 +109,11 @@ export default function Bracket({ matches }: { matches: SolvedMatch[] }) {
             />
           ))}
         </Box>
+        </Box>
       </Box>
+      <Typography variant="caption" color="text.secondary" sx={{ fontSize: 10, display: "block", mt: 0.5 }}>
+        Solid border = known result, dashed = predicted
+      </Typography>
     </Box>
   );
 }
