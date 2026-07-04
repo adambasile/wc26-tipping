@@ -1,3 +1,4 @@
+import { Stack } from "@mui/material";
 import { notFound, redirect } from "next/navigation";
 import {
   allNodeSlugPaths,
@@ -8,6 +9,7 @@ import {
 } from "@/lib/specTree";
 import ResultsTable from "./ResultsTable";
 import SpecDropdowns, { type SpecDropdownLevel } from "./SpecDropdowns";
+import UpsetsRequired from "./UpsetsRequired";
 
 export function generateStaticParams() {
   return allNodeSlugPaths().map((spec) => ({ spec }));
@@ -62,7 +64,10 @@ export default async function SpecPage({
   return (
     <>
       <SpecDropdowns levels={levels} />
-      <ResultsTable results={leaf.resultSet.results} highlightName={path[0].label} />
+      <Stack direction="row" spacing={4}>
+        <ResultsTable results={leaf.resultSet.results} highlightName={path[0].label} />
+        {leaf.resultSet.results && <UpsetsRequired matches={leaf.resultSet.results.matches} />}
+      </Stack>
     </>
   );
 }
