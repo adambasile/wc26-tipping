@@ -17,6 +17,7 @@ export default function UpsetsRequired({
   matches: SolvedMatch[];
 }) {
   const upsets = matches.filter(isUpset);
+  const gamesLeft = matches.filter((match) => !match.known_result).length;
 
   return (
     <Box>
@@ -24,9 +25,10 @@ export default function UpsetsRequired({
         {upsets.length === 0 ? "No" : upsets.length} upset
         {upsets.length === 1 ? "" : "s"} needed
       </Typography>
-      {upsets.length === 0 ? (
-        <Typography variant="body2">None</Typography>
-      ) : (
+      <Typography variant="body2">
+        {gamesLeft} match{gamesLeft === 1 ? "" : "es"} remaining
+      </Typography>
+      {upsets.length !== 0 && (
         <Typography component="ul" sx={{ m: 0, pl: 2 }}>
           {upsets.map((match) => (
             <Typography component="li" key={match.match_number}>
