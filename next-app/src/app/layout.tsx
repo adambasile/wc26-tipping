@@ -1,4 +1,5 @@
 import { Container } from "@mui/material";
+import { AppRouterCacheProvider } from "@mui/material-nextjs/v16-appRouter";
 
 export default function RootLayout({
   children,
@@ -8,7 +9,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-        <Container>{children}</Container>
+        <AppRouterCacheProvider>
+          <Container>{children}</Container>
+        </AppRouterCacheProvider>
       </body>
     </html>
   );
