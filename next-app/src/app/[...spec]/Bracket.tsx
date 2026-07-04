@@ -3,14 +3,13 @@ import type { SolvedMatch } from "@/data/results.types";
 import {
   FINAL_MATCH_NUMBER,
   LEFT_ROUNDS,
+  MATCH_HEIGHT,
+  MATCH_WIDTH,
   RIGHT_ROUNDS,
   ROUND_LABELS,
   THIRD_PLACE_MATCH_NUMBER,
 } from "@/lib/bracket";
 import FlagSpan from "./FlagSpan";
-
-const MATCH_HEIGHT = 22;
-const MATCH_WIDTH = 44;
 
 function MatchBox({ match }: { match?: SolvedMatch }) {
   if (!match) return null;

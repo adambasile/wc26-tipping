@@ -19,3 +19,20 @@ export const ROUND_LABELS = ["R32", "R16", "QF", "SF"];
 
 export const FINAL_MATCH_NUMBER = 104;
 export const THIRD_PLACE_MATCH_NUMBER = 103;
+
+// Rendering constants, kept here (rather than in the Bracket component) so the
+// rendered width can be computed once and reused as a page-wide max width.
+export const MATCH_WIDTH = 44;
+export const MATCH_HEIGHT = 22;
+const GAP_PX = 8; // MUI's default theme spacing unit, used throughout Bracket.tsx as `gap: 1`
+
+// Mirrors Bracket.tsx's layout: LEFT_ROUNDS' columns, the center Final/Third
+// column, and the RIGHT_ROUNDS group are all top-level flex children of one row.
+const roundsGroupWidth = ROUND_LABELS.length * MATCH_WIDTH + (ROUND_LABELS.length - 1) * GAP_PX;
+const topLevelChildCount = ROUND_LABELS.length + 2; // left columns + center + right group
+
+export const BRACKET_WIDTH =
+  ROUND_LABELS.length * MATCH_WIDTH + // left round columns, individually
+  MATCH_WIDTH + // center column
+  roundsGroupWidth + // right round columns, grouped
+  (topLevelChildCount - 1) * GAP_PX; // gaps between the top-level flex children
