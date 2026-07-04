@@ -63,13 +63,13 @@ export function extendToLeaf(siblings: SpecNode[]): SpecNode[] {
   return path;
 }
 
-export function allLeafSlugPaths(): string[][] {
+export function allNodeSlugPaths(): string[][] {
   const paths: string[][] = [];
 
   function walk(nodes: SpecNode[], prefix: string[]) {
     for (const node of nodes) {
       const path = [...prefix, node.slug];
-      if (node.resultSet) paths.push(path);
+      paths.push(path);
       walk(node.children, path);
     }
   }

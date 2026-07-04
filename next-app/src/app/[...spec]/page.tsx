@@ -1,6 +1,6 @@
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 import {
-  allLeafSlugPaths,
+  allNodeSlugPaths,
   extendToLeaf,
   findPath,
   specTree,
@@ -9,7 +9,7 @@ import {
 import SpecDropdowns, { type SpecDropdownLevel } from "./SpecDropdowns";
 
 export function generateStaticParams() {
-  return allLeafSlugPaths().map((spec) => ({ spec }));
+  return allNodeSlugPaths().map((spec) => ({ spec }));
 }
 
 function buildLevels(
@@ -42,10 +42,18 @@ export default async function SpecPage({
 }) {
   const { spec } = await params;
   const path = findPath(spec);
-  const leaf = path?.at(-1);
 
-  if (!path || !leaf?.resultSet) {
+  if (!path) {
     notFound();
+  }
+
+  const leaf = path.at(-1);
+
+  if (!leaf?.resultSet) {
+    const continuation = extendToLeaf(leaf?.children ?? specTree);
+    redirect(
+      `/${[...spec, ...continuation.map((node) => node.slug)].join("/")}`,
+    );
   }
 
   const levels = buildLevels(path, specTree);
