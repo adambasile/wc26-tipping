@@ -7,10 +7,19 @@ import {
   TableHead,
   TableRow,
 } from "@mui/material";
-import type { Results } from "@/data/results.types";
+import type { PlayerResult, Results } from "@/data/results.types";
 import CollapsibleBox from "./CollapsibleBox";
 
 const COLLAPSED_ROW_COUNT = 10;
+
+function computeRanks(players: PlayerResult[]): string[] {
+  return players.map((player) => {
+    const firstIndex = players.findIndex((p) => p.score === player.score);
+    const tieCount = players.filter((p) => p.score === player.score).length;
+    const rank = firstIndex + 1;
+    return tieCount > 1 ? `${rank}=` : `${rank}`;
+  });
+}
 
 export default function ResultsTable({
   results,
@@ -23,19 +32,23 @@ export default function ResultsTable({
     return <p>No solution found</p>;
   }
 
+  const ranks = computeRanks(results.players);
+
   return (
     <CollapsibleBox collapsedHeight={COLLAPSED_ROW_COUNT * 33 + 33}>
       <TableContainer component={Paper}>
         <Table size="small">
           <TableHead>
             <TableRow>
+              <TableCell>Rank</TableCell>
               <TableCell>Name</TableCell>
               <TableCell align="right">Points</TableCell>
             </TableRow>
           </TableHead>
           <TableBody>
-            {results.players.map((player) => (
+            {results.players.map((player, index) => (
               <TableRow key={player.name} selected={player.name === highlightName}>
+                <TableCell>{ranks[index]}</TableCell>
                 <TableCell>{player.name}</TableCell>
                 <TableCell align="right">{player.score}</TableCell>
               </TableRow>
