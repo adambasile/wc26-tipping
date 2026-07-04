@@ -4,12 +4,18 @@ import FlagSpan from "./FlagSpan";
 
 function isUpset(match: SolvedMatch): boolean {
   if (match.known_result) return false;
-  const winnerRating = match.home_winner ? match.home_rating : match.away_rating;
+  const winnerRating = match.home_winner
+    ? match.home_rating
+    : match.away_rating;
   const loserRating = match.home_winner ? match.away_rating : match.home_rating;
   return winnerRating < loserRating;
 }
 
-export default function UpsetsRequired({ matches }: { matches: SolvedMatch[] }) {
+export default function UpsetsRequired({
+  matches,
+}: {
+  matches: SolvedMatch[];
+}) {
   const upsets = matches.filter(isUpset);
 
   return (

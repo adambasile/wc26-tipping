@@ -1,7 +1,13 @@
 import { Typography } from "@mui/material";
 import { flagEmoji } from "@/lib/flags";
 
-export default function FlagSpan({ code, winner }: { code: string; winner: boolean }) {
+export default function FlagSpan({
+  code,
+  winner,
+}: {
+  code: string;
+  winner: boolean;
+}) {
   return (
     <Typography
       component="span"

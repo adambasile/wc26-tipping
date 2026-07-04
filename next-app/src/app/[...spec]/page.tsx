@@ -65,10 +65,17 @@ export default async function SpecPage({
   return (
     <>
       <SpecDropdowns levels={levels} />
-      {leaf.resultSet.results && <Bracket matches={leaf.resultSet.results.matches} />}
+      {leaf.resultSet.results && (
+        <Bracket matches={leaf.resultSet.results.matches} />
+      )}
       <Stack direction="row" spacing={4}>
-        <ResultsTable results={leaf.resultSet.results} highlightName={path[0].label} />
-        {leaf.resultSet.results && <UpsetsRequired matches={leaf.resultSet.results.matches} />}
+        <ResultsTable
+          results={leaf.resultSet.results}
+          highlightName={path[0].label}
+        />
+        {leaf.resultSet.results && (
+          <UpsetsRequired matches={leaf.resultSet.results.matches} />
+        )}
       </Stack>
     </>
   );

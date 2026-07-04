@@ -47,7 +47,10 @@ export default function ResultsTable({
           </TableHead>
           <TableBody>
             {results.players.map((player, index) => (
-              <TableRow key={player.name} selected={player.name === highlightName}>
+              <TableRow
+                key={player.name}
+                selected={player.name === highlightName}
+              >
                 <TableCell>{ranks[index]}</TableCell>
                 <TableCell>{player.name}</TableCell>
                 <TableCell align="right">{player.score}</TableCell>

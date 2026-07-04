@@ -14,7 +14,13 @@ export default function CollapsibleBox({
 
   return (
     <Box sx={{ width: 300 }}>
-      <Box sx={{ position: "relative", maxHeight: expanded ? undefined : collapsedHeight, overflow: "hidden" }}>
+      <Box
+        sx={{
+          position: "relative",
+          maxHeight: expanded ? undefined : collapsedHeight,
+          overflow: "hidden",
+        }}
+      >
         {children}
         {!expanded && (
           <Box
@@ -24,7 +30,8 @@ export default function CollapsibleBox({
               left: 0,
               right: 0,
               height: 40,
-              background: "linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1))",
+              background:
+                "linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1))",
               pointerEvents: "none",
             }}
           />

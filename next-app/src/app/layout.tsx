@@ -27,12 +27,22 @@ export default function RootLayout({
             }}
           >
             <Box sx={{ flexGrow: 1 }}>{children}</Box>
-            <Typography component="footer" variant="body2" color="text.secondary" sx={{ py: 1 }}>
+            <Typography
+              component="footer"
+              variant="body2"
+              color="text.secondary"
+              sx={{ py: 1 }}
+            >
               An upset is when the lower-rated team wins, based on ratings from{" "}
-              <Link href="https://eloratings.net" target="_blank" rel="noopener noreferrer">
+              <Link
+                href="https://eloratings.net"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 eloratings.net
               </Link>{" "}
-              as of 29 June 2026. Each scenario shows the bracket that needs the smallest upsets to make it happen.
+              as of 29 June 2026. Each scenario shows the bracket that needs the
+              smallest upsets to make it happen.
             </Typography>
           </Box>
         </AppRouterCacheProvider>

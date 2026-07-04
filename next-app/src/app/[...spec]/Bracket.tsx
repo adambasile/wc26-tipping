@@ -45,8 +45,14 @@ function RoundColumn({
   columnHeight: number;
 }) {
   return (
-    <Box sx={{ display: "flex", flexDirection: "column", alignItems: "center" }}>
-      <Typography variant="caption" color="text.secondary" sx={{ fontSize: 10 }}>
+    <Box
+      sx={{ display: "flex", flexDirection: "column", alignItems: "center" }}
+    >
+      <Typography
+        variant="caption"
+        color="text.secondary"
+        sx={{ fontSize: 10 }}
+      >
         {label}
       </Typography>
       <Box
@@ -68,37 +74,14 @@ function RoundColumn({
 
 export default function Bracket({ matches }: { matches: SolvedMatch[] }) {
   const byNumber = new Map(matches.map((match) => [match.match_number, match]));
-  const columnHeight = LEFT_ROUNDS[0].length * MATCH_HEIGHT + (LEFT_ROUNDS[0].length - 1) * 1;
+  const columnHeight =
+    LEFT_ROUNDS[0].length * MATCH_HEIGHT + (LEFT_ROUNDS[0].length - 1) * 1;
 
   return (
     <Box>
       <Box sx={{ overflowX: "auto" }}>
         <Box sx={{ display: "flex", gap: 1, width: "fit-content" }}>
-        {LEFT_ROUNDS.map((round, index) => (
-          <RoundColumn
-            key={ROUND_LABELS[index]}
-            matchNumbers={round}
-            byNumber={byNumber}
-            label={ROUND_LABELS[index]}
-            columnHeight={columnHeight}
-          />
-        ))}
-        <Box sx={{ display: "flex", flexDirection: "column", justifyContent: "center", gap: 1, height: columnHeight }}>
-          <Box sx={{pt: "75%"}}>
-            <Typography variant="caption" color="text.secondary" sx={{ fontSize: 10, display: "block", textAlign: "center" }}>
-              Final
-            </Typography>
-            <MatchBox match={byNumber.get(FINAL_MATCH_NUMBER)} />
-          </Box>
-          <Box>
-            <Typography variant="caption" color="text.secondary" sx={{ fontSize: 10, display: "block", textAlign: "center" }}>
-              Third place
-            </Typography>
-            <MatchBox match={byNumber.get(THIRD_PLACE_MATCH_NUMBER)} />
-          </Box>
-        </Box>
-        <Box sx={{ display: "flex", flexDirection: "row-reverse", gap: 1 }}>
-          {RIGHT_ROUNDS.map((round, index) => (
+          {LEFT_ROUNDS.map((round, index) => (
             <RoundColumn
               key={ROUND_LABELS[index]}
               matchNumbers={round}
@@ -107,10 +90,54 @@ export default function Bracket({ matches }: { matches: SolvedMatch[] }) {
               columnHeight={columnHeight}
             />
           ))}
-        </Box>
+          <Box
+            sx={{
+              display: "flex",
+              flexDirection: "column",
+              justifyContent: "center",
+              gap: 1,
+              height: columnHeight,
+            }}
+          >
+            <Box sx={{ pt: "75%" }}>
+              <Typography
+                variant="caption"
+                color="text.secondary"
+                sx={{ fontSize: 10, display: "block", textAlign: "center" }}
+              >
+                Final
+              </Typography>
+              <MatchBox match={byNumber.get(FINAL_MATCH_NUMBER)} />
+            </Box>
+            <Box>
+              <Typography
+                variant="caption"
+                color="text.secondary"
+                sx={{ fontSize: 10, display: "block", textAlign: "center" }}
+              >
+                Third place
+              </Typography>
+              <MatchBox match={byNumber.get(THIRD_PLACE_MATCH_NUMBER)} />
+            </Box>
+          </Box>
+          <Box sx={{ display: "flex", flexDirection: "row-reverse", gap: 1 }}>
+            {RIGHT_ROUNDS.map((round, index) => (
+              <RoundColumn
+                key={ROUND_LABELS[index]}
+                matchNumbers={round}
+                byNumber={byNumber}
+                label={ROUND_LABELS[index]}
+                columnHeight={columnHeight}
+              />
+            ))}
+          </Box>
         </Box>
       </Box>
-      <Typography variant="caption" color="text.secondary" sx={{ fontSize: 10, display: "block", mt: 0.5 }}>
+      <Typography
+        variant="caption"
+        color="text.secondary"
+        sx={{ fontSize: 10, display: "block", mt: 0.5 }}
+      >
         Solid border = known result, dashed = predicted
       </Typography>
     </Box>
