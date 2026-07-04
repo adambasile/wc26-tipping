@@ -1,4 +1,5 @@
 import {
+  Box,
   Paper,
   Table,
   TableBody,
@@ -6,6 +7,7 @@ import {
   TableContainer,
   TableHead,
   TableRow,
+  Typography,
 } from "@mui/material";
 import type { PlayerResult, Results } from "@/data/results.types";
 import CollapsibleBox from "./CollapsibleBox";
@@ -29,7 +31,19 @@ export default function ResultsTable({
   highlightName: string;
 }) {
   if (!results) {
-    return <p>No solution found</p>;
+    return (
+      <Box
+        sx={{
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          minHeight: "33vh",
+          width: "100%",
+        }}
+      >
+        <Typography>Impossible with these results</Typography>
+      </Box>
+    );
   }
 
   const ranks = computeRanks(results.players);
@@ -40,8 +54,8 @@ export default function ResultsTable({
         <Table size="small">
           <TableHead>
             <TableRow>
-              <TableCell>Rank</TableCell>
-              <TableCell>Name</TableCell>
+              <TableCell></TableCell>
+              <TableCell></TableCell>
               <TableCell align="right">Points</TableCell>
             </TableRow>
           </TableHead>

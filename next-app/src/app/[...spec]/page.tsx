@@ -68,7 +68,7 @@ export default async function SpecPage({
       {leaf.resultSet.results && (
         <Bracket matches={leaf.resultSet.results.matches} />
       )}
-      <Stack direction="row" spacing={4}>
+      <Stack direction="row" spacing={2}>
         <ResultsTable
           results={leaf.resultSet.results}
           highlightName={path[0].label}
