@@ -6,6 +6,7 @@ import {
   specTree,
   type SpecNode,
 } from "@/lib/specTree";
+import ResultsTable from "./ResultsTable";
 import SpecDropdowns, { type SpecDropdownLevel } from "./SpecDropdowns";
 
 export function generateStaticParams() {
@@ -61,7 +62,7 @@ export default async function SpecPage({
   return (
     <>
       <SpecDropdowns levels={levels} />
-      <p>{path.map((node) => node.label).join(" / ")}</p>
+      <ResultsTable results={leaf.resultSet.results} highlightName={path[0].label} />
     </>
   );
 }
