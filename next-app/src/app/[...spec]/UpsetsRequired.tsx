@@ -20,7 +20,10 @@ export default function UpsetsRequired({
 
   return (
     <Box>
-      <Typography variant="subtitle1">Upsets required</Typography>
+      <Typography variant="subtitle1">
+        {upsets.length === 0 ? "No" : upsets.length} upset
+        {upsets.length === 1 ? "" : "s"} needed
+      </Typography>
       {upsets.length === 0 ? (
         <Typography variant="body2">None</Typography>
       ) : (
