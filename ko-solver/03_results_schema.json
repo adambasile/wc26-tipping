@@ -1,0 +1,123 @@
+{
+  "$defs": {
+    "PlayerResult": {
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "score": {
+          "title": "Score",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "name",
+        "score"
+      ],
+      "title": "PlayerResult",
+      "type": "object"
+    },
+    "Results": {
+      "additionalProperties": false,
+      "properties": {
+        "matches": {
+          "items": {
+            "$ref": "#/$defs/SolvedMatch"
+          },
+          "title": "Matches",
+          "type": "array"
+        },
+        "players": {
+          "items": {
+            "$ref": "#/$defs/PlayerResult"
+          },
+          "title": "Players",
+          "type": "array"
+        }
+      },
+      "required": [
+        "matches",
+        "players"
+      ],
+      "title": "Results",
+      "type": "object"
+    },
+    "SolvedMatch": {
+      "additionalProperties": false,
+      "properties": {
+        "match_number": {
+          "title": "Match Number",
+          "type": "integer"
+        },
+        "stage": {
+          "title": "Stage",
+          "type": "string"
+        },
+        "home": {
+          "title": "Home",
+          "type": "string"
+        },
+        "home_rating": {
+          "title": "Home Rating",
+          "type": "integer"
+        },
+        "away": {
+          "title": "Away",
+          "type": "string"
+        },
+        "away_rating": {
+          "title": "Away Rating",
+          "type": "integer"
+        },
+        "home_winner": {
+          "title": "Home Winner",
+          "type": "boolean"
+        },
+        "known_result": {
+          "title": "Known Result",
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "match_number",
+        "stage",
+        "home",
+        "home_rating",
+        "away",
+        "away_rating",
+        "home_winner",
+        "known_result"
+      ],
+      "title": "SolvedMatch",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "spec": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Spec",
+      "type": "array"
+    },
+    "results": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/Results"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    }
+  },
+  "required": [
+    "spec",
+    "results"
+  ],
+  "title": "ResultSet",
+  "type": "object"
+}
