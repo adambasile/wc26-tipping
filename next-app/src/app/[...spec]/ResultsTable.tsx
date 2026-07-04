@@ -8,6 +8,9 @@ import {
   TableRow,
 } from "@mui/material";
 import type { Results } from "@/data/results.types";
+import CollapsibleBox from "./CollapsibleBox";
+
+const COLLAPSED_ROW_COUNT = 10;
 
 export default function ResultsTable({
   results,
@@ -21,23 +24,25 @@ export default function ResultsTable({
   }
 
   return (
-    <TableContainer component={Paper}>
-      <Table size="small">
-        <TableHead>
-          <TableRow>
-            <TableCell>Name</TableCell>
-            <TableCell align="right">Points</TableCell>
-          </TableRow>
-        </TableHead>
-        <TableBody>
-          {results.players.map((player) => (
-            <TableRow key={player.name} selected={player.name === highlightName}>
-              <TableCell>{player.name}</TableCell>
-              <TableCell align="right">{player.score}</TableCell>
+    <CollapsibleBox collapsedHeight={COLLAPSED_ROW_COUNT * 33 + 33}>
+      <TableContainer component={Paper}>
+        <Table size="small">
+          <TableHead>
+            <TableRow>
+              <TableCell>Name</TableCell>
+              <TableCell align="right">Points</TableCell>
             </TableRow>
-          ))}
-        </TableBody>
-      </Table>
-    </TableContainer>
+          </TableHead>
+          <TableBody>
+            {results.players.map((player) => (
+              <TableRow key={player.name} selected={player.name === highlightName}>
+                <TableCell>{player.name}</TableCell>
+                <TableCell align="right">{player.score}</TableCell>
+              </TableRow>
+            ))}
+          </TableBody>
+        </Table>
+      </TableContainer>
+    </CollapsibleBox>
   );
 }
