@@ -7,6 +7,7 @@ import {
   specTree,
   type SpecNode,
 } from "@/lib/specTree";
+import Bracket from "./Bracket";
 import ResultsTable from "./ResultsTable";
 import SpecDropdowns, { type SpecDropdownLevel } from "./SpecDropdowns";
 import UpsetsRequired from "./UpsetsRequired";
@@ -64,6 +65,7 @@ export default async function SpecPage({
   return (
     <>
       <SpecDropdowns levels={levels} />
+      {leaf.resultSet.results && <Bracket matches={leaf.resultSet.results.matches} />}
       <Stack direction="row" spacing={4}>
         <ResultsTable results={leaf.resultSet.results} highlightName={path[0].label} />
         {leaf.resultSet.results && <UpsetsRequired matches={leaf.resultSet.results.matches} />}

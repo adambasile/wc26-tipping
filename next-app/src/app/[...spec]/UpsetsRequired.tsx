@@ -1,6 +1,6 @@
 import { Box, Typography } from "@mui/material";
 import type { SolvedMatch } from "@/data/results.types";
-import { flagEmoji } from "@/lib/flags";
+import FlagSpan from "./FlagSpan";
 
 function isUpset(match: SolvedMatch): boolean {
   if (match.known_result) return false;
@@ -21,23 +21,9 @@ export default function UpsetsRequired({ matches }: { matches: SolvedMatch[] }) 
         <Typography component="ul" sx={{ m: 0, pl: 2 }}>
           {upsets.map((match) => (
             <Typography component="li" key={match.match_number}>
-              <Typography
-                component="span"
-                title={match.home}
-                aria-label={match.home}
-                sx={{ filter: match.home_winner ? undefined : "grayscale(1)", opacity: match.home_winner ? 1 : 0.4 }}
-              >
-                {flagEmoji(match.home)}
-              </Typography>
+              <FlagSpan code={match.home} winner={match.home_winner} />
               {" v "}
-              <Typography
-                component="span"
-                title={match.away}
-                aria-label={match.away}
-                sx={{ filter: match.home_winner ? "grayscale(1)" : undefined, opacity: match.home_winner ? 0.4 : 1 }}
-              >
-                {flagEmoji(match.away)}
-              </Typography>
+              <FlagSpan code={match.away} winner={!match.home_winner} />
             </Typography>
           ))}
         </Typography>
