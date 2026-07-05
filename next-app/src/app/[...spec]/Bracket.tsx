@@ -95,11 +95,19 @@ export default function Bracket({ matches }: { matches: SolvedMatch[] }) {
               display: "flex",
               flexDirection: "column",
               justifyContent: "center",
+              alignItems: "center",
               gap: 1,
               height: columnHeight,
             }}
           >
-            <Box sx={{ pt: "75%" }}>
+            <Box
+              sx={{
+                pt: "75%",
+                display: "flex",
+                flexDirection: "column",
+                alignItems: "center",
+              }}
+            >
               <Typography
                 variant="caption"
                 color="text.secondary"
@@ -109,7 +117,13 @@ export default function Bracket({ matches }: { matches: SolvedMatch[] }) {
               </Typography>
               <MatchBox match={byNumber.get(FINAL_MATCH_NUMBER)} />
             </Box>
-            <Box>
+            <Box
+              sx={{
+                display: "flex",
+                flexDirection: "column",
+                alignItems: "center",
+              }}
+            >
               <Typography
                 variant="caption"
                 color="text.secondary"
