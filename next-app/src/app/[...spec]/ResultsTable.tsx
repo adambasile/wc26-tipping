@@ -46,7 +46,10 @@ export default function ResultsTable({
     );
   }
 
-  const ranks = computeRanks(results.players);
+  const players = results.players.toSorted(
+    ({ score: a }, { score: b }) => b - a,
+  );
+  const ranks = computeRanks(players);
 
   return (
     <CollapsibleBox collapsedHeight={COLLAPSED_ROW_COUNT * 33 + 33}>
@@ -60,7 +63,7 @@ export default function ResultsTable({
             </TableRow>
           </TableHead>
           <TableBody>
-            {results.players.map((player, index) => (
+            {players.map((player, index) => (
               <TableRow
                 key={player.name}
                 selected={player.name === highlightName}
