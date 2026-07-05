@@ -15,8 +15,8 @@ export default function FlagSpan({
       aria-label={code}
       sx={{
         lineHeight: 1,
-        opacity: winner ? 1 : 0.4,
-        filter: winner ? undefined : "grayscale(1)",
+        opacity: winner ? 1 : 0.2,
+        filter: winner ? undefined : "grayscale(50%)",
       }}
     >
       {flagEmoji(code)}
