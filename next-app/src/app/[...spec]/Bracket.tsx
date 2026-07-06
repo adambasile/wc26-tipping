@@ -17,6 +17,7 @@ function MatchBox({ match }: { match?: SolvedMatch }) {
   return (
     <Paper
       variant="outlined"
+      title={`Match ${match.match_number}`}
       sx={{
         width: MATCH_WIDTH,
         px: 0.25,
