@@ -233,7 +233,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -244,7 +244,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -697,7 +697,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -708,7 +708,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -1161,7 +1161,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -1172,7 +1172,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -1631,9 +1631,9 @@
           "home_rating": 2144,
           "away": "POR",
           "away_rating": 1990,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 94,
@@ -1642,9 +1642,9 @@
           "home_rating": 1884,
           "away": "USA",
           "away_rating": 1781,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 95,
@@ -1682,13 +1682,13 @@
         {
           "match_number": 98,
           "stage": "quarter",
-          "home": "POR",
-          "home_rating": 1990,
-          "away": "USA",
-          "away_rating": 1781,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "ESP",
+          "away_rating": 2144,
           "home_winner": true,
           "known_result": false,
-          "upset": false
+          "upset": true
         },
         {
           "match_number": 99,
@@ -1715,11 +1715,11 @@
         {
           "match_number": 101,
           "stage": "semi",
-          "home": "FRA",
-          "home_rating": 2123,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": true,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "FRA",
+          "away_rating": 2123,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -1737,11 +1737,11 @@
         {
           "match_number": 103,
           "stage": "third",
-          "home": "POR",
-          "home_rating": 1990,
+          "home": "BEL",
+          "home_rating": 1884,
           "away": "SUI",
           "away_rating": 1914,
-          "home_winner": true,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -1760,31 +1760,31 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 103
+          "score": 111
         },
         {
           "name": "Albert",
-          "score": 101
+          "score": 115
         },
         {
           "name": "Antoni Brdarovski",
-          "score": 129
+          "score": 127
         },
         {
           "name": "BlueLaGoons",
-          "score": 109
+          "score": 123
         },
         {
           "name": "Claude (AI)",
-          "score": 136
+          "score": 140
         },
         {
           "name": "Damian",
-          "score": 84
+          "score": 88
         },
         {
           "name": "Dan",
-          "score": 140
+          "score": 144
         },
         {
           "name": "Dave L",
@@ -1804,35 +1804,35 @@
         },
         {
           "name": "Estevao",
-          "score": 110
-        },
-        {
-          "name": "Giuseppe",
-          "score": 161
-        },
-        {
-          "name": "Haydos",
           "score": 108
         },
         {
-          "name": "Jon",
-          "score": 150
+          "name": "Giuseppe",
+          "score": 155
         },
         {
-          "name": "Kuba",
+          "name": "Haydos",
+          "score": 118
+        },
+        {
+          "name": "Jon",
           "score": 154
         },
         {
+          "name": "Kuba",
+          "score": 144
+        },
+        {
           "name": "Luce",
-          "score": 140
+          "score": 144
         },
         {
           "name": "MarcinC",
-          "score": 123
+          "score": 117
         },
         {
           "name": "Martin L",
-          "score": 135
+          "score": 131
         },
         {
           "name": "Mikey",
@@ -1840,7 +1840,7 @@
         },
         {
           "name": "Sherram",
-          "score": 116
+          "score": 120
         },
         {
           "name": "Smith",
@@ -1848,15 +1848,15 @@
         },
         {
           "name": "Tamara",
-          "score": 105
+          "score": 101
         },
         {
           "name": "Tom (9a0)",
-          "score": 114
+          "score": 112
         },
         {
           "name": "Tom (c66)",
-          "score": 112
+          "score": 110
         }
       ]
     }
@@ -2096,7 +2096,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -2107,7 +2107,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -2560,7 +2560,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -2571,7 +2571,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -3031,7 +3031,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -3041,9 +3041,9 @@
           "home_rating": 1884,
           "away": "USA",
           "away_rating": 1781,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 95,
@@ -3081,11 +3081,11 @@
         {
           "match_number": 98,
           "stage": "quarter",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": true,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -3159,23 +3159,23 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 133
+          "score": 137
         },
         {
           "name": "Albert",
-          "score": 105
+          "score": 109
         },
         {
           "name": "Antoni Brdarovski",
-          "score": 121
+          "score": 125
         },
         {
           "name": "BlueLaGoons",
-          "score": 127
+          "score": 131
         },
         {
           "name": "Claude (AI)",
-          "score": 122
+          "score": 126
         },
         {
           "name": "Damian",
@@ -3183,7 +3183,7 @@
         },
         {
           "name": "Dan",
-          "score": 126
+          "score": 130
         },
         {
           "name": "Dave L",
@@ -3195,15 +3195,15 @@
         },
         {
           "name": "Downsy",
-          "score": 102
+          "score": 98
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 140
+          "score": 136
         },
         {
           "name": "Estevao",
-          "score": 122
+          "score": 126
         },
         {
           "name": "Giuseppe",
@@ -3211,19 +3211,19 @@
         },
         {
           "name": "Haydos",
-          "score": 108
+          "score": 112
         },
         {
           "name": "Jon",
-          "score": 136
+          "score": 140
         },
         {
           "name": "Kuba",
-          "score": 146
+          "score": 142
         },
         {
           "name": "Luce",
-          "score": 126
+          "score": 130
         },
         {
           "name": "MarcinC",
@@ -3231,7 +3231,7 @@
         },
         {
           "name": "Martin L",
-          "score": 121
+          "score": 117
         },
         {
           "name": "Mikey",
@@ -3247,15 +3247,15 @@
         },
         {
           "name": "Tamara",
-          "score": 135
+          "score": 131
         },
         {
           "name": "Tom (9a0)",
-          "score": 114
+          "score": 118
         },
         {
           "name": "Tom (c66)",
-          "score": 124
+          "score": 128
         }
       ]
     }
@@ -3265,464 +3265,7 @@
       "Antoni Brdarovski",
       "Winner"
     ],
-    "results": {
-      "matches": [
-        {
-          "match_number": 73,
-          "stage": "R32",
-          "home": "CAN",
-          "home_rating": 1764,
-          "away": "RSA",
-          "away_rating": 1559,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 74,
-          "stage": "R32",
-          "home": "GER",
-          "home_rating": 1916,
-          "away": "PAR",
-          "away_rating": 1815,
-          "home_winner": false,
-          "known_result": true,
-          "upset": true
-        },
-        {
-          "match_number": 75,
-          "stage": "R32",
-          "home": "MAR",
-          "home_rating": 1877,
-          "away": "NED",
-          "away_rating": 1980,
-          "home_winner": true,
-          "known_result": true,
-          "upset": true
-        },
-        {
-          "match_number": 76,
-          "stage": "R32",
-          "home": "BRA",
-          "home_rating": 2009,
-          "away": "JPN",
-          "away_rating": 1910,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 77,
-          "stage": "R32",
-          "home": "FRA",
-          "home_rating": 2123,
-          "away": "SWE",
-          "away_rating": 1742,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 78,
-          "stage": "R32",
-          "home": "CIV",
-          "home_rating": 1743,
-          "away": "NOR",
-          "away_rating": 1918,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 79,
-          "stage": "R32",
-          "home": "ECU",
-          "home_rating": 1902,
-          "away": "MEX",
-          "away_rating": 1912,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 80,
-          "stage": "R32",
-          "home": "COD",
-          "home_rating": 1712,
-          "away": "ENG",
-          "away_rating": 2038,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 81,
-          "stage": "R32",
-          "home": "BIH",
-          "home_rating": 1622,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 82,
-          "stage": "R32",
-          "home": "BEL",
-          "home_rating": 1884,
-          "away": "SEN",
-          "away_rating": 1842,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 83,
-          "stage": "R32",
-          "home": "CRO",
-          "home_rating": 1905,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 84,
-          "stage": "R32",
-          "home": "AUT",
-          "home_rating": 1836,
-          "away": "ESP",
-          "away_rating": 2144,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 85,
-          "stage": "R32",
-          "home": "ALG",
-          "home_rating": 1785,
-          "away": "SUI",
-          "away_rating": 1914,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 86,
-          "stage": "R32",
-          "home": "ARG",
-          "home_rating": 2148,
-          "away": "CPV",
-          "away_rating": 1622,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 87,
-          "stage": "R32",
-          "home": "COL",
-          "home_rating": 2004,
-          "away": "GHA",
-          "away_rating": 1575,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 88,
-          "stage": "R32",
-          "home": "AUS",
-          "home_rating": 1800,
-          "away": "EGY",
-          "away_rating": 1742,
-          "home_winner": false,
-          "known_result": true,
-          "upset": true
-        },
-        {
-          "match_number": 89,
-          "stage": "R16",
-          "home": "FRA",
-          "home_rating": 2123,
-          "away": "PAR",
-          "away_rating": 1815,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 90,
-          "stage": "R16",
-          "home": "CAN",
-          "home_rating": 1764,
-          "away": "MAR",
-          "away_rating": 1877,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 91,
-          "stage": "R16",
-          "home": "BRA",
-          "home_rating": 2009,
-          "away": "NOR",
-          "away_rating": 1918,
-          "home_winner": false,
-          "known_result": true,
-          "upset": true
-        },
-        {
-          "match_number": 92,
-          "stage": "R16",
-          "home": "ENG",
-          "home_rating": 2038,
-          "away": "MEX",
-          "away_rating": 1912,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 93,
-          "stage": "R16",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
-        },
-        {
-          "match_number": 94,
-          "stage": "R16",
-          "home": "BEL",
-          "home_rating": 1884,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 95,
-          "stage": "R16",
-          "home": "ARG",
-          "home_rating": 2148,
-          "away": "EGY",
-          "away_rating": 1742,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 96,
-          "stage": "R16",
-          "home": "COL",
-          "home_rating": 2004,
-          "away": "SUI",
-          "away_rating": 1914,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 97,
-          "stage": "quarter",
-          "home": "FRA",
-          "home_rating": 2123,
-          "away": "MAR",
-          "away_rating": 1877,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 98,
-          "stage": "quarter",
-          "home": "BEL",
-          "home_rating": 1884,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": false,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 99,
-          "stage": "quarter",
-          "home": "ENG",
-          "home_rating": 2038,
-          "away": "NOR",
-          "away_rating": 1918,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 100,
-          "stage": "quarter",
-          "home": "ARG",
-          "home_rating": 2148,
-          "away": "COL",
-          "away_rating": 2004,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 101,
-          "stage": "semi",
-          "home": "FRA",
-          "home_rating": 2123,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
-        },
-        {
-          "match_number": 102,
-          "stage": "semi",
-          "home": "ARG",
-          "home_rating": 2148,
-          "away": "ENG",
-          "away_rating": 2038,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 103,
-          "stage": "third",
-          "home": "ENG",
-          "home_rating": 2038,
-          "away": "FRA",
-          "away_rating": 2123,
-          "home_winner": false,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 104,
-          "stage": "final",
-          "home": "ARG",
-          "home_rating": 2148,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
-        }
-      ],
-      "players": [
-        {
-          "name": "Adam B",
-          "score": 125
-        },
-        {
-          "name": "Albert",
-          "score": 123
-        },
-        {
-          "name": "Antoni Brdarovski",
-          "score": 145
-        },
-        {
-          "name": "BlueLaGoons",
-          "score": 101
-        },
-        {
-          "name": "Claude (AI)",
-          "score": 134
-        },
-        {
-          "name": "Damian",
-          "score": 94
-        },
-        {
-          "name": "Dan",
-          "score": 122
-        },
-        {
-          "name": "Dave L",
-          "score": 122
-        },
-        {
-          "name": "Doug",
-          "score": 127
-        },
-        {
-          "name": "Downsy",
-          "score": 92
-        },
-        {
-          "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 124
-        },
-        {
-          "name": "Estevao",
-          "score": 118
-        },
-        {
-          "name": "Giuseppe",
-          "score": 133
-        },
-        {
-          "name": "Haydos",
-          "score": 110
-        },
-        {
-          "name": "Jon",
-          "score": 132
-        },
-        {
-          "name": "Kuba",
-          "score": 134
-        },
-        {
-          "name": "Luce",
-          "score": 138
-        },
-        {
-          "name": "MarcinC",
-          "score": 115
-        },
-        {
-          "name": "Martin L",
-          "score": 125
-        },
-        {
-          "name": "Mikey",
-          "score": 110
-        },
-        {
-          "name": "Sherram",
-          "score": 100
-        },
-        {
-          "name": "Smith",
-          "score": 121
-        },
-        {
-          "name": "Tamara",
-          "score": 119
-        },
-        {
-          "name": "Tom (9a0)",
-          "score": 126
-        },
-        {
-          "name": "Tom (c66)",
-          "score": 140
-        }
-      ]
-    }
+    "results": null
   },
   {
     "spec": [
@@ -3958,9 +3501,9 @@
           "home_rating": 2144,
           "away": "POR",
           "away_rating": 1990,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 94,
@@ -3970,7 +3513,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -4011,8 +3554,8 @@
           "stage": "quarter",
           "home": "BEL",
           "home_rating": 1884,
-          "away": "POR",
-          "away_rating": 1990,
+          "away": "ESP",
+          "away_rating": 2144,
           "home_winner": false,
           "known_result": false,
           "upset": false
@@ -4042,10 +3585,10 @@
         {
           "match_number": 101,
           "stage": "semi",
-          "home": "FRA",
-          "home_rating": 2123,
-          "away": "POR",
-          "away_rating": 1990,
+          "home": "ESP",
+          "home_rating": 2144,
+          "away": "FRA",
+          "away_rating": 2123,
           "home_winner": false,
           "known_result": false,
           "upset": true
@@ -4066,8 +3609,8 @@
           "stage": "third",
           "home": "ENG",
           "home_rating": 2038,
-          "away": "FRA",
-          "away_rating": 2123,
+          "away": "ESP",
+          "away_rating": 2144,
           "home_winner": true,
           "known_result": false,
           "upset": true
@@ -4077,57 +3620,57 @@
           "stage": "final",
           "home": "ARG",
           "home_rating": 2148,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": false,
+          "away": "FRA",
+          "away_rating": 2123,
+          "home_winner": true,
           "known_result": false,
-          "upset": true
+          "upset": false
         }
       ],
       "players": [
         {
           "name": "Adam B",
-          "score": 125
+          "score": 135
         },
         {
           "name": "Albert",
-          "score": 123
+          "score": 127
         },
         {
           "name": "Antoni Brdarovski",
-          "score": 149
+          "score": 137
         },
         {
           "name": "BlueLaGoons",
-          "score": 101
+          "score": 111
         },
         {
           "name": "Claude (AI)",
-          "score": 134
+          "score": 148
         },
         {
           "name": "Damian",
-          "score": 94
+          "score": 104
         },
         {
           "name": "Dan",
-          "score": 122
+          "score": 136
         },
         {
           "name": "Dave L",
-          "score": 122
+          "score": 136
         },
         {
           "name": "Doug",
-          "score": 123
+          "score": 129
         },
         {
           "name": "Downsy",
-          "score": 92
+          "score": 102
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 124
+          "score": 134
         },
         {
           "name": "Estevao",
@@ -4135,7 +3678,7 @@
         },
         {
           "name": "Giuseppe",
-          "score": 133
+          "score": 141
         },
         {
           "name": "Haydos",
@@ -4143,15 +3686,15 @@
         },
         {
           "name": "Jon",
-          "score": 132
+          "score": 146
         },
         {
           "name": "Kuba",
-          "score": 134
+          "score": 142
         },
         {
           "name": "Luce",
-          "score": 138
+          "score": 152
         },
         {
           "name": "MarcinC",
@@ -4159,31 +3702,31 @@
         },
         {
           "name": "Martin L",
-          "score": 129
+          "score": 143
         },
         {
           "name": "Mikey",
-          "score": 110
+          "score": 116
         },
         {
           "name": "Sherram",
-          "score": 100
+          "score": 118
         },
         {
           "name": "Smith",
-          "score": 121
+          "score": 135
         },
         {
           "name": "Tamara",
-          "score": 115
+          "score": 121
         },
         {
           "name": "Tom (9a0)",
-          "score": 126
+          "score": 118
         },
         {
           "name": "Tom (c66)",
-          "score": 136
+          "score": 116
         }
       ]
     }
@@ -4430,7 +3973,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -4440,9 +3983,9 @@
           "home_rating": 1884,
           "away": "USA",
           "away_rating": 1781,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 95,
@@ -4480,11 +4023,11 @@
         {
           "match_number": 98,
           "stage": "quarter",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": false,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": true,
           "known_result": false,
           "upset": true
         },
@@ -4513,10 +4056,10 @@
         {
           "match_number": 101,
           "stage": "semi",
-          "home": "MAR",
-          "home_rating": 1877,
-          "away": "USA",
-          "away_rating": 1781,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "MAR",
+          "away_rating": 1877,
           "home_winner": true,
           "known_result": false,
           "upset": false
@@ -4535,11 +4078,11 @@
         {
           "match_number": 103,
           "stage": "third",
-          "home": "NOR",
-          "home_rating": 1918,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": true,
+          "home": "MAR",
+          "home_rating": 1877,
+          "away": "NOR",
+          "away_rating": 1918,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -4548,8 +4091,8 @@
           "stage": "final",
           "home": "ARG",
           "home_rating": 2148,
-          "away": "MAR",
-          "away_rating": 1877,
+          "away": "BEL",
+          "away_rating": 1884,
           "home_winner": true,
           "known_result": false,
           "upset": false
@@ -4558,23 +4101,23 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 125
+          "score": 129
         },
         {
           "name": "Albert",
-          "score": 123
+          "score": 133
         },
         {
           "name": "Antoni Brdarovski",
-          "score": 103
+          "score": 107
         },
         {
           "name": "BlueLaGoons",
-          "score": 105
+          "score": 115
         },
         {
           "name": "Claude (AI)",
-          "score": 124
+          "score": 128
         },
         {
           "name": "Damian",
@@ -4582,7 +4125,7 @@
         },
         {
           "name": "Dan",
-          "score": 106
+          "score": 110
         },
         {
           "name": "Dave L",
@@ -4594,15 +4137,15 @@
         },
         {
           "name": "Downsy",
-          "score": 100
+          "score": 96
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 136
+          "score": 132
         },
         {
           "name": "Estevao",
-          "score": 98
+          "score": 102
         },
         {
           "name": "Giuseppe",
@@ -4610,19 +4153,19 @@
         },
         {
           "name": "Haydos",
-          "score": 100
+          "score": 110
         },
         {
           "name": "Jon",
-          "score": 116
-        },
-        {
-          "name": "Kuba",
           "score": 120
         },
         {
+          "name": "Kuba",
+          "score": 116
+        },
+        {
           "name": "Luce",
-          "score": 122
+          "score": 126
         },
         {
           "name": "MarcinC",
@@ -4630,7 +4173,7 @@
         },
         {
           "name": "Martin L",
-          "score": 117
+          "score": 113
         },
         {
           "name": "Mikey",
@@ -4646,15 +4189,15 @@
         },
         {
           "name": "Tamara",
-          "score": 113
+          "score": 109
         },
         {
           "name": "Tom (9a0)",
-          "score": 102
+          "score": 106
         },
         {
           "name": "Tom (c66)",
-          "score": 100
+          "score": 104
         }
       ]
     }
@@ -4894,7 +4437,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -4905,7 +4448,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -5358,7 +4901,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -5369,7 +4912,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -5828,9 +5371,9 @@
           "home_rating": 2144,
           "away": "POR",
           "away_rating": 1990,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 94,
@@ -5839,9 +5382,9 @@
           "home_rating": 1884,
           "away": "USA",
           "away_rating": 1781,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 95,
@@ -5879,11 +5422,11 @@
         {
           "match_number": 98,
           "stage": "quarter",
-          "home": "POR",
-          "home_rating": 1990,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": true,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -5912,13 +5455,13 @@
         {
           "match_number": 101,
           "stage": "semi",
-          "home": "FRA",
-          "home_rating": 2123,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": true,
+          "home": "ESP",
+          "home_rating": 2144,
+          "away": "FRA",
+          "away_rating": 2123,
+          "home_winner": false,
           "known_result": false,
-          "upset": false
+          "upset": true
         },
         {
           "match_number": 102,
@@ -5936,9 +5479,9 @@
           "stage": "third",
           "home": "ENG",
           "home_rating": 2038,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": true,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -5957,11 +5500,11 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 121
+          "score": 135
         },
         {
           "name": "Albert",
-          "score": 119
+          "score": 127
         },
         {
           "name": "Antoni Brdarovski",
@@ -5969,51 +5512,51 @@
         },
         {
           "name": "BlueLaGoons",
-          "score": 97
+          "score": 111
         },
         {
           "name": "Claude (AI)",
-          "score": 138
+          "score": 152
         },
         {
           "name": "Damian",
-          "score": 94
+          "score": 108
         },
         {
           "name": "Dan",
-          "score": 126
+          "score": 136
         },
         {
           "name": "Dave L",
-          "score": 130
+          "score": 136
         },
         {
           "name": "Doug",
-          "score": 123
+          "score": 129
         },
         {
           "name": "Downsy",
-          "score": 96
-        },
-        {
-          "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 128
-        },
-        {
-          "name": "Estevao",
-          "score": 110
-        },
-        {
-          "name": "Giuseppe",
-          "score": 141
-        },
-        {
-          "name": "Haydos",
           "score": 106
         },
         {
+          "name": "ESPN (Ryan O'Hanlon's tips)",
+          "score": 134
+        },
+        {
+          "name": "Estevao",
+          "score": 114
+        },
+        {
+          "name": "Giuseppe",
+          "score": 145
+        },
+        {
+          "name": "Haydos",
+          "score": 110
+        },
+        {
           "name": "Jon",
-          "score": 136
+          "score": 150
         },
         {
           "name": "Kuba",
@@ -6021,7 +5564,7 @@
         },
         {
           "name": "Luce",
-          "score": 142
+          "score": 156
         },
         {
           "name": "MarcinC",
@@ -6029,31 +5572,31 @@
         },
         {
           "name": "Martin L",
-          "score": 141
+          "score": 139
         },
         {
           "name": "Mikey",
-          "score": 110
+          "score": 116
         },
         {
           "name": "Sherram",
-          "score": 108
+          "score": 122
         },
         {
           "name": "Smith",
-          "score": 129
+          "score": 139
         },
         {
           "name": "Tamara",
-          "score": 119
+          "score": 121
         },
         {
           "name": "Tom (9a0)",
-          "score": 114
+          "score": 122
         },
         {
           "name": "Tom (c66)",
-          "score": 112
+          "score": 116
         }
       ]
     }
@@ -6293,7 +5836,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -6304,7 +5847,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -6757,7 +6300,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -6768,7 +6311,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -7228,7 +6771,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -7238,9 +6781,9 @@
           "home_rating": 1884,
           "away": "USA",
           "away_rating": 1781,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 95,
@@ -7278,11 +6821,11 @@
         {
           "match_number": 98,
           "stage": "quarter",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": true,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -7356,23 +6899,23 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 137
+          "score": 141
         },
         {
           "name": "Albert",
-          "score": 109
+          "score": 113
         },
         {
           "name": "Antoni Brdarovski",
-          "score": 115
+          "score": 119
         },
         {
           "name": "BlueLaGoons",
-          "score": 123
+          "score": 127
         },
         {
           "name": "Claude (AI)",
-          "score": 116
+          "score": 120
         },
         {
           "name": "Damian",
@@ -7380,7 +6923,7 @@
         },
         {
           "name": "Dan",
-          "score": 120
+          "score": 124
         },
         {
           "name": "Dave L",
@@ -7392,15 +6935,15 @@
         },
         {
           "name": "Downsy",
-          "score": 112
+          "score": 108
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 138
+          "score": 134
         },
         {
           "name": "Estevao",
-          "score": 112
+          "score": 116
         },
         {
           "name": "Giuseppe",
@@ -7408,19 +6951,19 @@
         },
         {
           "name": "Haydos",
-          "score": 108
+          "score": 112
         },
         {
           "name": "Jon",
-          "score": 130
+          "score": 134
         },
         {
           "name": "Kuba",
-          "score": 140
+          "score": 136
         },
         {
           "name": "Luce",
-          "score": 120
+          "score": 124
         },
         {
           "name": "MarcinC",
@@ -7428,7 +6971,7 @@
         },
         {
           "name": "Martin L",
-          "score": 115
+          "score": 111
         },
         {
           "name": "Mikey",
@@ -7444,15 +6987,15 @@
         },
         {
           "name": "Tamara",
-          "score": 125
+          "score": 121
         },
         {
           "name": "Tom (9a0)",
-          "score": 114
+          "score": 118
         },
         {
           "name": "Tom (c66)",
-          "score": 114
+          "score": 118
         }
       ]
     }
@@ -7699,7 +7242,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -7710,7 +7253,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -8163,7 +7706,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -8173,9 +7716,9 @@
           "home_rating": 1884,
           "away": "USA",
           "away_rating": 1781,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 95,
@@ -8213,11 +7756,11 @@
         {
           "match_number": 98,
           "stage": "quarter",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": true,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -8239,9 +7782,9 @@
           "home_rating": 2148,
           "away": "COL",
           "away_rating": 2004,
-          "home_winner": true,
+          "home_winner": false,
           "known_result": false,
-          "upset": false
+          "upset": true
         },
         {
           "match_number": 101,
@@ -8257,19 +7800,19 @@
         {
           "match_number": 102,
           "stage": "semi",
-          "home": "ARG",
-          "home_rating": 2148,
+          "home": "COL",
+          "home_rating": 2004,
           "away": "ENG",
           "away_rating": 2038,
-          "home_winner": true,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
         {
           "match_number": 103,
           "stage": "third",
-          "home": "ENG",
-          "home_rating": 2038,
+          "home": "COL",
+          "home_rating": 2004,
           "away": "FRA",
           "away_rating": 2123,
           "home_winner": false,
@@ -8279,11 +7822,11 @@
         {
           "match_number": 104,
           "stage": "final",
-          "home": "ARG",
-          "home_rating": 2148,
+          "home": "ENG",
+          "home_rating": 2038,
           "away": "ESP",
           "away_rating": 2144,
-          "home_winner": true,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         }
@@ -8291,83 +7834,83 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 139
-        },
-        {
-          "name": "Albert",
-          "score": 123
-        },
-        {
-          "name": "Antoni Brdarovski",
-          "score": 121
-        },
-        {
-          "name": "BlueLaGoons",
-          "score": 115
-        },
-        {
-          "name": "Claude (AI)",
-          "score": 136
-        },
-        {
-          "name": "Damian",
-          "score": 104
-        },
-        {
-          "name": "Dan",
-          "score": 124
-        },
-        {
-          "name": "Dave L",
-          "score": 128
-        },
-        {
-          "name": "Doug",
           "score": 141
         },
         {
+          "name": "Albert",
+          "score": 113
+        },
+        {
+          "name": "Antoni Brdarovski",
+          "score": 125
+        },
+        {
+          "name": "BlueLaGoons",
+          "score": 127
+        },
+        {
+          "name": "Claude (AI)",
+          "score": 126
+        },
+        {
+          "name": "Damian",
+          "score": 98
+        },
+        {
+          "name": "Dan",
+          "score": 130
+        },
+        {
+          "name": "Dave L",
+          "score": 130
+        },
+        {
+          "name": "Doug",
+          "score": 143
+        },
+        {
           "name": "Downsy",
-          "score": 106
+          "score": 108
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 146
-        },
-        {
-          "name": "Estevao",
-          "score": 122
-        },
-        {
-          "name": "Giuseppe",
-          "score": 133
-        },
-        {
-          "name": "Haydos",
-          "score": 106
-        },
-        {
-          "name": "Jon",
-          "score": 134
-        },
-        {
-          "name": "Kuba",
-          "score": 138
-        },
-        {
-          "name": "Luce",
           "score": 140
         },
         {
+          "name": "Estevao",
+          "score": 126
+        },
+        {
+          "name": "Giuseppe",
+          "score": 141
+        },
+        {
+          "name": "Haydos",
+          "score": 112
+        },
+        {
+          "name": "Jon",
+          "score": 140
+        },
+        {
+          "name": "Kuba",
+          "score": 142
+        },
+        {
+          "name": "Luce",
+          "score": 130
+        },
+        {
           "name": "MarcinC",
-          "score": 123
+          "score": 131
         },
         {
           "name": "Martin L",
-          "score": 135
+          "score": 117
         },
         {
           "name": "Mikey",
-          "score": 124
+          "score": 130
         },
         {
           "name": "Sherram",
@@ -8375,19 +7918,19 @@
         },
         {
           "name": "Smith",
-          "score": 127
+          "score": 113
         },
         {
           "name": "Tamara",
-          "score": 137
+          "score": 131
         },
         {
           "name": "Tom (9a0)",
-          "score": 114
+          "score": 118
         },
         {
           "name": "Tom (c66)",
-          "score": 124
+          "score": 128
         }
       ]
     }
@@ -8626,9 +8169,9 @@
           "home_rating": 2144,
           "away": "POR",
           "away_rating": 1990,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 94,
@@ -8638,7 +8181,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -8679,11 +8222,11 @@
           "stage": "quarter",
           "home": "BEL",
           "home_rating": 1884,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": false,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": true,
           "known_result": false,
-          "upset": false
+          "upset": true
         },
         {
           "match_number": 99,
@@ -8710,11 +8253,11 @@
         {
           "match_number": 101,
           "stage": "semi",
-          "home": "FRA",
-          "home_rating": 2123,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": true,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "FRA",
+          "away_rating": 2123,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -8732,11 +8275,11 @@
         {
           "match_number": 103,
           "stage": "third",
-          "home": "POR",
-          "home_rating": 1990,
+          "home": "BEL",
+          "home_rating": 1884,
           "away": "SUI",
           "away_rating": 1914,
-          "home_winner": true,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -8755,19 +8298,19 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 107
+          "score": 111
         },
         {
           "name": "Albert",
-          "score": 105
+          "score": 115
         },
         {
           "name": "Antoni Brdarovski",
-          "score": 133
+          "score": 127
         },
         {
           "name": "BlueLaGoons",
-          "score": 113
+          "score": 123
         },
         {
           "name": "Claude (AI)",
@@ -8775,7 +8318,7 @@
         },
         {
           "name": "Damian",
-          "score": 84
+          "score": 88
         },
         {
           "name": "Dan",
@@ -8791,23 +8334,23 @@
         },
         {
           "name": "Downsy",
-          "score": 88
+          "score": 92
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 106
+          "score": 110
         },
         {
           "name": "Estevao",
-          "score": 114
+          "score": 108
         },
         {
           "name": "Giuseppe",
-          "score": 161
+          "score": 155
         },
         {
           "name": "Haydos",
-          "score": 112
+          "score": 118
         },
         {
           "name": "Jon",
@@ -8815,7 +8358,7 @@
         },
         {
           "name": "Kuba",
-          "score": 150
+          "score": 144
         },
         {
           "name": "Luce",
@@ -8823,7 +8366,7 @@
         },
         {
           "name": "MarcinC",
-          "score": 123
+          "score": 117
         },
         {
           "name": "Martin L",
@@ -8835,7 +8378,7 @@
         },
         {
           "name": "Sherram",
-          "score": 116
+          "score": 120
         },
         {
           "name": "Smith",
@@ -8847,11 +8390,11 @@
         },
         {
           "name": "Tom (9a0)",
-          "score": 118
+          "score": 112
         },
         {
           "name": "Tom (c66)",
-          "score": 116
+          "score": 110
         }
       ]
     }
@@ -9098,7 +8641,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -9109,7 +8652,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -9569,7 +9112,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -9579,9 +9122,9 @@
           "home_rating": 1884,
           "away": "USA",
           "away_rating": 1781,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 95,
@@ -9619,11 +9162,11 @@
         {
           "match_number": 98,
           "stage": "quarter",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": true,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -9697,23 +9240,23 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 137
+          "score": 141
         },
         {
           "name": "Albert",
-          "score": 109
+          "score": 113
         },
         {
           "name": "Antoni Brdarovski",
-          "score": 109
+          "score": 113
         },
         {
           "name": "BlueLaGoons",
-          "score": 119
+          "score": 123
         },
         {
           "name": "Claude (AI)",
-          "score": 116
+          "score": 120
         },
         {
           "name": "Damian",
@@ -9721,7 +9264,7 @@
         },
         {
           "name": "Dan",
-          "score": 106
+          "score": 110
         },
         {
           "name": "Dave L",
@@ -9733,15 +9276,15 @@
         },
         {
           "name": "Downsy",
-          "score": 112
+          "score": 108
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 148
+          "score": 144
         },
         {
           "name": "Estevao",
-          "score": 112
+          "score": 116
         },
         {
           "name": "Giuseppe",
@@ -9749,19 +9292,19 @@
         },
         {
           "name": "Haydos",
-          "score": 94
+          "score": 98
         },
         {
           "name": "Jon",
-          "score": 116
+          "score": 120
         },
         {
           "name": "Kuba",
-          "score": 126
+          "score": 122
         },
         {
           "name": "Luce",
-          "score": 114
+          "score": 118
         },
         {
           "name": "MarcinC",
@@ -9769,7 +9312,7 @@
         },
         {
           "name": "Martin L",
-          "score": 109
+          "score": 105
         },
         {
           "name": "Mikey",
@@ -9785,15 +9328,15 @@
         },
         {
           "name": "Tamara",
-          "score": 125
+          "score": 121
         },
         {
           "name": "Tom (9a0)",
-          "score": 108
+          "score": 112
         },
         {
           "name": "Tom (c66)",
-          "score": 114
+          "score": 118
         }
       ]
     }
@@ -10040,7 +9583,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -10051,7 +9594,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -10511,7 +10054,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -10522,7 +10065,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -10975,7 +10518,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -10986,7 +10529,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -11439,7 +10982,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -11450,7 +10993,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -11910,7 +11453,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -11921,7 +11464,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -12381,7 +11924,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -12391,9 +11934,9 @@
           "home_rating": 1884,
           "away": "USA",
           "away_rating": 1781,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 95,
@@ -12431,11 +11974,11 @@
         {
           "match_number": 98,
           "stage": "quarter",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": true,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -12509,23 +12052,23 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 117
+          "score": 121
         },
         {
           "name": "Albert",
-          "score": 109
+          "score": 113
         },
         {
           "name": "Antoni Brdarovski",
-          "score": 129
+          "score": 133
         },
         {
           "name": "BlueLaGoons",
-          "score": 115
+          "score": 119
         },
         {
           "name": "Claude (AI)",
-          "score": 146
+          "score": 150
         },
         {
           "name": "Damian",
@@ -12533,7 +12076,7 @@
         },
         {
           "name": "Dan",
-          "score": 146
+          "score": 150
         },
         {
           "name": "Dave L",
@@ -12545,15 +12088,15 @@
         },
         {
           "name": "Downsy",
-          "score": 116
+          "score": 112
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 124
+          "score": 120
         },
         {
           "name": "Estevao",
-          "score": 110
+          "score": 114
         },
         {
           "name": "Giuseppe",
@@ -12561,19 +12104,19 @@
         },
         {
           "name": "Haydos",
-          "score": 108
+          "score": 112
         },
         {
           "name": "Jon",
-          "score": 160
+          "score": 164
         },
         {
           "name": "Kuba",
-          "score": 158
+          "score": 154
         },
         {
           "name": "Luce",
-          "score": 150
+          "score": 154
         },
         {
           "name": "MarcinC",
@@ -12581,7 +12124,7 @@
         },
         {
           "name": "Martin L",
-          "score": 141
+          "score": 137
         },
         {
           "name": "Mikey",
@@ -12597,15 +12140,15 @@
         },
         {
           "name": "Tamara",
-          "score": 111
+          "score": 107
         },
         {
           "name": "Tom (9a0)",
-          "score": 118
+          "score": 122
         },
         {
           "name": "Tom (c66)",
-          "score": 112
+          "score": 116
         }
       ]
     }
@@ -12845,7 +12388,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -12856,7 +12399,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -13308,9 +12851,9 @@
           "home_rating": 2144,
           "away": "POR",
           "away_rating": 1990,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 94,
@@ -13320,7 +12863,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -13361,11 +12904,11 @@
           "stage": "quarter",
           "home": "BEL",
           "home_rating": 1884,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": false,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": true,
           "known_result": false,
-          "upset": false
+          "upset": true
         },
         {
           "match_number": 99,
@@ -13392,11 +12935,11 @@
         {
           "match_number": 101,
           "stage": "semi",
-          "home": "FRA",
-          "home_rating": 2123,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": true,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "FRA",
+          "away_rating": 2123,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -13414,11 +12957,11 @@
         {
           "match_number": 103,
           "stage": "third",
-          "home": "ENG",
-          "home_rating": 2038,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": true,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "ENG",
+          "away_rating": 2038,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -13437,19 +12980,19 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 121
+          "score": 125
         },
         {
           "name": "Albert",
-          "score": 119
+          "score": 129
         },
         {
           "name": "Antoni Brdarovski",
-          "score": 137
+          "score": 131
         },
         {
           "name": "BlueLaGoons",
-          "score": 105
+          "score": 115
         },
         {
           "name": "Claude (AI)",
@@ -13457,7 +13000,7 @@
         },
         {
           "name": "Damian",
-          "score": 90
+          "score": 94
         },
         {
           "name": "Dan",
@@ -13473,23 +13016,23 @@
         },
         {
           "name": "Downsy",
-          "score": 88
+          "score": 92
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 120
+          "score": 124
         },
         {
           "name": "Estevao",
-          "score": 114
+          "score": 108
         },
         {
           "name": "Giuseppe",
-          "score": 141
+          "score": 135
         },
         {
           "name": "Haydos",
-          "score": 110
+          "score": 116
         },
         {
           "name": "Jon",
@@ -13497,7 +13040,7 @@
         },
         {
           "name": "Kuba",
-          "score": 142
+          "score": 136
         },
         {
           "name": "Luce",
@@ -13505,7 +13048,7 @@
         },
         {
           "name": "MarcinC",
-          "score": 115
+          "score": 109
         },
         {
           "name": "Martin L",
@@ -13517,7 +13060,7 @@
         },
         {
           "name": "Sherram",
-          "score": 104
+          "score": 108
         },
         {
           "name": "Smith",
@@ -13529,11 +13072,11 @@
         },
         {
           "name": "Tom (9a0)",
-          "score": 118
+          "score": 112
         },
         {
           "name": "Tom (c66)",
-          "score": 116
+          "score": 110
         }
       ]
     }
@@ -13773,7 +13316,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -13784,7 +13327,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -14237,7 +13780,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -14247,9 +13790,9 @@
           "home_rating": 1884,
           "away": "USA",
           "away_rating": 1781,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 95,
@@ -14287,11 +13830,11 @@
         {
           "match_number": 98,
           "stage": "quarter",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": true,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -14365,23 +13908,23 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 151
+          "score": 155
         },
         {
           "name": "Albert",
-          "score": 123
+          "score": 127
         },
         {
           "name": "Antoni Brdarovski",
-          "score": 115
-        },
-        {
-          "name": "BlueLaGoons",
           "score": 119
         },
         {
+          "name": "BlueLaGoons",
+          "score": 123
+        },
+        {
           "name": "Claude (AI)",
-          "score": 136
+          "score": 140
         },
         {
           "name": "Damian",
@@ -14389,7 +13932,7 @@
         },
         {
           "name": "Dan",
-          "score": 118
+          "score": 122
         },
         {
           "name": "Dave L",
@@ -14401,15 +13944,15 @@
         },
         {
           "name": "Downsy",
-          "score": 106
+          "score": 102
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 168
+          "score": 164
         },
         {
           "name": "Estevao",
-          "score": 118
+          "score": 122
         },
         {
           "name": "Giuseppe",
@@ -14417,19 +13960,19 @@
         },
         {
           "name": "Haydos",
-          "score": 100
+          "score": 104
         },
         {
           "name": "Jon",
-          "score": 128
-        },
-        {
-          "name": "Kuba",
           "score": 132
         },
         {
+          "name": "Kuba",
+          "score": 128
+        },
+        {
           "name": "Luce",
-          "score": 134
+          "score": 138
         },
         {
           "name": "MarcinC",
@@ -14437,7 +13980,7 @@
         },
         {
           "name": "Martin L",
-          "score": 129
+          "score": 125
         },
         {
           "name": "Mikey",
@@ -14453,15 +13996,15 @@
         },
         {
           "name": "Tamara",
-          "score": 145
+          "score": 141
         },
         {
           "name": "Tom (9a0)",
-          "score": 108
+          "score": 112
         },
         {
           "name": "Tom (c66)",
-          "score": 120
+          "score": 124
         }
       ]
     }
@@ -14707,9 +14250,9 @@
           "home_rating": 2144,
           "away": "POR",
           "away_rating": 1990,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 94,
@@ -14719,7 +14262,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -14751,20 +14294,20 @@
           "home_rating": 2123,
           "away": "MAR",
           "away_rating": 1877,
-          "home_winner": false,
+          "home_winner": true,
           "known_result": false,
-          "upset": true
+          "upset": false
         },
         {
           "match_number": 98,
           "stage": "quarter",
           "home": "BEL",
           "home_rating": 1884,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": false,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": true,
           "known_result": false,
-          "upset": false
+          "upset": true
         },
         {
           "match_number": 99,
@@ -14791,10 +14334,10 @@
         {
           "match_number": 101,
           "stage": "semi",
-          "home": "MAR",
-          "home_rating": 1877,
-          "away": "POR",
-          "away_rating": 1990,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "FRA",
+          "away_rating": 2123,
           "home_winner": false,
           "known_result": false,
           "upset": false
@@ -14813,8 +14356,8 @@
         {
           "match_number": 103,
           "stage": "third",
-          "home": "MAR",
-          "home_rating": 1877,
+          "home": "BEL",
+          "home_rating": 1884,
           "away": "SUI",
           "away_rating": 1914,
           "home_winner": false,
@@ -14826,9 +14369,9 @@
           "stage": "final",
           "home": "ENG",
           "home_rating": 2038,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": true,
+          "away": "FRA",
+          "away_rating": 2123,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         }
@@ -14836,11 +14379,11 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 107
+          "score": 111
         },
         {
           "name": "Albert",
-          "score": 105
+          "score": 115
         },
         {
           "name": "Antoni Brdarovski",
@@ -14848,35 +14391,35 @@
         },
         {
           "name": "BlueLaGoons",
-          "score": 125
+          "score": 123
         },
         {
           "name": "Claude (AI)",
-          "score": 114
+          "score": 140
         },
         {
           "name": "Damian",
-          "score": 84
-        },
-        {
-          "name": "Dan",
-          "score": 118
-        },
-        {
-          "name": "Dave L",
-          "score": 118
-        },
-        {
-          "name": "Doug",
-          "score": 131
-        },
-        {
-          "name": "Downsy",
           "score": 88
         },
         {
+          "name": "Dan",
+          "score": 144
+        },
+        {
+          "name": "Dave L",
+          "score": 144
+        },
+        {
+          "name": "Doug",
+          "score": 125
+        },
+        {
+          "name": "Downsy",
+          "score": 92
+        },
+        {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 100
+          "score": 110
         },
         {
           "name": "Estevao",
@@ -14884,55 +14427,55 @@
         },
         {
           "name": "Giuseppe",
-          "score": 135
+          "score": 155
         },
         {
           "name": "Haydos",
-          "score": 124
+          "score": 118
         },
         {
           "name": "Jon",
-          "score": 128
+          "score": 154
         },
         {
           "name": "Kuba",
-          "score": 148
+          "score": 144
         },
         {
           "name": "Luce",
-          "score": 118
+          "score": 144
         },
         {
           "name": "MarcinC",
-          "score": 135
+          "score": 117
         },
         {
           "name": "Martin L",
-          "score": 105
+          "score": 131
         },
         {
           "name": "Mikey",
-          "score": 98
+          "score": 104
         },
         {
           "name": "Sherram",
-          "score": 90
+          "score": 120
         },
         {
           "name": "Smith",
-          "score": 101
+          "score": 127
         },
         {
           "name": "Tamara",
-          "score": 95
+          "score": 101
         },
         {
           "name": "Tom (9a0)",
-          "score": 126
+          "score": 112
         },
         {
           "name": "Tom (c66)",
-          "score": 118
+          "score": 110
         }
       ]
     }
@@ -15179,7 +14722,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -15190,7 +14733,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -15413,464 +14956,7 @@
       "Estevao",
       "Loser"
     ],
-    "results": {
-      "matches": [
-        {
-          "match_number": 73,
-          "stage": "R32",
-          "home": "CAN",
-          "home_rating": 1764,
-          "away": "RSA",
-          "away_rating": 1559,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 74,
-          "stage": "R32",
-          "home": "GER",
-          "home_rating": 1916,
-          "away": "PAR",
-          "away_rating": 1815,
-          "home_winner": false,
-          "known_result": true,
-          "upset": true
-        },
-        {
-          "match_number": 75,
-          "stage": "R32",
-          "home": "MAR",
-          "home_rating": 1877,
-          "away": "NED",
-          "away_rating": 1980,
-          "home_winner": true,
-          "known_result": true,
-          "upset": true
-        },
-        {
-          "match_number": 76,
-          "stage": "R32",
-          "home": "BRA",
-          "home_rating": 2009,
-          "away": "JPN",
-          "away_rating": 1910,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 77,
-          "stage": "R32",
-          "home": "FRA",
-          "home_rating": 2123,
-          "away": "SWE",
-          "away_rating": 1742,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 78,
-          "stage": "R32",
-          "home": "CIV",
-          "home_rating": 1743,
-          "away": "NOR",
-          "away_rating": 1918,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 79,
-          "stage": "R32",
-          "home": "ECU",
-          "home_rating": 1902,
-          "away": "MEX",
-          "away_rating": 1912,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 80,
-          "stage": "R32",
-          "home": "COD",
-          "home_rating": 1712,
-          "away": "ENG",
-          "away_rating": 2038,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 81,
-          "stage": "R32",
-          "home": "BIH",
-          "home_rating": 1622,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 82,
-          "stage": "R32",
-          "home": "BEL",
-          "home_rating": 1884,
-          "away": "SEN",
-          "away_rating": 1842,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 83,
-          "stage": "R32",
-          "home": "CRO",
-          "home_rating": 1905,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 84,
-          "stage": "R32",
-          "home": "AUT",
-          "home_rating": 1836,
-          "away": "ESP",
-          "away_rating": 2144,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 85,
-          "stage": "R32",
-          "home": "ALG",
-          "home_rating": 1785,
-          "away": "SUI",
-          "away_rating": 1914,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 86,
-          "stage": "R32",
-          "home": "ARG",
-          "home_rating": 2148,
-          "away": "CPV",
-          "away_rating": 1622,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 87,
-          "stage": "R32",
-          "home": "COL",
-          "home_rating": 2004,
-          "away": "GHA",
-          "away_rating": 1575,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 88,
-          "stage": "R32",
-          "home": "AUS",
-          "home_rating": 1800,
-          "away": "EGY",
-          "away_rating": 1742,
-          "home_winner": false,
-          "known_result": true,
-          "upset": true
-        },
-        {
-          "match_number": 89,
-          "stage": "R16",
-          "home": "FRA",
-          "home_rating": 2123,
-          "away": "PAR",
-          "away_rating": 1815,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 90,
-          "stage": "R16",
-          "home": "CAN",
-          "home_rating": 1764,
-          "away": "MAR",
-          "away_rating": 1877,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 91,
-          "stage": "R16",
-          "home": "BRA",
-          "home_rating": 2009,
-          "away": "NOR",
-          "away_rating": 1918,
-          "home_winner": false,
-          "known_result": true,
-          "upset": true
-        },
-        {
-          "match_number": 92,
-          "stage": "R16",
-          "home": "ENG",
-          "home_rating": 2038,
-          "away": "MEX",
-          "away_rating": 1912,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 93,
-          "stage": "R16",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 94,
-          "stage": "R16",
-          "home": "BEL",
-          "home_rating": 1884,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
-        },
-        {
-          "match_number": 95,
-          "stage": "R16",
-          "home": "ARG",
-          "home_rating": 2148,
-          "away": "EGY",
-          "away_rating": 1742,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 96,
-          "stage": "R16",
-          "home": "COL",
-          "home_rating": 2004,
-          "away": "SUI",
-          "away_rating": 1914,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 97,
-          "stage": "quarter",
-          "home": "FRA",
-          "home_rating": 2123,
-          "away": "MAR",
-          "away_rating": 1877,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
-        },
-        {
-          "match_number": 98,
-          "stage": "quarter",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 99,
-          "stage": "quarter",
-          "home": "ENG",
-          "home_rating": 2038,
-          "away": "NOR",
-          "away_rating": 1918,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 100,
-          "stage": "quarter",
-          "home": "ARG",
-          "home_rating": 2148,
-          "away": "COL",
-          "away_rating": 2004,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 101,
-          "stage": "semi",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "MAR",
-          "away_rating": 1877,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
-        },
-        {
-          "match_number": 102,
-          "stage": "semi",
-          "home": "ARG",
-          "home_rating": 2148,
-          "away": "ENG",
-          "away_rating": 2038,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 103,
-          "stage": "third",
-          "home": "ENG",
-          "home_rating": 2038,
-          "away": "ESP",
-          "away_rating": 2144,
-          "home_winner": false,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 104,
-          "stage": "final",
-          "home": "ARG",
-          "home_rating": 2148,
-          "away": "MAR",
-          "away_rating": 1877,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        }
-      ],
-      "players": [
-        {
-          "name": "Adam B",
-          "score": 131
-        },
-        {
-          "name": "Albert",
-          "score": 123
-        },
-        {
-          "name": "Antoni Brdarovski",
-          "score": 115
-        },
-        {
-          "name": "BlueLaGoons",
-          "score": 107
-        },
-        {
-          "name": "Claude (AI)",
-          "score": 134
-        },
-        {
-          "name": "Damian",
-          "score": 108
-        },
-        {
-          "name": "Dan",
-          "score": 118
-        },
-        {
-          "name": "Dave L",
-          "score": 122
-        },
-        {
-          "name": "Doug",
-          "score": 123
-        },
-        {
-          "name": "Downsy",
-          "score": 110
-        },
-        {
-          "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 132
-        },
-        {
-          "name": "Estevao",
-          "score": 104
-        },
-        {
-          "name": "Giuseppe",
-          "score": 131
-        },
-        {
-          "name": "Haydos",
-          "score": 106
-        },
-        {
-          "name": "Jon",
-          "score": 132
-        },
-        {
-          "name": "Kuba",
-          "score": 136
-        },
-        {
-          "name": "Luce",
-          "score": 138
-        },
-        {
-          "name": "MarcinC",
-          "score": 115
-        },
-        {
-          "name": "Martin L",
-          "score": 129
-        },
-        {
-          "name": "Mikey",
-          "score": 110
-        },
-        {
-          "name": "Sherram",
-          "score": 108
-        },
-        {
-          "name": "Smith",
-          "score": 125
-        },
-        {
-          "name": "Tamara",
-          "score": 119
-        },
-        {
-          "name": "Tom (9a0)",
-          "score": 118
-        },
-        {
-          "name": "Tom (c66)",
-          "score": 106
-        }
-      ]
-    }
+    "results": null
   },
   {
     "spec": [
@@ -16107,7 +15193,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -16117,9 +15203,9 @@
           "home_rating": 1884,
           "away": "USA",
           "away_rating": 1781,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 95,
@@ -16157,11 +15243,11 @@
         {
           "match_number": 98,
           "stage": "quarter",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": false,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": true,
           "known_result": false,
           "upset": true
         },
@@ -16190,10 +15276,10 @@
         {
           "match_number": 101,
           "stage": "semi",
-          "home": "MAR",
-          "home_rating": 1877,
-          "away": "USA",
-          "away_rating": 1781,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "MAR",
+          "away_rating": 1877,
           "home_winner": true,
           "known_result": false,
           "upset": false
@@ -16214,8 +15300,8 @@
           "stage": "third",
           "home": "ENG",
           "home_rating": 2038,
-          "away": "USA",
-          "away_rating": 1781,
+          "away": "MAR",
+          "away_rating": 1877,
           "home_winner": true,
           "known_result": false,
           "upset": false
@@ -16225,8 +15311,8 @@
           "stage": "final",
           "home": "ARG",
           "home_rating": 2148,
-          "away": "MAR",
-          "away_rating": 1877,
+          "away": "BEL",
+          "away_rating": 1884,
           "home_winner": true,
           "known_result": false,
           "upset": false
@@ -16235,23 +15321,23 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 125
+          "score": 129
         },
         {
           "name": "Albert",
-          "score": 123
+          "score": 133
         },
         {
           "name": "Antoni Brdarovski",
-          "score": 113
+          "score": 117
         },
         {
           "name": "BlueLaGoons",
-          "score": 101
+          "score": 111
         },
         {
           "name": "Claude (AI)",
-          "score": 124
+          "score": 128
         },
         {
           "name": "Damian",
@@ -16259,7 +15345,7 @@
         },
         {
           "name": "Dan",
-          "score": 112
+          "score": 116
         },
         {
           "name": "Dave L",
@@ -16271,15 +15357,15 @@
         },
         {
           "name": "Downsy",
-          "score": 100
+          "score": 96
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 126
+          "score": 122
         },
         {
           "name": "Estevao",
-          "score": 98
+          "score": 102
         },
         {
           "name": "Giuseppe",
@@ -16287,19 +15373,19 @@
         },
         {
           "name": "Haydos",
-          "score": 106
+          "score": 116
         },
         {
           "name": "Jon",
-          "score": 122
-        },
-        {
-          "name": "Kuba",
           "score": 126
         },
         {
+          "name": "Kuba",
+          "score": 122
+        },
+        {
           "name": "Luce",
-          "score": 128
+          "score": 132
         },
         {
           "name": "MarcinC",
@@ -16307,7 +15393,7 @@
         },
         {
           "name": "Martin L",
-          "score": 127
+          "score": 123
         },
         {
           "name": "Mikey",
@@ -16323,15 +15409,15 @@
         },
         {
           "name": "Tamara",
-          "score": 113
+          "score": 109
         },
         {
           "name": "Tom (9a0)",
-          "score": 108
+          "score": 112
         },
         {
           "name": "Tom (c66)",
-          "score": 100
+          "score": 104
         }
       ]
     }
@@ -16571,7 +15657,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -16582,7 +15668,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -17035,7 +16121,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -17046,7 +16132,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -17506,7 +16592,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -17517,7 +16603,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -17977,7 +17063,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -17988,7 +17074,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -18441,7 +17527,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -18452,7 +17538,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -18905,7 +17991,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -18915,9 +18001,9 @@
           "home_rating": 1884,
           "away": "USA",
           "away_rating": 1781,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 95,
@@ -18955,11 +18041,11 @@
         {
           "match_number": 98,
           "stage": "quarter",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": true,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -19033,23 +18119,23 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 137
+          "score": 141
         },
         {
           "name": "Albert",
-          "score": 109
+          "score": 113
         },
         {
           "name": "Antoni Brdarovski",
-          "score": 115
+          "score": 119
         },
         {
           "name": "BlueLaGoons",
-          "score": 115
+          "score": 119
         },
         {
           "name": "Claude (AI)",
-          "score": 122
+          "score": 126
         },
         {
           "name": "Damian",
@@ -19057,7 +18143,7 @@
         },
         {
           "name": "Dan",
-          "score": 112
+          "score": 116
         },
         {
           "name": "Dave L",
@@ -19069,15 +18155,15 @@
         },
         {
           "name": "Downsy",
-          "score": 112
+          "score": 108
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 150
+          "score": 146
         },
         {
           "name": "Estevao",
-          "score": 122
+          "score": 126
         },
         {
           "name": "Giuseppe",
@@ -19085,19 +18171,19 @@
         },
         {
           "name": "Haydos",
-          "score": 94
+          "score": 98
         },
         {
           "name": "Jon",
-          "score": 122
+          "score": 126
         },
         {
           "name": "Kuba",
-          "score": 132
+          "score": 128
         },
         {
           "name": "Luce",
-          "score": 120
+          "score": 124
         },
         {
           "name": "MarcinC",
@@ -19105,7 +18191,7 @@
         },
         {
           "name": "Martin L",
-          "score": 115
+          "score": 111
         },
         {
           "name": "Mikey",
@@ -19121,15 +18207,15 @@
         },
         {
           "name": "Tamara",
-          "score": 135
+          "score": 131
         },
         {
           "name": "Tom (9a0)",
-          "score": 108
+          "score": 112
         },
         {
           "name": "Tom (c66)",
-          "score": 124
+          "score": 128
         }
       ]
     }
@@ -19369,7 +18455,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -19380,7 +18466,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -19833,7 +18919,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -19844,7 +18930,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -20304,7 +19390,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -20314,9 +19400,9 @@
           "home_rating": 1884,
           "away": "USA",
           "away_rating": 1781,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 95,
@@ -20354,11 +19440,11 @@
         {
           "match_number": 98,
           "stage": "quarter",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": true,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -20432,23 +19518,23 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 137
+          "score": 141
         },
         {
           "name": "Albert",
-          "score": 109
+          "score": 113
         },
         {
           "name": "Antoni Brdarovski",
-          "score": 109
+          "score": 113
         },
         {
           "name": "BlueLaGoons",
-          "score": 119
+          "score": 123
         },
         {
           "name": "Claude (AI)",
-          "score": 116
+          "score": 120
         },
         {
           "name": "Damian",
@@ -20456,7 +19542,7 @@
         },
         {
           "name": "Dan",
-          "score": 106
+          "score": 110
         },
         {
           "name": "Dave L",
@@ -20468,15 +19554,15 @@
         },
         {
           "name": "Downsy",
-          "score": 112
+          "score": 108
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 148
+          "score": 144
         },
         {
           "name": "Estevao",
-          "score": 112
+          "score": 116
         },
         {
           "name": "Giuseppe",
@@ -20484,19 +19570,19 @@
         },
         {
           "name": "Haydos",
-          "score": 94
+          "score": 98
         },
         {
           "name": "Jon",
-          "score": 116
+          "score": 120
         },
         {
           "name": "Kuba",
-          "score": 126
+          "score": 122
         },
         {
           "name": "Luce",
-          "score": 114
+          "score": 118
         },
         {
           "name": "MarcinC",
@@ -20504,7 +19590,7 @@
         },
         {
           "name": "Martin L",
-          "score": 109
+          "score": 105
         },
         {
           "name": "Mikey",
@@ -20520,15 +19606,15 @@
         },
         {
           "name": "Tamara",
-          "score": 125
+          "score": 121
         },
         {
           "name": "Tom (9a0)",
-          "score": 108
+          "score": 112
         },
         {
           "name": "Tom (c66)",
-          "score": 114
+          "score": 118
         }
       ]
     }
@@ -20768,7 +19854,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -20778,9 +19864,9 @@
           "home_rating": 1884,
           "away": "USA",
           "away_rating": 1781,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 95,
@@ -20800,9 +19886,9 @@
           "home_rating": 2004,
           "away": "SUI",
           "away_rating": 1914,
-          "home_winner": false,
+          "home_winner": true,
           "known_result": false,
-          "upset": true
+          "upset": false
         },
         {
           "match_number": 97,
@@ -20818,11 +19904,11 @@
         {
           "match_number": 98,
           "stage": "quarter",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": true,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -20842,11 +19928,11 @@
           "stage": "quarter",
           "home": "ARG",
           "home_rating": 2148,
-          "away": "SUI",
-          "away_rating": 1914,
-          "home_winner": true,
+          "away": "COL",
+          "away_rating": 2004,
+          "home_winner": false,
           "known_result": false,
-          "upset": false
+          "upset": true
         },
         {
           "match_number": 101,
@@ -20862,24 +19948,24 @@
         {
           "match_number": 102,
           "stage": "semi",
-          "home": "ARG",
-          "home_rating": 2148,
+          "home": "COL",
+          "home_rating": 2004,
           "away": "ENG",
           "away_rating": 2038,
           "home_winner": false,
           "known_result": false,
-          "upset": true
+          "upset": false
         },
         {
           "match_number": 103,
           "stage": "third",
-          "home": "ARG",
-          "home_rating": 2148,
+          "home": "COL",
+          "home_rating": 2004,
           "away": "FRA",
           "away_rating": 2123,
           "home_winner": true,
           "known_result": false,
-          "upset": false
+          "upset": true
         },
         {
           "match_number": 104,
@@ -20896,15 +19982,15 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 139
+          "score": 141
         },
         {
           "name": "Albert",
-          "score": 111
+          "score": 113
         },
         {
           "name": "Antoni Brdarovski",
-          "score": 121
+          "score": 125
         },
         {
           "name": "BlueLaGoons",
@@ -20912,35 +19998,35 @@
         },
         {
           "name": "Claude (AI)",
-          "score": 128
+          "score": 126
         },
         {
           "name": "Damian",
-          "score": 100
+          "score": 98
         },
         {
           "name": "Dan",
-          "score": 132
+          "score": 130
         },
         {
           "name": "Dave L",
-          "score": 140
+          "score": 130
         },
         {
           "name": "Doug",
-          "score": 145
+          "score": 139
         },
         {
           "name": "Downsy",
-          "score": 102
+          "score": 108
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 146
+          "score": 140
         },
         {
           "name": "Estevao",
-          "score": 118
+          "score": 122
         },
         {
           "name": "Giuseppe",
@@ -20948,19 +20034,19 @@
         },
         {
           "name": "Haydos",
-          "score": 118
+          "score": 112
         },
         {
           "name": "Jon",
-          "score": 142
+          "score": 140
         },
         {
           "name": "Kuba",
-          "score": 146
+          "score": 142
         },
         {
           "name": "Luce",
-          "score": 132
+          "score": 130
         },
         {
           "name": "MarcinC",
@@ -20968,31 +20054,31 @@
         },
         {
           "name": "Martin L",
-          "score": 127
+          "score": 117
         },
         {
           "name": "Mikey",
-          "score": 140
+          "score": 130
         },
         {
           "name": "Sherram",
-          "score": 106
+          "score": 110
         },
         {
           "name": "Smith",
-          "score": 119
+          "score": 113
         },
         {
           "name": "Tamara",
-          "score": 137
+          "score": 127
         },
         {
           "name": "Tom (9a0)",
-          "score": 114
+          "score": 118
         },
         {
           "name": "Tom (c66)",
-          "score": 120
+          "score": 124
         }
       ]
     }
@@ -21232,7 +20318,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -21242,9 +20328,9 @@
           "home_rating": 1884,
           "away": "USA",
           "away_rating": 1781,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 95,
@@ -21282,11 +20368,11 @@
         {
           "match_number": 98,
           "stage": "quarter",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": true,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -21360,23 +20446,23 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 123
-        },
-        {
-          "name": "Albert",
-          "score": 115
-        },
-        {
-          "name": "Antoni Brdarovski",
-          "score": 129
-        },
-        {
-          "name": "BlueLaGoons",
           "score": 127
         },
         {
+          "name": "Albert",
+          "score": 119
+        },
+        {
+          "name": "Antoni Brdarovski",
+          "score": 133
+        },
+        {
+          "name": "BlueLaGoons",
+          "score": 131
+        },
+        {
           "name": "Claude (AI)",
-          "score": 140
+          "score": 144
         },
         {
           "name": "Damian",
@@ -21384,7 +20470,7 @@
         },
         {
           "name": "Dan",
-          "score": 140
+          "score": 144
         },
         {
           "name": "Dave L",
@@ -21396,15 +20482,15 @@
         },
         {
           "name": "Downsy",
-          "score": 110
+          "score": 106
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 130
+          "score": 126
         },
         {
           "name": "Estevao",
-          "score": 110
+          "score": 114
         },
         {
           "name": "Giuseppe",
@@ -21412,19 +20498,19 @@
         },
         {
           "name": "Haydos",
-          "score": 126
+          "score": 130
         },
         {
           "name": "Jon",
-          "score": 154
+          "score": 158
         },
         {
           "name": "Kuba",
-          "score": 170
+          "score": 166
         },
         {
           "name": "Luce",
-          "score": 144
+          "score": 148
         },
         {
           "name": "MarcinC",
@@ -21432,7 +20518,7 @@
         },
         {
           "name": "Martin L",
-          "score": 135
+          "score": 131
         },
         {
           "name": "Mikey",
@@ -21448,15 +20534,15 @@
         },
         {
           "name": "Tamara",
-          "score": 117
+          "score": 113
         },
         {
           "name": "Tom (9a0)",
-          "score": 118
+          "score": 122
         },
         {
           "name": "Tom (c66)",
-          "score": 112
+          "score": 116
         }
       ]
     }
@@ -21703,7 +20789,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -21714,7 +20800,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -22167,7 +21253,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -22178,7 +21264,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -22631,7 +21717,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -22642,7 +21728,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -23102,7 +22188,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -23112,9 +22198,9 @@
           "home_rating": 1884,
           "away": "USA",
           "away_rating": 1781,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 95,
@@ -23152,11 +22238,11 @@
         {
           "match_number": 98,
           "stage": "quarter",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": true,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -23230,23 +22316,23 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 137
+          "score": 141
         },
         {
           "name": "Albert",
-          "score": 109
+          "score": 113
         },
         {
           "name": "Antoni Brdarovski",
-          "score": 109
+          "score": 113
         },
         {
           "name": "BlueLaGoons",
-          "score": 119
+          "score": 123
         },
         {
           "name": "Claude (AI)",
-          "score": 116
+          "score": 120
         },
         {
           "name": "Damian",
@@ -23254,7 +22340,7 @@
         },
         {
           "name": "Dan",
-          "score": 106
+          "score": 110
         },
         {
           "name": "Dave L",
@@ -23266,15 +22352,15 @@
         },
         {
           "name": "Downsy",
-          "score": 112
+          "score": 108
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 148
+          "score": 144
         },
         {
           "name": "Estevao",
-          "score": 112
+          "score": 116
         },
         {
           "name": "Giuseppe",
@@ -23282,19 +22368,19 @@
         },
         {
           "name": "Haydos",
-          "score": 94
+          "score": 98
         },
         {
           "name": "Jon",
-          "score": 116
+          "score": 120
         },
         {
           "name": "Kuba",
-          "score": 126
+          "score": 122
         },
         {
           "name": "Luce",
-          "score": 114
+          "score": 118
         },
         {
           "name": "MarcinC",
@@ -23302,7 +22388,7 @@
         },
         {
           "name": "Martin L",
-          "score": 109
+          "score": 105
         },
         {
           "name": "Mikey",
@@ -23318,15 +22404,15 @@
         },
         {
           "name": "Tamara",
-          "score": 125
+          "score": 121
         },
         {
           "name": "Tom (9a0)",
-          "score": 108
+          "score": 112
         },
         {
           "name": "Tom (c66)",
-          "score": 114
+          "score": 118
         }
       ]
     }
@@ -23573,7 +22659,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -23584,7 +22670,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -24044,7 +23130,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -24055,7 +23141,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -24515,7 +23601,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -24525,9 +23611,9 @@
           "home_rating": 1884,
           "away": "USA",
           "away_rating": 1781,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 95,
@@ -24565,11 +23651,11 @@
         {
           "match_number": 98,
           "stage": "quarter",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": true,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -24643,23 +23729,23 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 131
+          "score": 135
         },
         {
           "name": "Albert",
-          "score": 123
+          "score": 127
         },
         {
           "name": "Antoni Brdarovski",
-          "score": 133
+          "score": 137
         },
         {
           "name": "BlueLaGoons",
-          "score": 107
+          "score": 111
         },
         {
           "name": "Claude (AI)",
-          "score": 156
+          "score": 160
         },
         {
           "name": "Damian",
@@ -24667,7 +23753,7 @@
         },
         {
           "name": "Dan",
-          "score": 144
+          "score": 148
         },
         {
           "name": "Dave L",
@@ -24679,15 +23765,15 @@
         },
         {
           "name": "Downsy",
-          "score": 106
+          "score": 102
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 138
+          "score": 134
         },
         {
           "name": "Estevao",
-          "score": 110
+          "score": 114
         },
         {
           "name": "Giuseppe",
@@ -24695,19 +23781,19 @@
         },
         {
           "name": "Haydos",
-          "score": 106
+          "score": 110
         },
         {
           "name": "Jon",
-          "score": 154
+          "score": 158
         },
         {
           "name": "Kuba",
-          "score": 146
+          "score": 142
         },
         {
           "name": "Luce",
-          "score": 160
+          "score": 164
         },
         {
           "name": "MarcinC",
@@ -24715,7 +23801,7 @@
         },
         {
           "name": "Martin L",
-          "score": 159
+          "score": 155
         },
         {
           "name": "Mikey",
@@ -24731,15 +23817,15 @@
         },
         {
           "name": "Tamara",
-          "score": 125
+          "score": 121
         },
         {
           "name": "Tom (9a0)",
-          "score": 114
+          "score": 118
         },
         {
           "name": "Tom (c66)",
-          "score": 112
+          "score": 116
         }
       ]
     }
@@ -24986,7 +24072,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -24997,7 +24083,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -25457,7 +24543,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -25468,7 +24554,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -25927,9 +25013,9 @@
           "home_rating": 2144,
           "away": "POR",
           "away_rating": 1990,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 94,
@@ -25939,7 +25025,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -25971,20 +25057,20 @@
           "home_rating": 2123,
           "away": "MAR",
           "away_rating": 1877,
-          "home_winner": false,
+          "home_winner": true,
           "known_result": false,
-          "upset": true
+          "upset": false
         },
         {
           "match_number": 98,
           "stage": "quarter",
           "home": "BEL",
           "home_rating": 1884,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": false,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": true,
           "known_result": false,
-          "upset": false
+          "upset": true
         },
         {
           "match_number": 99,
@@ -26011,10 +25097,10 @@
         {
           "match_number": 101,
           "stage": "semi",
-          "home": "MAR",
-          "home_rating": 1877,
-          "away": "POR",
-          "away_rating": 1990,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "FRA",
+          "away_rating": 2123,
           "home_winner": false,
           "known_result": false,
           "upset": false
@@ -26033,11 +25119,11 @@
         {
           "match_number": 103,
           "stage": "third",
-          "home": "COL",
-          "home_rating": 2004,
-          "away": "MAR",
-          "away_rating": 1877,
-          "home_winner": true,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "COL",
+          "away_rating": 2004,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -26046,9 +25132,9 @@
           "stage": "final",
           "home": "ENG",
           "home_rating": 2038,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": true,
+          "away": "FRA",
+          "away_rating": 2123,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         }
@@ -26056,11 +25142,11 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 111
+          "score": 115
         },
         {
           "name": "Albert",
-          "score": 109
+          "score": 119
         },
         {
           "name": "Antoni Brdarovski",
@@ -26068,35 +25154,35 @@
         },
         {
           "name": "BlueLaGoons",
-          "score": 121
+          "score": 119
         },
         {
           "name": "Claude (AI)",
-          "score": 114
+          "score": 140
         },
         {
           "name": "Damian",
-          "score": 88
+          "score": 92
         },
         {
           "name": "Dan",
-          "score": 118
+          "score": 144
         },
         {
           "name": "Dave L",
-          "score": 118
+          "score": 144
         },
         {
           "name": "Doug",
-          "score": 131
+          "score": 125
         },
         {
           "name": "Downsy",
-          "score": 98
+          "score": 102
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 104
+          "score": 114
         },
         {
           "name": "Estevao",
@@ -26104,55 +25190,55 @@
         },
         {
           "name": "Giuseppe",
-          "score": 135
+          "score": 155
         },
         {
           "name": "Haydos",
-          "score": 124
+          "score": 118
         },
         {
           "name": "Jon",
-          "score": 128
+          "score": 154
         },
         {
           "name": "Kuba",
-          "score": 148
+          "score": 144
         },
         {
           "name": "Luce",
-          "score": 118
+          "score": 144
         },
         {
           "name": "MarcinC",
-          "score": 135
+          "score": 117
         },
         {
           "name": "Martin L",
-          "score": 105
+          "score": 131
         },
         {
           "name": "Mikey",
-          "score": 98
+          "score": 104
         },
         {
           "name": "Sherram",
-          "score": 94
+          "score": 124
         },
         {
           "name": "Smith",
-          "score": 101
+          "score": 127
         },
         {
           "name": "Tamara",
-          "score": 95
+          "score": 101
         },
         {
           "name": "Tom (9a0)",
-          "score": 126
+          "score": 112
         },
         {
           "name": "Tom (c66)",
-          "score": 118
+          "score": 110
         }
       ]
     }
@@ -26399,7 +25485,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -26410,7 +25496,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -26633,464 +25719,7 @@
       "Sherram",
       "Loser"
     ],
-    "results": {
-      "matches": [
-        {
-          "match_number": 73,
-          "stage": "R32",
-          "home": "CAN",
-          "home_rating": 1764,
-          "away": "RSA",
-          "away_rating": 1559,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 74,
-          "stage": "R32",
-          "home": "GER",
-          "home_rating": 1916,
-          "away": "PAR",
-          "away_rating": 1815,
-          "home_winner": false,
-          "known_result": true,
-          "upset": true
-        },
-        {
-          "match_number": 75,
-          "stage": "R32",
-          "home": "MAR",
-          "home_rating": 1877,
-          "away": "NED",
-          "away_rating": 1980,
-          "home_winner": true,
-          "known_result": true,
-          "upset": true
-        },
-        {
-          "match_number": 76,
-          "stage": "R32",
-          "home": "BRA",
-          "home_rating": 2009,
-          "away": "JPN",
-          "away_rating": 1910,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 77,
-          "stage": "R32",
-          "home": "FRA",
-          "home_rating": 2123,
-          "away": "SWE",
-          "away_rating": 1742,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 78,
-          "stage": "R32",
-          "home": "CIV",
-          "home_rating": 1743,
-          "away": "NOR",
-          "away_rating": 1918,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 79,
-          "stage": "R32",
-          "home": "ECU",
-          "home_rating": 1902,
-          "away": "MEX",
-          "away_rating": 1912,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 80,
-          "stage": "R32",
-          "home": "COD",
-          "home_rating": 1712,
-          "away": "ENG",
-          "away_rating": 2038,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 81,
-          "stage": "R32",
-          "home": "BIH",
-          "home_rating": 1622,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 82,
-          "stage": "R32",
-          "home": "BEL",
-          "home_rating": 1884,
-          "away": "SEN",
-          "away_rating": 1842,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 83,
-          "stage": "R32",
-          "home": "CRO",
-          "home_rating": 1905,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 84,
-          "stage": "R32",
-          "home": "AUT",
-          "home_rating": 1836,
-          "away": "ESP",
-          "away_rating": 2144,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 85,
-          "stage": "R32",
-          "home": "ALG",
-          "home_rating": 1785,
-          "away": "SUI",
-          "away_rating": 1914,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 86,
-          "stage": "R32",
-          "home": "ARG",
-          "home_rating": 2148,
-          "away": "CPV",
-          "away_rating": 1622,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 87,
-          "stage": "R32",
-          "home": "COL",
-          "home_rating": 2004,
-          "away": "GHA",
-          "away_rating": 1575,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 88,
-          "stage": "R32",
-          "home": "AUS",
-          "home_rating": 1800,
-          "away": "EGY",
-          "away_rating": 1742,
-          "home_winner": false,
-          "known_result": true,
-          "upset": true
-        },
-        {
-          "match_number": 89,
-          "stage": "R16",
-          "home": "FRA",
-          "home_rating": 2123,
-          "away": "PAR",
-          "away_rating": 1815,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 90,
-          "stage": "R16",
-          "home": "CAN",
-          "home_rating": 1764,
-          "away": "MAR",
-          "away_rating": 1877,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 91,
-          "stage": "R16",
-          "home": "BRA",
-          "home_rating": 2009,
-          "away": "NOR",
-          "away_rating": 1918,
-          "home_winner": false,
-          "known_result": true,
-          "upset": true
-        },
-        {
-          "match_number": 92,
-          "stage": "R16",
-          "home": "ENG",
-          "home_rating": 2038,
-          "away": "MEX",
-          "away_rating": 1912,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 93,
-          "stage": "R16",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 94,
-          "stage": "R16",
-          "home": "BEL",
-          "home_rating": 1884,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
-        },
-        {
-          "match_number": 95,
-          "stage": "R16",
-          "home": "ARG",
-          "home_rating": 2148,
-          "away": "EGY",
-          "away_rating": 1742,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 96,
-          "stage": "R16",
-          "home": "COL",
-          "home_rating": 2004,
-          "away": "SUI",
-          "away_rating": 1914,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 97,
-          "stage": "quarter",
-          "home": "FRA",
-          "home_rating": 2123,
-          "away": "MAR",
-          "away_rating": 1877,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
-        },
-        {
-          "match_number": 98,
-          "stage": "quarter",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 99,
-          "stage": "quarter",
-          "home": "ENG",
-          "home_rating": 2038,
-          "away": "NOR",
-          "away_rating": 1918,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 100,
-          "stage": "quarter",
-          "home": "ARG",
-          "home_rating": 2148,
-          "away": "COL",
-          "away_rating": 2004,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 101,
-          "stage": "semi",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "MAR",
-          "away_rating": 1877,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 102,
-          "stage": "semi",
-          "home": "ARG",
-          "home_rating": 2148,
-          "away": "ENG",
-          "away_rating": 2038,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 103,
-          "stage": "third",
-          "home": "ENG",
-          "home_rating": 2038,
-          "away": "MAR",
-          "away_rating": 1877,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 104,
-          "stage": "final",
-          "home": "ARG",
-          "home_rating": 2148,
-          "away": "ESP",
-          "away_rating": 2144,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        }
-      ],
-      "players": [
-        {
-          "name": "Adam B",
-          "score": 139
-        },
-        {
-          "name": "Albert",
-          "score": 123
-        },
-        {
-          "name": "Antoni Brdarovski",
-          "score": 119
-        },
-        {
-          "name": "BlueLaGoons",
-          "score": 115
-        },
-        {
-          "name": "Claude (AI)",
-          "score": 130
-        },
-        {
-          "name": "Damian",
-          "score": 104
-        },
-        {
-          "name": "Dan",
-          "score": 118
-        },
-        {
-          "name": "Dave L",
-          "score": 122
-        },
-        {
-          "name": "Doug",
-          "score": 131
-        },
-        {
-          "name": "Downsy",
-          "score": 106
-        },
-        {
-          "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 140
-        },
-        {
-          "name": "Estevao",
-          "score": 112
-        },
-        {
-          "name": "Giuseppe",
-          "score": 127
-        },
-        {
-          "name": "Haydos",
-          "score": 106
-        },
-        {
-          "name": "Jon",
-          "score": 128
-        },
-        {
-          "name": "Kuba",
-          "score": 132
-        },
-        {
-          "name": "Luce",
-          "score": 134
-        },
-        {
-          "name": "MarcinC",
-          "score": 123
-        },
-        {
-          "name": "Martin L",
-          "score": 133
-        },
-        {
-          "name": "Mikey",
-          "score": 118
-        },
-        {
-          "name": "Sherram",
-          "score": 104
-        },
-        {
-          "name": "Smith",
-          "score": 121
-        },
-        {
-          "name": "Tamara",
-          "score": 127
-        },
-        {
-          "name": "Tom (9a0)",
-          "score": 114
-        },
-        {
-          "name": "Tom (c66)",
-          "score": 114
-        }
-      ]
-    }
+    "results": null
   },
   {
     "spec": [
@@ -27326,9 +25955,9 @@
           "home_rating": 2144,
           "away": "POR",
           "away_rating": 1990,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 94,
@@ -27338,7 +25967,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -27379,11 +26008,11 @@
           "stage": "quarter",
           "home": "BEL",
           "home_rating": 1884,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": false,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": true,
           "known_result": false,
-          "upset": false
+          "upset": true
         },
         {
           "match_number": 99,
@@ -27410,11 +26039,11 @@
         {
           "match_number": 101,
           "stage": "semi",
-          "home": "MAR",
-          "home_rating": 1877,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": false,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "MAR",
+          "away_rating": 1877,
+          "home_winner": true,
           "known_result": false,
           "upset": false
         },
@@ -27445,8 +26074,8 @@
           "stage": "final",
           "home": "ARG",
           "home_rating": 2148,
-          "away": "POR",
-          "away_rating": 1990,
+          "away": "BEL",
+          "away_rating": 1884,
           "home_winner": true,
           "known_result": false,
           "upset": false
@@ -27455,19 +26084,19 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 121
+          "score": 125
         },
         {
           "name": "Albert",
-          "score": 119
+          "score": 129
         },
         {
           "name": "Antoni Brdarovski",
-          "score": 131
+          "score": 117
         },
         {
           "name": "BlueLaGoons",
-          "score": 105
+          "score": 115
         },
         {
           "name": "Claude (AI)",
@@ -27475,7 +26104,7 @@
         },
         {
           "name": "Damian",
-          "score": 90
+          "score": 94
         },
         {
           "name": "Dan",
@@ -27491,23 +26120,23 @@
         },
         {
           "name": "Downsy",
-          "score": 88
+          "score": 92
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 114
+          "score": 118
         },
         {
           "name": "Estevao",
-          "score": 108
+          "score": 102
         },
         {
           "name": "Giuseppe",
-          "score": 127
+          "score": 121
         },
         {
           "name": "Haydos",
-          "score": 110
+          "score": 116
         },
         {
           "name": "Jon",
@@ -27515,7 +26144,7 @@
         },
         {
           "name": "Kuba",
-          "score": 128
+          "score": 122
         },
         {
           "name": "Luce",
@@ -27523,7 +26152,7 @@
         },
         {
           "name": "MarcinC",
-          "score": 115
+          "score": 109
         },
         {
           "name": "Martin L",
@@ -27535,7 +26164,7 @@
         },
         {
           "name": "Sherram",
-          "score": 90
+          "score": 94
         },
         {
           "name": "Smith",
@@ -27547,11 +26176,11 @@
         },
         {
           "name": "Tom (9a0)",
-          "score": 126
+          "score": 112
         },
         {
           "name": "Tom (c66)",
-          "score": 118
+          "score": 104
         }
       ]
     }
@@ -27798,7 +26427,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -27809,7 +26438,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -28269,7 +26898,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -28280,7 +26909,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -28740,7 +27369,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -28750,9 +27379,9 @@
           "home_rating": 1884,
           "away": "USA",
           "away_rating": 1781,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 95,
@@ -28790,11 +27419,11 @@
         {
           "match_number": 98,
           "stage": "quarter",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": true,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -28868,23 +27497,23 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 151
+          "score": 155
         },
         {
           "name": "Albert",
-          "score": 123
+          "score": 127
         },
         {
           "name": "Antoni Brdarovski",
-          "score": 121
+          "score": 125
         },
         {
           "name": "BlueLaGoons",
-          "score": 115
+          "score": 119
         },
         {
           "name": "Claude (AI)",
-          "score": 136
+          "score": 140
         },
         {
           "name": "Damian",
@@ -28892,7 +27521,7 @@
         },
         {
           "name": "Dan",
-          "score": 124
+          "score": 128
         },
         {
           "name": "Dave L",
@@ -28904,15 +27533,15 @@
         },
         {
           "name": "Downsy",
-          "score": 106
+          "score": 102
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 158
+          "score": 154
         },
         {
           "name": "Estevao",
-          "score": 122
+          "score": 126
         },
         {
           "name": "Giuseppe",
@@ -28920,19 +27549,19 @@
         },
         {
           "name": "Haydos",
-          "score": 106
+          "score": 110
         },
         {
           "name": "Jon",
-          "score": 134
-        },
-        {
-          "name": "Kuba",
           "score": 138
         },
         {
+          "name": "Kuba",
+          "score": 134
+        },
+        {
           "name": "Luce",
-          "score": 140
+          "score": 144
         },
         {
           "name": "MarcinC",
@@ -28940,7 +27569,7 @@
         },
         {
           "name": "Martin L",
-          "score": 135
+          "score": 131
         },
         {
           "name": "Mikey",
@@ -28956,15 +27585,15 @@
         },
         {
           "name": "Tamara",
-          "score": 149
+          "score": 145
         },
         {
           "name": "Tom (9a0)",
-          "score": 114
+          "score": 118
         },
         {
           "name": "Tom (c66)",
-          "score": 124
+          "score": 128
         }
       ]
     }
@@ -29204,7 +27833,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -29215,7 +27844,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -29667,9 +28296,9 @@
           "home_rating": 2144,
           "away": "POR",
           "away_rating": 1990,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 94,
@@ -29679,7 +28308,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -29711,20 +28340,20 @@
           "home_rating": 2123,
           "away": "MAR",
           "away_rating": 1877,
-          "home_winner": false,
+          "home_winner": true,
           "known_result": false,
-          "upset": true
+          "upset": false
         },
         {
           "match_number": 98,
           "stage": "quarter",
           "home": "BEL",
           "home_rating": 1884,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": false,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": true,
           "known_result": false,
-          "upset": false
+          "upset": true
         },
         {
           "match_number": 99,
@@ -29751,10 +28380,10 @@
         {
           "match_number": 101,
           "stage": "semi",
-          "home": "MAR",
-          "home_rating": 1877,
-          "away": "POR",
-          "away_rating": 1990,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "FRA",
+          "away_rating": 2123,
           "home_winner": false,
           "known_result": false,
           "upset": false
@@ -29773,11 +28402,11 @@
         {
           "match_number": 103,
           "stage": "third",
-          "home": "COL",
-          "home_rating": 2004,
-          "away": "MAR",
-          "away_rating": 1877,
-          "home_winner": true,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "COL",
+          "away_rating": 2004,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -29786,9 +28415,9 @@
           "stage": "final",
           "home": "ENG",
           "home_rating": 2038,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": true,
+          "away": "FRA",
+          "away_rating": 2123,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         }
@@ -29796,11 +28425,11 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 111
+          "score": 115
         },
         {
           "name": "Albert",
-          "score": 109
+          "score": 119
         },
         {
           "name": "Antoni Brdarovski",
@@ -29808,35 +28437,35 @@
         },
         {
           "name": "BlueLaGoons",
-          "score": 121
+          "score": 119
         },
         {
           "name": "Claude (AI)",
-          "score": 114
+          "score": 140
         },
         {
           "name": "Damian",
-          "score": 88
+          "score": 92
         },
         {
           "name": "Dan",
-          "score": 118
+          "score": 144
         },
         {
           "name": "Dave L",
-          "score": 118
+          "score": 144
         },
         {
           "name": "Doug",
-          "score": 131
+          "score": 125
         },
         {
           "name": "Downsy",
-          "score": 98
+          "score": 102
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 104
+          "score": 114
         },
         {
           "name": "Estevao",
@@ -29844,55 +28473,55 @@
         },
         {
           "name": "Giuseppe",
-          "score": 135
+          "score": 155
         },
         {
           "name": "Haydos",
-          "score": 124
+          "score": 118
         },
         {
           "name": "Jon",
-          "score": 128
+          "score": 154
         },
         {
           "name": "Kuba",
-          "score": 148
+          "score": 144
         },
         {
           "name": "Luce",
-          "score": 118
+          "score": 144
         },
         {
           "name": "MarcinC",
-          "score": 135
+          "score": 117
         },
         {
           "name": "Martin L",
-          "score": 105
+          "score": 131
         },
         {
           "name": "Mikey",
-          "score": 98
+          "score": 104
         },
         {
           "name": "Sherram",
-          "score": 94
+          "score": 124
         },
         {
           "name": "Smith",
-          "score": 101
+          "score": 127
         },
         {
           "name": "Tamara",
-          "score": 95
+          "score": 101
         },
         {
           "name": "Tom (9a0)",
-          "score": 126
+          "score": 112
         },
         {
           "name": "Tom (c66)",
-          "score": 118
+          "score": 110
         }
       ]
     }
@@ -30139,7 +28768,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -30150,7 +28779,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -30610,7 +29239,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -30620,9 +29249,9 @@
           "home_rating": 1884,
           "away": "USA",
           "away_rating": 1781,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 95,
@@ -30660,11 +29289,11 @@
         {
           "match_number": 98,
           "stage": "quarter",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": false,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": true,
           "known_result": false,
           "upset": true
         },
@@ -30693,11 +29322,11 @@
         {
           "match_number": 101,
           "stage": "semi",
-          "home": "FRA",
-          "home_rating": 2123,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": true,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "FRA",
+          "away_rating": 2123,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -30715,11 +29344,11 @@
         {
           "match_number": 103,
           "stage": "third",
-          "home": "NOR",
-          "home_rating": 1918,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": true,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "NOR",
+          "away_rating": 1918,
+          "home_winner": false,
           "known_result": false,
           "upset": false
         },
@@ -30738,23 +29367,23 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 125
+          "score": 129
         },
         {
           "name": "Albert",
-          "score": 123
+          "score": 133
         },
         {
           "name": "Antoni Brdarovski",
-          "score": 117
+          "score": 121
         },
         {
           "name": "BlueLaGoons",
-          "score": 105
+          "score": 115
         },
         {
           "name": "Claude (AI)",
-          "score": 138
+          "score": 142
         },
         {
           "name": "Damian",
@@ -30762,7 +29391,7 @@
         },
         {
           "name": "Dan",
-          "score": 120
+          "score": 124
         },
         {
           "name": "Dave L",
@@ -30774,15 +29403,15 @@
         },
         {
           "name": "Downsy",
-          "score": 100
+          "score": 96
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 142
+          "score": 138
         },
         {
           "name": "Estevao",
-          "score": 104
+          "score": 108
         },
         {
           "name": "Giuseppe",
@@ -30790,19 +29419,19 @@
         },
         {
           "name": "Haydos",
-          "score": 100
+          "score": 110
         },
         {
           "name": "Jon",
-          "score": 130
-        },
-        {
-          "name": "Kuba",
           "score": 134
         },
         {
+          "name": "Kuba",
+          "score": 130
+        },
+        {
           "name": "Luce",
-          "score": 136
+          "score": 140
         },
         {
           "name": "MarcinC",
@@ -30810,7 +29439,7 @@
         },
         {
           "name": "Martin L",
-          "score": 131
+          "score": 127
         },
         {
           "name": "Mikey",
@@ -30826,15 +29455,15 @@
         },
         {
           "name": "Tamara",
-          "score": 119
+          "score": 115
         },
         {
           "name": "Tom (9a0)",
-          "score": 102
+          "score": 106
         },
         {
           "name": "Tom (c66)",
-          "score": 106
+          "score": 110
         }
       ]
     }
@@ -30844,464 +29473,7 @@
       "Tom (c66)",
       "Winner"
     ],
-    "results": {
-      "matches": [
-        {
-          "match_number": 73,
-          "stage": "R32",
-          "home": "CAN",
-          "home_rating": 1764,
-          "away": "RSA",
-          "away_rating": 1559,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 74,
-          "stage": "R32",
-          "home": "GER",
-          "home_rating": 1916,
-          "away": "PAR",
-          "away_rating": 1815,
-          "home_winner": false,
-          "known_result": true,
-          "upset": true
-        },
-        {
-          "match_number": 75,
-          "stage": "R32",
-          "home": "MAR",
-          "home_rating": 1877,
-          "away": "NED",
-          "away_rating": 1980,
-          "home_winner": true,
-          "known_result": true,
-          "upset": true
-        },
-        {
-          "match_number": 76,
-          "stage": "R32",
-          "home": "BRA",
-          "home_rating": 2009,
-          "away": "JPN",
-          "away_rating": 1910,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 77,
-          "stage": "R32",
-          "home": "FRA",
-          "home_rating": 2123,
-          "away": "SWE",
-          "away_rating": 1742,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 78,
-          "stage": "R32",
-          "home": "CIV",
-          "home_rating": 1743,
-          "away": "NOR",
-          "away_rating": 1918,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 79,
-          "stage": "R32",
-          "home": "ECU",
-          "home_rating": 1902,
-          "away": "MEX",
-          "away_rating": 1912,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 80,
-          "stage": "R32",
-          "home": "COD",
-          "home_rating": 1712,
-          "away": "ENG",
-          "away_rating": 2038,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 81,
-          "stage": "R32",
-          "home": "BIH",
-          "home_rating": 1622,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 82,
-          "stage": "R32",
-          "home": "BEL",
-          "home_rating": 1884,
-          "away": "SEN",
-          "away_rating": 1842,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 83,
-          "stage": "R32",
-          "home": "CRO",
-          "home_rating": 1905,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 84,
-          "stage": "R32",
-          "home": "AUT",
-          "home_rating": 1836,
-          "away": "ESP",
-          "away_rating": 2144,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 85,
-          "stage": "R32",
-          "home": "ALG",
-          "home_rating": 1785,
-          "away": "SUI",
-          "away_rating": 1914,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 86,
-          "stage": "R32",
-          "home": "ARG",
-          "home_rating": 2148,
-          "away": "CPV",
-          "away_rating": 1622,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 87,
-          "stage": "R32",
-          "home": "COL",
-          "home_rating": 2004,
-          "away": "GHA",
-          "away_rating": 1575,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 88,
-          "stage": "R32",
-          "home": "AUS",
-          "home_rating": 1800,
-          "away": "EGY",
-          "away_rating": 1742,
-          "home_winner": false,
-          "known_result": true,
-          "upset": true
-        },
-        {
-          "match_number": 89,
-          "stage": "R16",
-          "home": "FRA",
-          "home_rating": 2123,
-          "away": "PAR",
-          "away_rating": 1815,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 90,
-          "stage": "R16",
-          "home": "CAN",
-          "home_rating": 1764,
-          "away": "MAR",
-          "away_rating": 1877,
-          "home_winner": false,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 91,
-          "stage": "R16",
-          "home": "BRA",
-          "home_rating": 2009,
-          "away": "NOR",
-          "away_rating": 1918,
-          "home_winner": false,
-          "known_result": true,
-          "upset": true
-        },
-        {
-          "match_number": 92,
-          "stage": "R16",
-          "home": "ENG",
-          "home_rating": 2038,
-          "away": "MEX",
-          "away_rating": 1912,
-          "home_winner": true,
-          "known_result": true,
-          "upset": false
-        },
-        {
-          "match_number": 93,
-          "stage": "R16",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
-        },
-        {
-          "match_number": 94,
-          "stage": "R16",
-          "home": "BEL",
-          "home_rating": 1884,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 95,
-          "stage": "R16",
-          "home": "ARG",
-          "home_rating": 2148,
-          "away": "EGY",
-          "away_rating": 1742,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 96,
-          "stage": "R16",
-          "home": "COL",
-          "home_rating": 2004,
-          "away": "SUI",
-          "away_rating": 1914,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 97,
-          "stage": "quarter",
-          "home": "FRA",
-          "home_rating": 2123,
-          "away": "MAR",
-          "away_rating": 1877,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 98,
-          "stage": "quarter",
-          "home": "BEL",
-          "home_rating": 1884,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": false,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 99,
-          "stage": "quarter",
-          "home": "ENG",
-          "home_rating": 2038,
-          "away": "NOR",
-          "away_rating": 1918,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
-        },
-        {
-          "match_number": 100,
-          "stage": "quarter",
-          "home": "ARG",
-          "home_rating": 2148,
-          "away": "COL",
-          "away_rating": 2004,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 101,
-          "stage": "semi",
-          "home": "FRA",
-          "home_rating": 2123,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
-        },
-        {
-          "match_number": 102,
-          "stage": "semi",
-          "home": "ARG",
-          "home_rating": 2148,
-          "away": "NOR",
-          "away_rating": 1918,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 103,
-          "stage": "third",
-          "home": "FRA",
-          "home_rating": 2123,
-          "away": "NOR",
-          "away_rating": 1918,
-          "home_winner": true,
-          "known_result": false,
-          "upset": false
-        },
-        {
-          "match_number": 104,
-          "stage": "final",
-          "home": "ARG",
-          "home_rating": 2148,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
-        }
-      ],
-      "players": [
-        {
-          "name": "Adam B",
-          "score": 125
-        },
-        {
-          "name": "Albert",
-          "score": 123
-        },
-        {
-          "name": "Antoni Brdarovski",
-          "score": 139
-        },
-        {
-          "name": "BlueLaGoons",
-          "score": 101
-        },
-        {
-          "name": "Claude (AI)",
-          "score": 134
-        },
-        {
-          "name": "Damian",
-          "score": 94
-        },
-        {
-          "name": "Dan",
-          "score": 116
-        },
-        {
-          "name": "Dave L",
-          "score": 116
-        },
-        {
-          "name": "Doug",
-          "score": 121
-        },
-        {
-          "name": "Downsy",
-          "score": 92
-        },
-        {
-          "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 130
-        },
-        {
-          "name": "Estevao",
-          "score": 118
-        },
-        {
-          "name": "Giuseppe",
-          "score": 127
-        },
-        {
-          "name": "Haydos",
-          "score": 104
-        },
-        {
-          "name": "Jon",
-          "score": 126
-        },
-        {
-          "name": "Kuba",
-          "score": 128
-        },
-        {
-          "name": "Luce",
-          "score": 132
-        },
-        {
-          "name": "MarcinC",
-          "score": 109
-        },
-        {
-          "name": "Martin L",
-          "score": 119
-        },
-        {
-          "name": "Mikey",
-          "score": 110
-        },
-        {
-          "name": "Sherram",
-          "score": 100
-        },
-        {
-          "name": "Smith",
-          "score": 121
-        },
-        {
-          "name": "Tamara",
-          "score": 119
-        },
-        {
-          "name": "Tom (9a0)",
-          "score": 120
-        },
-        {
-          "name": "Tom (c66)",
-          "score": 140
-        }
-      ]
-    }
+    "results": null
   },
   {
     "spec": [
@@ -31537,9 +29709,9 @@
           "home_rating": 2144,
           "away": "POR",
           "away_rating": 1990,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 94,
@@ -31549,7 +29721,7 @@
           "away": "USA",
           "away_rating": 1781,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -31590,8 +29762,8 @@
           "stage": "quarter",
           "home": "BEL",
           "home_rating": 1884,
-          "away": "POR",
-          "away_rating": 1990,
+          "away": "ESP",
+          "away_rating": 2144,
           "home_winner": false,
           "known_result": false,
           "upset": false
@@ -31621,13 +29793,13 @@
         {
           "match_number": 101,
           "stage": "semi",
-          "home": "FRA",
-          "home_rating": 2123,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": false,
+          "home": "ESP",
+          "home_rating": 2144,
+          "away": "FRA",
+          "away_rating": 2123,
+          "home_winner": true,
           "known_result": false,
-          "upset": true
+          "upset": false
         },
         {
           "match_number": 102,
@@ -31656,61 +29828,61 @@
           "stage": "final",
           "home": "ARG",
           "home_rating": 2148,
-          "away": "POR",
-          "away_rating": 1990,
-          "home_winner": false,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": true,
           "known_result": false,
-          "upset": true
+          "upset": false
         }
       ],
       "players": [
         {
           "name": "Adam B",
-          "score": 125
+          "score": 143
         },
         {
           "name": "Albert",
-          "score": 123
-        },
-        {
-          "name": "Antoni Brdarovski",
-          "score": 145
-        },
-        {
-          "name": "BlueLaGoons",
-          "score": 101
-        },
-        {
-          "name": "Claude (AI)",
-          "score": 134
-        },
-        {
-          "name": "Damian",
-          "score": 94
-        },
-        {
-          "name": "Dan",
-          "score": 122
-        },
-        {
-          "name": "Dave L",
-          "score": 122
-        },
-        {
-          "name": "Doug",
           "score": 127
         },
         {
+          "name": "Antoni Brdarovski",
+          "score": 125
+        },
+        {
+          "name": "BlueLaGoons",
+          "score": 119
+        },
+        {
+          "name": "Claude (AI)",
+          "score": 140
+        },
+        {
+          "name": "Damian",
+          "score": 104
+        },
+        {
+          "name": "Dan",
+          "score": 128
+        },
+        {
+          "name": "Dave L",
+          "score": 128
+        },
+        {
+          "name": "Doug",
+          "score": 141
+        },
+        {
           "name": "Downsy",
-          "score": 92
+          "score": 102
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 124
+          "score": 142
         },
         {
           "name": "Estevao",
-          "score": 118
+          "score": 126
         },
         {
           "name": "Giuseppe",
@@ -31722,7 +29894,7 @@
         },
         {
           "name": "Jon",
-          "score": 132
+          "score": 138
         },
         {
           "name": "Kuba",
@@ -31730,39 +29902,39 @@
         },
         {
           "name": "Luce",
-          "score": 138
+          "score": 144
         },
         {
           "name": "MarcinC",
-          "score": 115
+          "score": 123
         },
         {
           "name": "Martin L",
-          "score": 125
+          "score": 131
         },
         {
           "name": "Mikey",
-          "score": 110
+          "score": 124
         },
         {
           "name": "Sherram",
-          "score": 100
+          "score": 110
         },
         {
           "name": "Smith",
-          "score": 121
+          "score": 127
         },
         {
           "name": "Tamara",
-          "score": 119
+          "score": 133
         },
         {
           "name": "Tom (9a0)",
-          "score": 126
+          "score": 118
         },
         {
           "name": "Tom (c66)",
-          "score": 140
+          "score": 128
         }
       ]
     }
@@ -32009,7 +30181,7 @@
           "away": "POR",
           "away_rating": 1990,
           "home_winner": true,
-          "known_result": false,
+          "known_result": true,
           "upset": false
         },
         {
@@ -32019,9 +30191,9 @@
           "home_rating": 1884,
           "away": "USA",
           "away_rating": 1781,
-          "home_winner": false,
-          "known_result": false,
-          "upset": true
+          "home_winner": true,
+          "known_result": true,
+          "upset": false
         },
         {
           "match_number": 95,
@@ -32059,11 +30231,11 @@
         {
           "match_number": 98,
           "stage": "quarter",
-          "home": "ESP",
-          "home_rating": 2144,
-          "away": "USA",
-          "away_rating": 1781,
-          "home_winner": false,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "ESP",
+          "away_rating": 2144,
+          "home_winner": true,
           "known_result": false,
           "upset": true
         },
@@ -32092,10 +30264,10 @@
         {
           "match_number": 101,
           "stage": "semi",
-          "home": "MAR",
-          "home_rating": 1877,
-          "away": "USA",
-          "away_rating": 1781,
+          "home": "BEL",
+          "home_rating": 1884,
+          "away": "MAR",
+          "away_rating": 1877,
           "home_winner": true,
           "known_result": false,
           "upset": false
@@ -32116,8 +30288,8 @@
           "stage": "third",
           "home": "ENG",
           "home_rating": 2038,
-          "away": "USA",
-          "away_rating": 1781,
+          "away": "MAR",
+          "away_rating": 1877,
           "home_winner": true,
           "known_result": false,
           "upset": false
@@ -32127,8 +30299,8 @@
           "stage": "final",
           "home": "ARG",
           "home_rating": 2148,
-          "away": "MAR",
-          "away_rating": 1877,
+          "away": "BEL",
+          "away_rating": 1884,
           "home_winner": true,
           "known_result": false,
           "upset": false
@@ -32137,23 +30309,23 @@
       "players": [
         {
           "name": "Adam B",
-          "score": 125
+          "score": 129
         },
         {
           "name": "Albert",
-          "score": 123
+          "score": 133
         },
         {
           "name": "Antoni Brdarovski",
-          "score": 113
+          "score": 117
         },
         {
           "name": "BlueLaGoons",
-          "score": 101
+          "score": 111
         },
         {
           "name": "Claude (AI)",
-          "score": 124
+          "score": 128
         },
         {
           "name": "Damian",
@@ -32161,7 +30333,7 @@
         },
         {
           "name": "Dan",
-          "score": 112
+          "score": 116
         },
         {
           "name": "Dave L",
@@ -32173,15 +30345,15 @@
         },
         {
           "name": "Downsy",
-          "score": 100
+          "score": 96
         },
         {
           "name": "ESPN (Ryan O'Hanlon's tips)",
-          "score": 126
+          "score": 122
         },
         {
           "name": "Estevao",
-          "score": 98
+          "score": 102
         },
         {
           "name": "Giuseppe",
@@ -32189,19 +30361,19 @@
         },
         {
           "name": "Haydos",
-          "score": 106
+          "score": 116
         },
         {
           "name": "Jon",
-          "score": 122
-        },
-        {
-          "name": "Kuba",
           "score": 126
         },
         {
+          "name": "Kuba",
+          "score": 122
+        },
+        {
           "name": "Luce",
-          "score": 128
+          "score": 132
         },
         {
           "name": "MarcinC",
@@ -32209,7 +30381,7 @@
         },
         {
           "name": "Martin L",
-          "score": 127
+          "score": 123
         },
         {
           "name": "Mikey",
@@ -32225,15 +30397,15 @@
         },
         {
           "name": "Tamara",
-          "score": 113
+          "score": 109
         },
         {
           "name": "Tom (9a0)",
-          "score": 108
+          "score": 112
         },
         {
           "name": "Tom (c66)",
-          "score": 100
+          "score": 104
         }
       ]
     }
